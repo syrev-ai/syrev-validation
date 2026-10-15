@@ -1,5 +1,7 @@
 # SyRev validation: 310 public systematic review datasets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23399663.svg)](https://doi.org/10.5281/zenodo.23399663)
+
 This repository holds the per-review results, criteria and scripts behind the validation published at
 **https://syrev.ai/validation**. SyRev (https://syrev.ai) is a web app for AI-assisted title/abstract screening
 in systematic reviews. (SyRev is not Sysrev, which is a separate, unrelated product.)
@@ -85,3 +87,9 @@ Third-party datasets keep their own licences (table above).
 
 See `CITATION.cff`. Until the DOI is published, cite: SyRev Team (CERTAVI TECHNOLOGIES - FZCO). *SyRev validation on
 310 public systematic review datasets*, v1.0, 2026. https://syrev.ai/validation
+
+## Citation
+
+SyRev Team (2026). *SyRev title/abstract screening: validation on 310 public systematic-review datasets* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.23399663
+
+See also [CITATION.cff](CITATION.cff).
