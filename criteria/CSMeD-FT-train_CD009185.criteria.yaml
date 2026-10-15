@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD009185 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Procalcitonin, C‐reactive protein, and erythrocyte sedimentation rate for the diagnosis of acute pyelonephritis in children". Does this record meet the review''s eligible study design? Review criterion: We considered published studies that evaluated the results of an index test (procalcitonin, CRP, ESR) against the results of an acute‐phase DMSA scan only. Cross‐sectional, cohort and case‐control designs were all acceptable.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Procalcitonin, C‐reactive protein, and erythrocyte sedimentation rate for the diagnosis of acute pyelonephritis in children". Does this record study the review''s eligible participants/population? Review criterion: Studies including children from birth to 18 years of age with a culture‐confirmed episode of UTI were eligible for inclusion. UTI was defined as growth of one or two organisms at: ≥ 104 CFU/mL from a catheterized specimen, or ≥ 105 CFU/mL clean catch, midstream, or bag specimen, or any growth from a suprapubic specimen (Hoberman 1994). ≥ 104 CFU/mL from a catheterized specimen, or ≥ 105 CFU/mL clean catch, midstream, or bag specimen, or any growth from a suprapubic specimen (Hoberman 1994). Studies that did not meet these minimum, and rather permissive criteria, were excluded. Because specimens obtained using a perineal bag are often falsely positive, the effect of including studies in which some of the urine specimens were collected using a bag was explored. Because antibiotics can influence the levels of inflammatory markers, only studies in which blood (for ESR, CRP, or procalcitonin) was collected before administration of antibiotics were included.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Procalcitonin, C‐reactive protein, and erythrocyte sedimentation rate for the diagnosis of acute pyelonephritis in children". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Studies that examined the accuracy of procalcitonin, CRP, or ESR were considered.'
+  required: true

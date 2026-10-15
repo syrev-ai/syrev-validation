@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD002143 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Palliative radiotherapy regimens for patients with thoracic symptoms from non‐small cell lung cancer". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled clinical trials (RCTs), fully published in journals and those identified from other sources (abstracts and proceedings of relevant scientific meetings, and contact with investigators) for which full details were available from the investigators. An RCT is a study in which people are allocated at random (by chance alone) to receive one of several clinical interventions. One of these interventions is the standard of comparison or control.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Palliative radiotherapy regimens for patients with thoracic symptoms from non‐small cell lung cancer". Does this record study the review''s eligible participants/population? Review criterion: Patients with histologically or cytologically confirmed (or a high clinical likelihood of) lung cancer of non‐small cell type, locally advanced or metastatic and with thoracic symptoms.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Palliative radiotherapy regimens for patients with thoracic symptoms from non‐small cell lung cancer". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: External beam, megavoltage RT to the chest given with palliative intent (i.e. with the intent of controlling symptoms, not cure) with a total tumour dose of less than 60 Gy in 2 Gy fractions, or its radiobiological equivalent. The doses given and their prescription points must have been clearly defined. RT with endobronchial brachytherapy and combination treatment with RT and chemotherapy were not considered. Studies must have compared at least two RT dose/fractionation regimens. Studies comparing immediate versus delayed treatment were not considered.'
+  required: true

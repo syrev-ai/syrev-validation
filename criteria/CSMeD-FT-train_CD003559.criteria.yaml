@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD003559 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Omalizumab for asthma in adults and children". Does this record meet the review''s eligible study design? Review criterion: Only double‐blind randomised controlled trials (RCTs) were considered for inclusion. In view of the uncertain washout period for this form of treatment and our interest in inhaled steroid withdrawal and exacerbations, we elected to exclude cross‐over studies.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Omalizumab for asthma in adults and children". Does this record study the review''s eligible participants/population? Review criterion: Adults and children with chronic asthma from all referral sources. We included studies in which populations were receiving maintenance therapy and those in which anti‐IgE was administered without background therapy. These study populations were analysed separately. The definitions of chronic asthma varied; both doctor‐diagnosed cases and those identified with more objective criteria were considered. Distinctions were made among studies that differed in their definition, and when possible, subgroup analyses were performed on the basis of severity. We classified the studies according to the stepwise management plans recommended in CTS 2012, GiNA 2011 and BTS/SIGN 2012 guidelines.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Omalizumab for asthma in adults and children". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Anti‐IgE therapy at any dose or route versus placebo.'
+  required: true

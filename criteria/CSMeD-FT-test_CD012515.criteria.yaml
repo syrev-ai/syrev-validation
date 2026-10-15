@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT test metadata for CD012515 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Training health workers in clinical breast examination for early detection of breast cancer in low‐ and middle‐income countries". Does this record meet the review''s eligible study design? Review criterion: RCTs (including individual and cluster‐RCTs), quasi‐experimental studies and controlled before‐and‐after (CBA) studies.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Training health workers in clinical breast examination for early detection of breast cancer in low‐ and middle‐income countries". Does this record study the review''s eligible participants/population? Review criterion: We included training of any group of health workers (including lay and professional health workers) to perform CBE in community settings for women aged 18 years and older. Community settings included home visitations and visits to primary healthcare centres.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Training health workers in clinical breast examination for early detection of breast cancer in low‐ and middle‐income countries". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We considered any form of training provided to any group of health workers (lay or professional) to conduct CBE as an opportunistic or population‐based early detection tool for breast cancer in community settings in LMICs (as defined by World Bank 2021 classification). No training of health workers in CBE or use of any other mass screening or early detection tools for breast cancer (BSE, ultrasonography, mammography, or magnetic resonance imaging).'
+  required: true

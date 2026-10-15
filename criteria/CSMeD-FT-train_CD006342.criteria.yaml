@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD006342 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Beta‐adrenergic blockers for perioperative cardiac risk reduction in people undergoing vascular surgery". Does this record meet the review''s eligible study design? Review criterion: Prospective, randomised controlled trials of perioperative beta‐adrenergic blockade.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Beta‐adrenergic blockers for perioperative cardiac risk reduction in people undergoing vascular surgery". Does this record study the review''s eligible participants/population? Review criterion: Adults over 18 years of age undergoing non‐cardiac vascular surgery.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Beta‐adrenergic blockers for perioperative cardiac risk reduction in people undergoing vascular surgery". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Intervention: perioperative beta‐adrenergic blockers of any dose, titration, duration and mode of administration. Control: placebo or no treatment. Intervention: perioperative beta‐adrenergic blockers of any dose, titration, duration and mode of administration. Control: placebo or no treatment.'
+  required: true

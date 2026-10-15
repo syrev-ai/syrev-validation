@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007037 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Beta‐blockers for congestive heart failure in children". Does this record meet the review''s eligible study design? Review criterion: All randomised, controlled, clinical trials investigating the effects of beta‐blocker therapy on paediatric participants with congestive heart failure.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Beta‐blockers for congestive heart failure in children". Does this record study the review''s eligible participants/population? Review criterion: The participants of the included studies were children suffering from congestive heart failure (infants and toddlers, aged 28 days to 23 months), according to the classification system of the European Medicines Agency, and children up to 18 years of age (EMEA 2001). Studies specifically investigating neonates or preterm infants, i.e. infants younger than 28 days, were not included (EMEA 2001).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Beta‐blockers for congestive heart failure in children". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included studies investigating any kind of beta‐blocker, as either monotherapy, or in combination with other medication. Control groups received placebo or standard therapy for heart failure (i.e. diuretics, digoxin, ACE inhibitors). We did not apply any restrictions to dose or route of application.'
+  required: true

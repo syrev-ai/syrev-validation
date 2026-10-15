@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD006962 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Ultrasound guidance versus anatomical landmarks for internal jugular vein catheterization". Does this record meet the review''s eligible study design? Review criterion: We considered randomized controlled trials (RCTs) in all languages eligible for inclusion in the review, with an RCT defined as a study in which participants were allocated to treatment groups on the basis of a random or quasi‐random method (e.g. using random number tables, hospital number, date of birth). We also included controlled clinical trials (CCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Ultrasound guidance versus anatomical landmarks for internal jugular vein catheterization". Does this record study the review''s eligible participants/population? Review criterion: We included all patients (children and adults) who required insertion of a central venous catheter via the internal jugular vein. We applied no restrictions with respect to specific population characteristics (e.g. age; gender; race; presence of a particular condition, for example, risk factors), study settings (intensive care unit (ICU); operation room; participant awake or anaesthetized/with anaesthesia) or practitioners'' experience.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Ultrasound guidance versus anatomical landmarks for internal jugular vein catheterization". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included all studies in which conventional techniques oriented to anatomical landmarks (LMs) for puncture of the internal jugular vein (control intervention) were compared with techniques by which punctures were performed with the help of imaging (US) or Doppler (USD) ultrasonographic devices (experimental intervention). We included all studies, irrespective of whether the puncture was performed directly (using sonographic control) or indirectly (looking for the vessel by means of ultrasound and marking the puncture site on the skin; following puncture performed without sonographic guidance).'
+  required: true

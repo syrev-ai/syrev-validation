@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD009634 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Intranasal or transdermal nicotine for the treatment of postoperative pain". Does this record meet the review''s eligible study design? Review criterion: We included randomized, placebo‐controlled clinical trials that evaluated the effect of perioperative (pre‐, intra‐, or postoperative) administration of intranasal or transdermal nicotine on postoperative pain or opioid analgesic use. We excluded all other studies.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Intranasal or transdermal nicotine for the treatment of postoperative pain". Does this record study the review''s eligible participants/population? Review criterion: We included participants undergoing any minor or major, elective inpatient or outpatient surgery that had been randomized to receive either nicotine or placebo for postsurgical pain. We included smoking or non‐smoking men and women of all ages, as well as children.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Intranasal or transdermal nicotine for the treatment of postoperative pain". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Interventions of interest included placement of a transdermal nicotine patch or use of intranasal nicotine spray for postoperative pain control one or more times before, during, or after surgery. Nicotine was included if administered either solely or as an adjuvant to other pain treatments, and whether nicotine was given pre‐, intra‐, or postoperatively. Comparison groups received a placebo.'
+  required: true

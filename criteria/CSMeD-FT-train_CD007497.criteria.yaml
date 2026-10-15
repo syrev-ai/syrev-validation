@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007497 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Low dose versus high dose stavudine for treating people with HIV infection". Does this record meet the review''s eligible study design? Review criterion: Randomised, controlled blinded and non‐blinded clinical trials'
+  required: true
+- id: population
+  question: 'Cochrane review: "Low dose versus high dose stavudine for treating people with HIV infection". Does this record study the review''s eligible participants/population? Review criterion: HIV infected adults treated with combination ART'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Low dose versus high dose stavudine for treating people with HIV infection". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Low dose stavudine versus high dose stavudine Low dose stavudine is described as the stavudine dosage of 30 mg BD or less for patients with a body weight of 60 kg or more and less than 30 mg BD for patients with a body weight of less than 60 kg High dose stavudine is described as the standard dosage of 40 mg BD or greater for patients with a body weight of 60 kg or more and 30 mg BD dosage for those with a body weight of less than 60 kg'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007356 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Rituximab for rheumatoid arthritis". Does this record meet the review''s eligible study design? Review criterion: All randomised controlled trials (RCTs) or controlled clinical trials (CCTs) comparing rituximab in combination with any DMARD or rituximab alone versus placebo, other DMARDs, or any biologic agent for a minimum trial duration of four months. RCTs with patients on concomitant therapy including stable doses of corticosteroids or non‐steroidal anti‐inflammatory drugs were accepted.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Rituximab for rheumatoid arthritis". Does this record study the review''s eligible participants/population? Review criterion: Patients at least 18 years of age meeting the American College of Rheumatology (ACR) 1987 revised criteria (Arnett 1988) for RA and active disease as described by authors in relation to the outcome measures.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Rituximab for rheumatoid arthritis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Studies reporting on the efficacy or safety of rituximab as monotherapy or in combination with any DMARDs (traditional or biologic) versus placebo or other DMARDs (traditional or biologic) were eligible for inclusion. We have prioritised reporting of rituximab (two 1000 mg doses) in combination with methotrexate since this is the most commonly use combination and approved dose. We also reported additional data in the results section of the review as supplementary information on: (i) rituximab monotherapy versus methotrexate monotherapy, (ii) rituximab (two 500 mg doses) in combination with methotrexate versus methotrexate, (iii) rituximab (two 1000 mg doses) in combination with cyclophosphamide versus rituximab monotherapy, and (iv) rituximab in combination with methotrexate and a tumour necrosis factor (TNF) inhibitor versus methotrexate in combination with a TNF inhibitor.'
+  required: true

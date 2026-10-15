@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD005059 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Epidural pain relief versus systemic opioid‐based pain relief for abdominal aortic surgery". Does this record meet the review''s eligible study design? Review criterion: We included all randomized controlled trials (RCTs) comparing postoperative epidural analgesia and postoperative systemic opioid‐based analgesia for abdominal aortic surgery and assessing at least one of the outcomes of interest (see Types of outcome measures). We excluded from the analysis studies that did not include any outcome of interest. We excluded all quasi‐randomized trials including one quasi‐randomized trial that was included in the previous version of this review (Lombardo 2009). We applied no language or publication status restrictions.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Epidural pain relief versus systemic opioid‐based pain relief for abdominal aortic surgery". Does this record study the review''s eligible participants/population? Review criterion: We included adults (aged 18 years and older) who had elective, open abdominal aortic surgery, either suprarenal or infrarenal. We excluded people who had emergency surgery.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Epidural pain relief versus systemic opioid‐based pain relief for abdominal aortic surgery". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included intraoperative or postoperative (or both) epidural anaesthesia or analgesia added to general anaesthesia (either lumbar or thoracic) compared to general anaesthesia alone. We included all combinations of drugs and all start times (pre‐ or postoperatively). We imposed no restriction regarding the mode of analgesia used in the control group and included systemic opioid‐based pain relief with opioid drugs given by the following routes: intravenous, intramuscular, or subcutaneous. For both groups, bolus dosing, infusion, or patient‐controlled analgesia (PCA) devices were eligible for inclusion.'
+  required: true

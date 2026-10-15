@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD004376 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Exercise for osteoarthritis of the knee". Does this record meet the review''s eligible study design? Review criterion: Randomised or quasi‐randomised controlled trials, published in the English language, comparing groups given some form of land‐based therapeutic exercise versus a non‐exercise group.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Exercise for osteoarthritis of the knee". Does this record study the review''s eligible participants/population? Review criterion: Male and female adults given an established diagnosis of knee OA according to accepted criteria (Altman 1991), or who self‐reported knee OA on the basis of chronic joint pain (with or without radiographic confirmation).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Exercise for osteoarthritis of the knee". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any land‐based non‐perioperative therapeutic exercise regimens aimed at relieving the symptoms of OA, regardless of content, duration, frequency or intensity. The comparator (control) group could be an active (given any non‐exercise intervention) or no treatment (including waiting list) group.'
+  required: true

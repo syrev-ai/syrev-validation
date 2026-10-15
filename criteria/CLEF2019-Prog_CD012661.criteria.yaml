@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd012661.pub2 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Development of type 2 diabetes mellitus in people with intermediate hyperglycaemia". Selection criteria: We included prospective cohort studies investigating the development of T2DM in people with IH. We used standard definitions of IH as described by the ADA or World Health Organization (WHO). We excluded intervention trials and studies on cohorts with additional comorbidities at baseline, studies with missing data on the transition from IH to T2DM, and studies where T2DM incidence was evaluated by documents or self-report only. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Development of type 2 diabetes mellitus in people with intermediate hyperglycaemia". Selection criteria: We included prospective cohort studies investigating the development of T2DM in people with IH. We used standard definitions of IH as described by the ADA or World Health Organization (WHO). We excluded intervention trials and studies on cohorts with additional comorbidities at baseline, studies with missing data on the transition from IH to T2DM, and studies where T2DM incidence was evaluated by documents or self-report only. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Development of type 2 diabetes mellitus in people with intermediate hyperglycaemia". Selection criteria: We included prospective cohort studies investigating the development of T2DM in people with IH. We used standard definitions of IH as described by the ADA or World Health Organization (WHO). We excluded intervention trials and studies on cohorts with additional comorbidities at baseline, studies with missing data on the transition from IH to T2DM, and studies where T2DM incidence was evaluated by documents or self-report only. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

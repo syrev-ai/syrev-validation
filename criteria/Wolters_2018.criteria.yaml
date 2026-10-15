@@ -1,0 +1,17 @@
+# Wolters 2018 — coronary heart disease, heart failure, and risk of dementia.
+criteria:
+  - id: design
+    question: "Is this a cohort or longitudinal study (including studies using routinely collected health-care data such as registries or insurance databases)?"
+    required: true
+  - id: exposure
+    question: "Does the study examine coronary heart disease (myocardial infarction with or without angina or coronary revascularization) and/or congestive heart failure as the exposure/determinant?"
+    required: true
+  - id: outcome
+    question: "Does the study report incident dementia diagnosis as an outcome (all-cause dementia and/or Alzheimer's disease)?"
+    required: true
+  - id: human_clinical
+    question: "Is this a human clinical/epidemiological study rather than an animal, in-vitro, case report, or editorial?"
+    required: true
+  - id: incident
+    question: "Does the study assess risk of incident (new-onset) dementia rather than only cross-sectional prevalence without longitudinal follow-up?"
+    required: true

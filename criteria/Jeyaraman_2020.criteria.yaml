@@ -1,0 +1,18 @@
+# Jeyaraman 2020 — mesenchymal stem cells for knee osteoarthritis (BM-MSC vs AD-MSC).
+# Encoded for abstract-level screening; comparator includes other MSC sources / placebo / usual care.
+criteria:
+  - id: population
+    question: "Does the study involve patients with osteoarthritis of the knee (knee OA / gonarthrosis), or knee cartilage degeneration treated clinically?"
+    required: true
+  - id: intervention
+    question: "Does the study evaluate mesenchymal stem cell (MSC), mesenchymal stromal cell, or related stem-cell / stromal-cell therapy (bone-marrow-derived, adipose-derived, or similar) for the knee?"
+    required: true
+  - id: controlled
+    question: "Is this a controlled clinical study with a comparison arm (another MSC source, placebo, hyaluronic acid, usual care, or other active control) rather than an uncontrolled case series?"
+    required: true
+  - id: design
+    question: "Is this a human randomized or controlled clinical trial rather than an animal study, in-vitro study, narrative review, or editorial?"
+    required: true
+  - id: clinical_outcomes
+    question: "Does the study report patient clinical outcomes (pain, function, WOMAC, VAS, KOOS, Lysholm, imaging scores, and/or adverse events) rather than only laboratory assays without clinical endpoints?"
+    required: true

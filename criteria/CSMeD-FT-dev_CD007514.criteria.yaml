@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD007514 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Statins for the treatment of dementia". Does this record meet the review''s eligible study design? Review criterion: Randomised, double‐blind, placebo‐controlled trials in which a statin was given for at least six months. We chose six months as we considered this to be the minimum length of time required to be on treatment to allow a disease‐modifying effect and before any cognitive benefit could be attained. We excluded trials comparing two different statins without a placebo.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Statins for the treatment of dementia". Does this record study the review''s eligible participants/population? Review criterion: Patients with a diagnosis of probable or possible AD according to National Institute of Neurological and Communicative Disorders and Stroke ‐ the Alzheimer''s Disease and Related Disorders Association (NINCDS‐ADRDA) criteria or acceptable equivalent. Patients with a diagnosis of probable or possible VaD according to National Institute of Neurological Disorders and Stroke/Association International pour le Recherché at l''Enseignement en Neurosciences (NINDS/AIREN) criteria or acceptable equivalent. We included trials with Diagnostic and Statistical Manual (DSM) III, IIIR or IV dementia, but analysed these separately from those with causal diagnoses for dementia.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Statins for the treatment of dementia". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any type of statin (hydrophilic and lipophilic) given in appropriate dose compared with placebo.'
+  required: true

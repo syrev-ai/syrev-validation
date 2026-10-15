@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD009400 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Helminth therapy (worms) for induction of remission in inflammatory bowel disease". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials using adequate or quasi methods of randomisation were considered for inclusion. Single‐blind, double‐blind, triple‐blind or open label studies were all eligible for inclusion.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Helminth therapy (worms) for induction of remission in inflammatory bowel disease". Does this record study the review''s eligible participants/population? Review criterion: Participants included patients with active UC or CD, confirmed by a combination of clinical, endoscopic and histological criteria.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Helminth therapy (worms) for induction of remission in inflammatory bowel disease". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We considered studies for inclusion where human participants were exposed to a helminth species or combination of species: at any developmental stage of the parasite (eggs, cysts, larvae, cercariae, adult worms); in any dose; by any route (oral, percutaneous, other); and for any duration of exposure (hours, days, weeks, months). at any developmental stage of the parasite (eggs, cysts, larvae, cercariae, adult worms); in any dose; by any route (oral, percutaneous, other); and for any duration of exposure (hours, days, weeks, months). We considered studies where the intervention was exposure to a helminth species or combination of species not normally found in humans. The control group received placebo (i.e. sham helminth exposure), no treatment or any other active intervention. Helminth‐derived molecular products were outside the scope of this review and were not included.'
+  required: true

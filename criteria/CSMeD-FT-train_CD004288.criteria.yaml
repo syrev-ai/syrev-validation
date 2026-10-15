@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD004288 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Surgical hand antisepsis to reduce surgical site infection". Does this record meet the review''s eligible study design? Review criterion: All published and unpublished randomised controlled trials (RCTs) of surgical hand antiseptic techniques were included. Controlled clinical trials were to be considered in the absence of RCTs. Two possible units of randomisation were considered: the scrub team or individual members of the scrub team.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Surgical hand antisepsis to reduce surgical site infection". Does this record study the review''s eligible participants/population? Review criterion: All members of the scrub team or personnel working within the operating theatre or day case setting. The SSI outcome is measured in participants who have undergone surgery.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Surgical hand antisepsis to reduce surgical site infection". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: This review included comparisons of the following with each other and/or placebo and/or no antisepsis: Surgical hand antisepsis; Aqueous scrub solutions. Alcohol rubs. Alcohol rubs containing additional active ingredients. Surgical hand antisepsis of different durations. Surgical hand antisepsis using different equipment (e.g. brush, sponge, nail pick). Surgical hand antisepsis; Aqueous scrub solutions. Alcohol rubs. Alcohol rubs containing additional active ingredients. Surgical hand antisepsis of different durations. Surgical hand antisepsis using different equipment (e.g. brush, sponge, nail pick).'
+  required: true

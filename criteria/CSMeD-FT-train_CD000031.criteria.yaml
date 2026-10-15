@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD000031 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Antidepressants for smoking cessation". Does this record meet the review''s eligible study design? Review criterion: We included randomised controlled trials (RCTs) and cluster‐RCTs. We did not include cross‐over studies as this type of randomised study does not allow assessment of the medium‐ to long‐term effects of smoking cessation medications on abstinence.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Antidepressants for smoking cessation". Does this record study the review''s eligible participants/population? Review criterion: We included people of any age who smoked tobacco, with or without a history of mental illness. We did not include pregnant women, as this specific subpopulation is covered in a separate Cochrane Review (Claire 2020).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Antidepressants for smoking cessation". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included trials studying pharmacotherapies with antidepressant properties for smoking cessation. We included trials assessing different doses, durations, and schedules of antidepressants. We excluded trials where an additional, uncontrolled, non‐antidepressant intervention component was used in only one of the trial arms. This is because the confounding effects of this intervention would have made it difficult to determine whether any change in outcome was related to the antidepressant or the confounding intervention component. Additionally, we excluded trials investigating antidepressant use for smoking harm reduction or relapse prevention, as they are covered elsewhere (Lindson‐Hawley 2016 and Livingstone‐Banks 2019, respectively). The following comparators were eligible for assessing harms, efficacy, and tolerability: placebo, no pharmacological treatment, alternative therapeutic control, or different dosages/treatment regimes of the same antidepressant.'
+  required: true

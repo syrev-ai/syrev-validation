@@ -1,0 +1,65 @@
+[
+ {
+  "pool_n": 7700,
+  "pool_includes": 111,
+  "sampled_includes": 111,
+  "sampled_excludes": 1389,
+  "pubmed_missing": 0,
+  "group": "CSMeD SWIFT (Howard 2016)",
+  "stem": "SWIFT_BPA",
+  "review_id": "BPA",
+  "n": 1500,
+  "includes": 111,
+  "empty_text": 0
+ },
+ {
+  "pool_n": 6331,
+  "pool_includes": 95,
+  "sampled_includes": 95,
+  "sampled_excludes": 1405,
+  "pubmed_missing": 3,
+  "group": "CSMeD SWIFT (Howard 2016)",
+  "stem": "SWIFT_PFOS-PFOA",
+  "review_id": "PFOS-PFOA",
+  "n": 1500,
+  "includes": 95,
+  "empty_text": 3
+ },
+ {
+  "pool_n": 48638,
+  "pool_includes": 765,
+  "sampled_includes": 300,
+  "sampled_excludes": 1200,
+  "pubmed_missing": 0,
+  "group": "CSMeD SWIFT (Howard 2016)",
+  "stem": "SWIFT_Transgenerational",
+  "review_id": "Transgenerational",
+  "n": 1500,
+  "includes": 300,
+  "empty_text": 0
+ },
+ {
+  "pool_n": 4477,
+  "pool_includes": 51,
+  "sampled_includes": 51,
+  "sampled_excludes": 1449,
+  "group": "CSMeD SWIFT (Howard 2016)",
+  "stem": "SWIFT_Fluoride",
+  "review_id": "Fluoride",
+  "n": 1500,
+  "includes": 51,
+  "empty_text": 0
+ },
+ {
+  "pool_n": 29207,
+  "pool_includes": 5011,
+  "sampled_includes": 300,
+  "sampled_excludes": 1200,
+  "group": "CSMeD SWIFT (Howard 2016)",
+  "stem": "SWIFT_Neuropain",
+  "review_id": "Neuropain",
+  "n": 1500,
+  "includes": 300,
+  "empty_text": 0
+ }
+]

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD002201 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Omega‐3 fatty acid supplementation for cystic fibrosis". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs), quasi‐randomised trials, and cross‐over trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Omega‐3 fatty acid supplementation for cystic fibrosis". Does this record study the review''s eligible participants/population? Review criterion: People with CF, of any age and severity, diagnosed clinically and by sweat or genetic testing.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Omega‐3 fatty acid supplementation for cystic fibrosis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Dietary supplementation of omega‐3 essential fatty acids of any dosage, frequency and duration compared with placebo in people with CF. The supplements contain omega‐3 fatty acids in the form of eicosapentaenoic acid (EPA) or docosahexaenoic acid (DHA), or both. Studies were included if they compared the effect of this intervention with a placebo with low omega‐3 or omega‐6 fatty acid content, such as olive oil.'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd011926.pub2 (2017) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Molecular assays for the diagnosis of sepsis in neonates". Selection criteria: We included studies that were prospective or retrospective, cohort or cross-sectional design, which evaluated molecular assays (index test) in neonates with suspected sepsis (participants) in comparison with microbial cultures (reference standard). Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Molecular assays for the diagnosis of sepsis in neonates". Selection criteria: We included studies that were prospective or retrospective, cohort or cross-sectional design, which evaluated molecular assays (index test) in neonates with suspected sepsis (participants) in comparison with microbial cultures (reference standard). Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Molecular assays for the diagnosis of sepsis in neonates". Selection criteria: We included studies that were prospective or retrospective, cohort or cross-sectional design, which evaluated molecular assays (index test) in neonates with suspected sepsis (participants) in comparison with microbial cultures (reference standard). Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

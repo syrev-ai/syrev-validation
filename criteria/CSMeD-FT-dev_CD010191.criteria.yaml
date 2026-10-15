@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD010191 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Pre‐hospital versus in‐hospital thrombolysis for ST‐elevation myocardial infarction". Does this record meet the review''s eligible study design? Review criterion: RCTs excluding cross‐over trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Pre‐hospital versus in‐hospital thrombolysis for ST‐elevation myocardial infarction". Does this record study the review''s eligible participants/population? Review criterion: Adults (16 years and older) with STEMI diagnosed by a medical healthcare provider in either the pre‐hospital or in‐hospital setting. Diagnosis of STEMI will be defined according to the included studies'' criteria for STEMI but should include at least two of the following three positive indicators: the individual''s history and symptoms, electrocardiogram (ECG) findings and biochemical cardiac markers (cardiac makers are not mandatory for diagnosis, but may be used in certain pre‐hospital settings).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Pre‐hospital versus in‐hospital thrombolysis for ST‐elevation myocardial infarction". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any thrombolytic agent used to treat STEMI in pre‐hospital and in‐hospital settings.'
+  required: true

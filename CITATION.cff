@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these results or scripts, please cite them as below."
+title: "SyRev validation on 310 public systematic review datasets"
+version: "1.0"
+date-released: 2026-10-15
+authors:
+  - name: "SyRev Team"
+    affiliation: "CERTAVI TECHNOLOGIES - FZCO"
+license: [MIT, CC-BY-4.0]
+url: "https://syrev.ai/validation"
+# DOI reserved on Zenodo, pending publication. Uncomment once the record is published.
+# doi: 10.5281/zenodo.23399663
+keywords:
+  - systematic review
+  - title and abstract screening
+  - screening automation
+  - recall
+  - WSS@95
+  - PRISMA 2020
+  - evidence synthesis

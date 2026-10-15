@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD003160 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Statins for the prevention of dementia". Does this record meet the review''s eligible study design? Review criterion: Randomised, double‐blind, placebo‐controlled trials in which a statin was given for at least 12 months. We considered it unlikely that any preventive effect on dementia incidence could be detected in trials with shorter treatment periods. We excluded trials comparing two different statins without a placebo.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Statins for the prevention of dementia". Does this record study the review''s eligible participants/population? Review criterion: People with objectively normal cognitive function and of sufficient age to be at risk of AD (mean age 65 years or over). We also included people with evidence of cerebrovascular disease or at high risk of cerebrovascular disease.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Statins for the prevention of dementia". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any member of the statin family given within the licensed dose range with parallel concomitant placebo.'
+  required: true

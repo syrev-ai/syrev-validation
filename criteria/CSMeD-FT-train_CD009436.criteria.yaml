@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD009436 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Complementary therapies for acne vulgaris". Does this record meet the review''s eligible study design? Review criterion: We included parallel‐group randomised controlled trials (RCT) and only the first phase data of randomised cross‐over trials in any data analysis.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Complementary therapies for acne vulgaris". Does this record study the review''s eligible participants/population? Review criterion: We assessed participants of any age and gender with a diagnosis of acne vulgaris or papulopustular, inflammatory, juvenile, or polymorphic acne.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Complementary therapies for acne vulgaris". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Eligible interventions included any kind of complementary and alternative medicine, including diet and nutrition; mind‐body interventions; bioelectromagnetics; traditional and folk remedies; biological treatments; manual healing methods; and herbal medicine, compared with no treatment; placebo; or other active therapies. Comparisons included a combination of CAM plus other therapies versus other active therapies alone.'
+  required: true

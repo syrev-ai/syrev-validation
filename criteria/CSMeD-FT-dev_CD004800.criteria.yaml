@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD004800 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Sulfasalazine for ankylosing spondylitis". Does this record meet the review''s eligible study design? Review criterion: We evaluated randomized controlled trials (RCTs) and quasi‐RCTs in any language, examining the benefits and harms of sulfasalazine on ankylosing spondylitis (AS).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Sulfasalazine for ankylosing spondylitis". Does this record study the review''s eligible participants/population? Review criterion: Patients with AS fulfilling any one of the following criteria: 1961 Rome, 1966 New York, modified 1984 New York, Amor or ESSG (European Spondyloarthropathy Study Group) criteria (Olivieri 2002). We included studies with spondyloarthropathies/spondyloarthritis participants if there were available data assessing the outcomes specific to patients with AS. Patients with or without the impairment of peripheral joints were eligible for inclusion.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Sulfasalazine for ankylosing spondylitis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Sulfasalazine given orally for at least 12 weeks. We included the following comparisons. Sulfasalazine versus placebo. Sulfasalazine versus other medication. Sulfasalazine versus no medication. Sulfasalazine versus placebo. Sulfasalazine versus other medication. Sulfasalazine versus no medication.'
+  required: true

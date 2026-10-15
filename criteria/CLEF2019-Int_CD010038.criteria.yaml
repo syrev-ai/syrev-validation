@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd010038.pub3 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Face‐to‐face interventions for informing or educating parents about early childhood vaccination". Selection criteria: We included randomised controlled trials (RCTs) and cluster-RCTs evaluating the effects of face-to-face interventions delivered to parents or expectant parents to inform or educate them about early childhood vaccination, compared with control or with another face-to-face intervention. The World Health Organization recommends that children receive all early childhood vaccines, with the exception of human papillomavirus vaccine (HPV), which is delivered to adolescents. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Face‐to‐face interventions for informing or educating parents about early childhood vaccination". Selection criteria: We included randomised controlled trials (RCTs) and cluster-RCTs evaluating the effects of face-to-face interventions delivered to parents or expectant parents to inform or educate them about early childhood vaccination, compared with control or with another face-to-face intervention. The World Health Organization recommends that children receive all early childhood vaccines, with the exception of human papillomavirus vaccine (HPV), which is delivered to adolescents. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Face‐to‐face interventions for informing or educating parents about early childhood vaccination". Selection criteria: We included randomised controlled trials (RCTs) and cluster-RCTs evaluating the effects of face-to-face interventions delivered to parents or expectant parents to inform or educate them about early childhood vaccination, compared with control or with another face-to-face intervention. The World Health Organization recommends that children receive all early childhood vaccines, with the exception of human papillomavirus vaccine (HPV), which is delivered to adolescents. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

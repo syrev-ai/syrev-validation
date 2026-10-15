@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD003987 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Combination contraceptives: effects on weight". Does this record meet the review''s eligible study design? Review criterion: All randomized controlled trials reported in English (Juni 2002; Moher 2000) that compared a combination contraceptive to a placebo, no intervention, or a combination contraceptive that differed in drug, dosage, regimen, or study length.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Combination contraceptives: effects on weight". Does this record study the review''s eligible participants/population? Review criterion: Women of reproductive age without medical contraindications to combination contraceptives.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Combination contraceptives: effects on weight". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any combination contraceptive compared to a placebo, no intervention, or another combination contraceptive. Trial drug interventions must have included at least three consecutive cycles to be eligible.'
+  required: true

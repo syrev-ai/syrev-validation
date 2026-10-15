@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD006014 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Interval debulking surgery for advanced epithelial ovarian cancer". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Interval debulking surgery for advanced epithelial ovarian cancer". Does this record study the review''s eligible participants/population? Review criterion: Women with advanced stage epithelial ovarian cancer who have a confirmed pathological diagnosis from primary surgery which was suboptimal, with residual tumours of more than 1 to 2 cms. Primary surgical procedures include tumour biopsy, tumour removal, or standard surgical staging for epithelial ovarian cancer.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Interval debulking surgery for advanced epithelial ovarian cancer". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Treatment: Interval debulking surgery (IDS), defined as secondary surgery which is performed after two to four cycles of neoadjuvant chemotherapy (NAC) or induction chemotherapy, to remove the bulk of the tumour, and followed by adjuvant chemotherapy of the same type. Control: Adjuvant chemotherapy only.'
+  required: true

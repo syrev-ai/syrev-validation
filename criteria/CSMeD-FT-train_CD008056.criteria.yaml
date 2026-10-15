@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008056 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Linezolid versus vancomycin for skin and soft tissue infections". Does this record meet the review''s eligible study design? Review criterion: We included all randomised controlled trials (RCTs) that compared linezolid with vancomycin in the treatment of skin and soft tissue infections.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Linezolid versus vancomycin for skin and soft tissue infections". Does this record study the review''s eligible participants/population? Review criterion: We included people of any age or gender presenting with skin and soft tissue infections (e.g. cellulitis, erysipelas, furuncles, simple abscesses, wound infections, and deeper infections such as necrotising fasciitis, myositis (inflammation of muscles), and gas gangrene).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Linezolid versus vancomycin for skin and soft tissue infections". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any dose of linezolid or vancomycin, by any route. We intended to present comparisons as follows: 1. Linezolid compared with vancomycin alone. 2. Linezolid plus co‐interventions compared with vancomycin plus co‐interventions. Co‐interventions might include other antibiotics for use against Gram‐negative bacteria, or other routine medications and surgical interventions, as long as participants in the different trial arms had equal access to such co‐interventions.'
+  required: true

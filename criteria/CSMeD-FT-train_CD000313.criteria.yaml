@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD000313 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Discharge planning from hospital". Does this record meet the review''s eligible study design? Review criterion: Randomised trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Discharge planning from hospital". Does this record study the review''s eligible participants/population? Review criterion: All patients in hospital (acute, rehabilitation or community) irrespective of age, gender or condition.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Discharge planning from hospital". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We defined discharge planning as the development of an individualised discharge plan for a patient prior to them leaving hospital for home or residential care. Where possible, we divided the process of discharge planning according to the steps identified by Marks 1994: preadmission assessment (where possible); case finding on admission; inpatient assessment and preparation of a discharge plan based on individual patient needs, for example a multidisciplinary assessment involving the patient and their family, and communication between relevant professionals within the hospital; implementation of the discharge plan, which should be consistent with the assessment and requires documentation of the discharge process; monitoring in the form of an audit to assess if the discharge plan was implemented. preadmission assessment (where possible); case finding on admission; inpatient assessment and preparation of a discharge plan based on individual patient needs, for example a multidisciplinary assessment involving the patient and their family, and communication between relevant professionals within the hospital; implementation of the discharge plan, which should be consistent with the assessment and requires documentation of the discharge process; monitoring in the form of an audit to assess if the discharge plan was implemented. We excluded studies from the review if they did not include an assessment or implementation phase in the discharge plan; if discharge planning appeared to be '
+  required: true

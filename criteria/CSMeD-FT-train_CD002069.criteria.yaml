@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD002069 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Calcium channel blockers for primary Raynaud''s phenomenon". Does this record meet the review''s eligible study design? Review criterion: We considered all randomised and blinded trials of the effects of orally‐administered calcium channel blockers compared with placebo, or other drug therapy, in people with primary Raynaud''s phenomenon, using any method of randomisation. We included trials not analysed on an intention‐to‐treat basis, provided all randomised participants were accounted for. We included cross‐over trials only if they incorporated (a) a placebo or no‐treatment ''run‐in'' of at least one week (or provided baseline data for quantification of the severity of the condition), and (b) a ''wash‐out'' period of at least one week between treatment arms for all participants. We identified but did not include in the meta‐analyses studies in which primary and secondary cases could not be resolved. We also excluded open studies and single‐dose studies. There was no restriction on language, with publications in languages other than English translated and assessed for eligibility.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Calcium channel blockers for primary Raynaud''s phenomenon". Does this record study the review''s eligible participants/population? Review criterion: Adults, over 18 years of age, with clinical features of primary Raynaud''s phenomenon. Trials including a mixture of primary and secondary participants were included if primary participants could be identified and analysed separately.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Calcium channel blockers for primary Raynaud''s phenomenon". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Experimental intervention Oral administration of a calcium channel blocker. Oral administration of a calcium channel blocker. Comparator intervention Placebo Another pharmacological therapy Other treatments Placebo Another pharmacological therapy Other treatments'
+  required: true

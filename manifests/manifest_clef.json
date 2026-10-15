@@ -1,0 +1,211 @@
+[
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD011571",
+  "review_id": "CD011571",
+  "n": 146,
+  "includes": 15,
+  "pool_n": 146,
+  "pool_includes": 15,
+  "criteria_source": "10.1002/14651858.cd011571.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD011977",
+  "review_id": "CD011977",
+  "n": 195,
+  "includes": 49,
+  "pool_n": 195,
+  "pool_includes": 49,
+  "criteria_source": "10.1002/14651858.cd011977.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD010239",
+  "review_id": "CD010239",
+  "n": 224,
+  "includes": 12,
+  "pool_n": 224,
+  "pool_includes": 12,
+  "criteria_source": "10.1002/14651858.cd010239.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD000996",
+  "review_id": "CD000996",
+  "n": 281,
+  "includes": 9,
+  "pool_n": 281,
+  "pool_includes": 9,
+  "criteria_source": "10.1002/14651858.cd000996.pub3",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD011140",
+  "review_id": "CD011140",
+  "n": 289,
+  "includes": 4,
+  "pool_n": 289,
+  "pool_includes": 4,
+  "criteria_source": "10.1002/14651858.cd011140.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD004414",
+  "review_id": "CD004414",
+  "n": 336,
+  "includes": 16,
+  "pool_n": 336,
+  "pool_includes": 16,
+  "criteria_source": "10.1002/14651858.cd004414.pub3",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD001261",
+  "review_id": "CD001261",
+  "n": 571,
+  "includes": 72,
+  "pool_n": 571,
+  "pool_includes": 72,
+  "criteria_source": "10.1002/14651858.cd001261.pub4",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD012551",
+  "review_id": "CD012551",
+  "n": 591,
+  "includes": 68,
+  "pool_n": 591,
+  "pool_includes": 68,
+  "criteria_source": "10.1002/14651858.cd012551.pub3",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD007867",
+  "review_id": "CD007867",
+  "n": 517,
+  "includes": 17,
+  "pool_n": 943,
+  "pool_includes": 17,
+  "criteria_source": "10.1002/14651858.cd007867.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD012455",
+  "review_id": "CD012455",
+  "n": 507,
+  "includes": 7,
+  "pool_n": 1593,
+  "pool_includes": 7,
+  "criteria_source": "10.1002/14651858.cd012455.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD009069",
+  "review_id": "CD009069",
+  "n": 578,
+  "includes": 78,
+  "pool_n": 1757,
+  "pool_includes": 78,
+  "criteria_source": "10.1002/14651858.cd009069.pub3",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD009642",
+  "review_id": "CD009642",
+  "n": 562,
+  "includes": 62,
+  "pool_n": 1922,
+  "pool_includes": 62,
+  "criteria_source": "10.1002/14651858.cd009642.pub3",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD012342",
+  "review_id": "CD012342",
+  "n": 506,
+  "includes": 6,
+  "pool_n": 2353,
+  "pool_includes": 6,
+  "criteria_source": "10.1002/14651858.cd012342.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD010753",
+  "review_id": "CD010753",
+  "n": 529,
+  "includes": 29,
+  "pool_n": 2539,
+  "pool_includes": 29,
+  "criteria_source": "10.1002/14651858.cd010753.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD010558",
+  "review_id": "CD010558",
+  "n": 537,
+  "includes": 37,
+  "pool_n": 2815,
+  "pool_includes": 37,
+  "criteria_source": "10.1002/14651858.cd010558.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD012069",
+  "review_id": "CD012069",
+  "n": 820,
+  "includes": 320,
+  "pool_n": 3479,
+  "pool_includes": 320,
+  "criteria_source": "10.1002/14651858.cd012069.pub2",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD006468",
+  "review_id": "CD006468",
+  "n": 552,
+  "includes": 52,
+  "pool_n": 3874,
+  "pool_includes": 52,
+  "criteria_source": "10.1002/14651858.cd006468.pub6",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD010038",
+  "review_id": "CD010038",
+  "n": 523,
+  "includes": 23,
+  "pool_n": 8867,
+  "pool_includes": 23,
+  "criteria_source": "10.1002/14651858.cd010038.pub3",
+  "pubmed_missing": 0
+ },
+ {
+  "group": "CLEF TAR 2019 Intervention (CSMeD tar2019)",
+  "stem": "CLEF2019-Int_CD011768",
+  "review_id": "CD011768",
+  "n": 554,
+  "includes": 54,
+  "pool_n": 9160,
+  "pool_includes": 54,
+  "criteria_source": "10.1002/14651858.cd011768.pub2",
+  "pubmed_missing": 0
+ }
+]

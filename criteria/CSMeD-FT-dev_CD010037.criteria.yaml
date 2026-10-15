@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD010037 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Calcium supplementation for prevention of primary hypertension". Does this record meet the review''s eligible study design? Review criterion: All published, unpublished and ongoing trials with random allocation to dietary calcium intervention such as supplementation or food fortification versus placebo or control. We excluded quasi‐random designs and the second phase of cross‐over trials from the analysis.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Calcium supplementation for prevention of primary hypertension". Does this record study the review''s eligible participants/population? Review criterion: Participants included normotensive people of different ages, but excluding pregnant women.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Calcium supplementation for prevention of primary hypertension". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included calcium interventions such as supplementation using pills, tablets or sprinkle powder, or any food or beverage fortification, compared to placebo or control. Calcium fortification could include salt of calcium carbonate, sulphate, citrate, citrate malate, chloride, hydroxyapatite, phosphate, acetate, lactate, glycerophosphate, gluconate, oxide, or hydroxide. Calcium content in these salts varies from 9% to 70% (Allen 2006). We excluded studies with no placebo or control. We also excluded interventions where calcium was combined with other macro‐ or micronutrients to assess the effects of both.'
+  required: true

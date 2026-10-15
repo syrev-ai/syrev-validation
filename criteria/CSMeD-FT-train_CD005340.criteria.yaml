@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD005340 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Intraperitoneal chemotherapy for the initial management of primary epithelial ovarian cancer". Does this record meet the review''s eligible study design? Review criterion: Only RCTs regardless of other co‐morbidity were considered for this review. Trials where the method of randomisation was not specified in detail were included but were considered of low quality (see Subgroup analysis and investigation of heterogeneity).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Intraperitoneal chemotherapy for the initial management of primary epithelial ovarian cancer". Does this record study the review''s eligible participants/population? Review criterion: Women with a new diagnosis of primary epithelial ovarian cancer, of any FIGO stage, following primary cytoreductive surgery. No age limit was applied.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Intraperitoneal chemotherapy for the initial management of primary epithelial ovarian cancer". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Standard IV chemotherapy was compared with chemotherapy that included a component of IP administration. We accepted trials comparing regimes which included IP treatment with similar regimes that excluded IP treatment. Where interventions differed significantly between studies this was clearly stated and the implications were discussed. The review excluded the following: radio colloids; gene therapy; biologic therapy; radio‐isotopes; vascular growth factors; immunomodulating drugs; matrix metalloproteinase inhibitors; radiolabelled monoclonal antibodies. radio colloids; gene therapy; biologic therapy; radio‐isotopes; vascular growth factors; immunomodulating drugs; matrix metalloproteinase inhibitors; radiolabelled monoclonal antibodies.'
+  required: true

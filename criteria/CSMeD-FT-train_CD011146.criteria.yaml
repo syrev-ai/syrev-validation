@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD011146 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Doxycycline plus ivermectin versus ivermectin alone for treatment of patients with onchocerciasis". Does this record meet the review''s eligible study design? Review criterion: We planned to include in this review only randomized controlled trials (RCTs), as specified in the published protocol (Abegunde 2014).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Doxycycline plus ivermectin versus ivermectin alone for treatment of patients with onchocerciasis". Does this record study the review''s eligible participants/population? Review criterion: We included trials in which participants resided in communities endemic for onchocerciasis. We included studies of participants with skin (eg, itchiness, skin depigmentation) and ocular signs (eg, inflammation) of onchocerciasis that was diagnosed with positive skin snip for microfilariae, with presence of onchocercal nodules and characteristic ocular signs of onchocerciasis noted on slit lamp examination.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Doxycycline plus ivermectin versus ivermectin alone for treatment of patients with onchocerciasis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included trials comparing treatment with doxycyline plus ivermectin versus ivermectin alone. Treatment in the intervention arm was defined according to the recommended dose of doxycycline, 100 milligrams daily for six weeks, plus ivermectin, 150 micrograms per kilogram of body weight, taken orally as a single dose annually or semi annually, or as given in an individual study. Treatment in the control arm was defined as 150 micrograms of ivermectin per kilogram of body weight annually or semi annually, or as given in the study.'
+  required: true

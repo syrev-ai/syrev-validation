@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD005614 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Chondroitin for osteoarthritis". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs) of two weeks'' duration or longer were included if they reported clinical outcomes data and were published in full. Randomized controlled trials of shorter than two weeks'' duration were excluded because this time frame may be too short to allow assessment of harms and benefits based on biological plausibility.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Chondroitin for osteoarthritis". Does this record study the review''s eligible participants/population? Review criterion: Adults (age > 18 years) with osteoarthritis of any joint.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Chondroitin for osteoarthritis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Chondroitin arm: Use of oral chondroitin alone or in combination with other oral drugs such as glucosamine. Comparator arm: Placebo or active medications including NSAIDs, analgesics (e.g., acetaminophen), opioid pain‐relieving medications, glucosamine or other "herbal" medications, or other comparator oral medications.'
+  required: true

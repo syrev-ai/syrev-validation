@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD004476 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Perioperative beta‐blockers for preventing surgery‐related mortality and morbidity". Does this record meet the review''s eligible study design? Review criterion: We included randomized controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Perioperative beta‐blockers for preventing surgery‐related mortality and morbidity". Does this record study the review''s eligible participants/population? Review criterion: We included studies that looked at the effects of beta‐blockers on adults 18 years of age or older undergoing any type of surgery while under general anaesthesia. As opposed to these eligibility criteria as defined in the protocol (Wiesbauer 2007), we decided to consider trials in our meta‐analysis that partially included patients not receiving general anaesthesia. Trials had to fulfil the following criteria to be eligible for inclusion: more than 100 randomly assigned participants operated on under general anaesthesia, or more than 70% of participants receiving general anaesthesia. We came to this conclusion, as we believed that a meta‐analysis without data from the POISE (Perioperative Ischemia Evaluation Study), DIPOM (Diabetic Postoperative Mortality and Morbidity) or MaVS (Metoprolol After Vascular Surgery) trial would not find enough credibility within the clinical community. We excluded trials investigating procedures that required local or regional anaesthesia only.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Perioperative beta‐blockers for preventing surgery‐related mortality and morbidity". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Perioperative administration of beta‐adrenoceptor‐blockers via any route versus control (placebo or standard care). We defined the perioperative period as 30 days before to 30 days after surgery. Beta‐blockers could be started before surgery, during surgery or at the latest by the end of the first day after surgery.'
+  required: true

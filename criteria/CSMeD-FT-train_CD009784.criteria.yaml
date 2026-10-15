@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD009784 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Anaesthetic regimens for day‐procedure laparoscopic cholecystectomy". Does this record meet the review''s eligible study design? Review criterion: We included randomized clinical trials (RCTs) irrespective of blinding, language, publication status or sample size. We excluded quasi‐randomized trials (for example, allocation by date of birth, day of the week, etc) and non‐randomized studies since they do not take selection bias into account.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Anaesthetic regimens for day‐procedure laparoscopic cholecystectomy". Does this record study the review''s eligible participants/population? Review criterion: We included patients scheduled to undergo day‐procedure laparoscopic cholecystectomy irrespective of the age of the patient and whether the procedure was carried out in a secondary or tertiary care setting. Thus, only patients undergoing elective laparoscopic cholecystectomy have been included in this review. We included studies enrolling patients with broader inclusion criteria but where the outcomes of individuals eligible for our study were reported separately.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Anaesthetic regimens for day‐procedure laparoscopic cholecystectomy". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included the comparison of one anaesthetic regimen with another. We considered an anaesthetic regimen as a combination of an induction agent, a maintenance agent, a method of maintaining the airway (laryngeal mask versus endotracheal intubation), a muscle relaxant and an intraoperative short acting opioid the effect of which is expected only during the operation. We included studies if at least one component of multiple components of the complex intervention was different between the comparison groups. We accepted comparisons of different methods of administration of the same agent (including route, frequency, or timing) or different doses of the same agent. We excluded studies in which a long acting opioid was used preoperatively or intraoperatively.'
+  required: true

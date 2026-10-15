@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007122 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Different strategies for diagnosing gestational diabetes to improve maternal and infant health". Does this record meet the review''s eligible study design? Review criterion: We included randomised trials that evaluated diagnostic tests carried out to diagnose gestational diabetes mellitus (GDM). We excluded studies that clearly were not randomised trials, as well as studies that used a quasi‐random design, such as alternate days or date of birth, for allocation to the intervention group. Cluster or cross‐over designed trials were not eligible for inclusion. Abstracts were eligible for inclusion if sufficient information was available for assessment and data extraction.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Different strategies for diagnosing gestational diabetes to improve maternal and infant health". Does this record study the review''s eligible participants/population? Review criterion: We included studies if they recruited pregnant women at risk of GDM. We included women if they were at low risk or high risk (such as women who were obese, those with a first‐degree relative with diabetes, high‐risk ethnic groups, high‐fasting or random plasma glucose and previous gestational diabetes) of developing GDM. We included women with single or multiple gestations. We excluded women with diabetes diagnosed before the incident pregnancy.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Different strategies for diagnosing gestational diabetes to improve maternal and infant health". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We intended to include all diagnostic tests for GDM, such as glycated haemoglobin, random and fasting blood sugar and oral glucose tolerance tests. We included comparisons of any testing with no testing, as well as comparisons of one form of testing versus another. We would have included comparisons of testing at different gestational ages if they had been available.'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd009694.pub2 (2014) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Computed tomography (CT) angiography for confirmation of the clinical diagnosis of brain death". Selection criteria: We included in this review all large case series and cohort studies that compared the results of CT angiography with the diagnosis of brain death according to neurological criteria. Uniquely, the reference standard was the same as the target condition in this review. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Computed tomography (CT) angiography for confirmation of the clinical diagnosis of brain death". Selection criteria: We included in this review all large case series and cohort studies that compared the results of CT angiography with the diagnosis of brain death according to neurological criteria. Uniquely, the reference standard was the same as the target condition in this review. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Computed tomography (CT) angiography for confirmation of the clinical diagnosis of brain death". Selection criteria: We included in this review all large case series and cohort studies that compared the results of CT angiography with the diagnosis of brain death according to neurological criteria. Uniquely, the reference standard was the same as the target condition in this review. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

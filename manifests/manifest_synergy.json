@@ -1,0 +1,74 @@
+[
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "Oud_2018",
+  "review_id": "Oud_2018",
+  "n": 937,
+  "includes": 20,
+  "pool_n": 937
+ },
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "Meijboom_2021",
+  "review_id": "Meijboom_2021",
+  "n": 825,
+  "includes": 36,
+  "pool_n": 825
+ },
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "Jeyaraman_2020",
+  "review_id": "Jeyaraman_2020",
+  "n": 1173,
+  "includes": 96,
+  "pool_n": 1173
+ },
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "van_der_Valk_2021",
+  "review_id": "van_der_Valk_2021",
+  "n": 715,
+  "includes": 88,
+  "pool_n": 715
+ },
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "Muthu_2021",
+  "review_id": "Muthu_2021",
+  "n": 2695,
+  "includes": 336,
+  "pool_n": 2695
+ },
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "van_der_Waal_2022",
+  "review_id": "van_der_Waal_2022",
+  "n": 1957,
+  "includes": 33,
+  "pool_n": 1957
+ },
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "Wolters_2018",
+  "review_id": "Wolters_2018",
+  "n": 3899,
+  "includes": 19,
+  "pool_n": 3899
+ },
+ {
+  "group": "SYNERGY launch sets (CC0)",
+  "stem": "van_de_Schoot_2018",
+  "review_id": "van_de_Schoot_2018",
+  "n": 4473,
+  "includes": 38,
+  "pool_n": 4473
+ },
+ {
+  "group": "Appenzeller-Herzog 2020 (CC BY 4.0)",
+  "stem": "Appenzeller-Herzog_2020",
+  "review_id": "Appenzeller-Herzog_2020",
+  "n": 2359,
+  "includes": 26,
+  "pool_n": 2359
+ }
+]

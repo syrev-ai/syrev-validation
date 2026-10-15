@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD006650 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Anticoagulation for the long‐term treatment of venous thromboembolism in people with cancer". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Anticoagulation for the long‐term treatment of venous thromboembolism in people with cancer". Does this record study the review''s eligible participants/population? Review criterion: People with active cancer with a confirmed diagnosis of VTE (deep venous thrombosis (DVT) or pulmonary embolism (PE)). Participants could have been of any age group (including children), with either solid or hematologic cancer, at any cancer stage and irrespective of the type of cancer therapy. VTE should have been diagnosed using an objective diagnostic test. Cancer should have been diagnosed by the time of inclusion in the study. We included studies with at least 75% of participants with a cancer status being active (i.e., we excluded studies with more than 25% of participants with non‐active cancer). If between 25% and 75% of the population had active cancer and outcome data for this subgroup of people were not reported, we excluded such studies from the main analysis and included them in the sensitivity analysis.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Anticoagulation for the long‐term treatment of venous thromboembolism in people with cancer". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Intervention arms consisted of long‐term treatment with antithrombtics including (beyond 3 months of initial treatment) : LMWHs; DOACs; VKAs; Idraparinux LMWHs; DOACs; VKAs; Idraparinux We included any comparison of the three management options listed above (LMWHs versus VKAs, DOACs versus VKAs, DOACs versus LMWHs; idra). Cointerventions, if any, should have been balanced across the groups compared.'
+  required: true

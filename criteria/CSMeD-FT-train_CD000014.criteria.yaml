@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD000014 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Amnioinfusion for meconium‐stained liquor in labour". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials comparing the effect of amnioinfusion for meconium‐stained liquor on clinically meaningful outcomes, with a control group (no or sham amnioinfusion). Quasi‐randomised (alternate allocation) were considered eligible, but cross‐over and cluster‐randomised trials were not considered.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Amnioinfusion for meconium‐stained liquor in labour". Does this record study the review''s eligible participants/population? Review criterion: Women in labour with moderate or thick meconium staining of the amniotic fluid.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Amnioinfusion for meconium‐stained liquor in labour". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Amnioinfusion (the infusion of physiological saline or lactated Ringer''s solution into the amniotic cavity) compared with no or sham amnioinfusion.'
+  required: true

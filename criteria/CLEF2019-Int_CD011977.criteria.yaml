@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd011977.pub2 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Blue‐light filtering intraocular lenses (IOLs) for protecting macular health". Selection criteria: We included randomised controlled trials (RCTs), involving adult participants undergoing cataract extraction, where a blue-light filtering IOL was compared with an equivalent non-blue-light filtering IOL. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Blue‐light filtering intraocular lenses (IOLs) for protecting macular health". Selection criteria: We included randomised controlled trials (RCTs), involving adult participants undergoing cataract extraction, where a blue-light filtering IOL was compared with an equivalent non-blue-light filtering IOL. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Blue‐light filtering intraocular lenses (IOLs) for protecting macular health". Selection criteria: We included randomised controlled trials (RCTs), involving adult participants undergoing cataract extraction, where a blue-light filtering IOL was compared with an equivalent non-blue-light filtering IOL. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013590.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Antioxidant supplementation for sickle cell disease". Selection criteria: We included randomized and quasi‐randomized controlled trials comparing antioxidant supplementation to placebo, other antioxidants, or different doses of antioxidants, in people with SCD. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Antioxidant supplementation for sickle cell disease". Selection criteria: We included randomized and quasi‐randomized controlled trials comparing antioxidant supplementation to placebo, other antioxidants, or different doses of antioxidants, in people with SCD. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Antioxidant supplementation for sickle cell disease". Selection criteria: We included randomized and quasi‐randomized controlled trials comparing antioxidant supplementation to placebo, other antioxidants, or different doses of antioxidants, in people with SCD. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

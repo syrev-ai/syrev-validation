@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd010502.pub2 (2016) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Rapid antigen detection test for group A streptococcus in children with pharyngitis". Selection criteria: We included studies that compared RADT for GAS pharyngitis with throat culture on a blood agar plate in a microbiology laboratory in children seen in ambulatory care. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Rapid antigen detection test for group A streptococcus in children with pharyngitis". Selection criteria: We included studies that compared RADT for GAS pharyngitis with throat culture on a blood agar plate in a microbiology laboratory in children seen in ambulatory care. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Rapid antigen detection test for group A streptococcus in children with pharyngitis". Selection criteria: We included studies that compared RADT for GAS pharyngitis with throat culture on a blood agar plate in a microbiology laboratory in children seen in ambulatory care. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

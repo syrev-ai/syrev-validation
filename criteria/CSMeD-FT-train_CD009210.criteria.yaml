@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD009210 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Perioperative angiotensin‐converting enzyme inhibitors or angiotensin II type 1 receptor blockers for preventing mortality and morbidity in adults". Does this record meet the review''s eligible study design? Review criterion: We included randomized controlled trials (RCTs) comparing perioperative administration of ACEIs or ARBs with placebo.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Perioperative angiotensin‐converting enzyme inhibitors or angiotensin II type 1 receptor blockers for preventing mortality and morbidity in adults". Does this record study the review''s eligible participants/population? Review criterion: We included adults (aged 18 years and above) undergoing any type of surgery under general anaesthesia receiving ACEIs or ARBs perioperatively, including those participants with pre‐existing hypertension, heart failure, or ventricular dysfunction. We excluded: participants undergoing procedures that require local anaesthesia only; participants who are already on chronic treatment with ACEIs or ARBs. participants undergoing procedures that require local anaesthesia only; participants who are already on chronic treatment with ACEIs or ARBs.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Perioperative angiotensin‐converting enzyme inhibitors or angiotensin II type 1 receptor blockers for preventing mortality and morbidity in adults". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included trials that compared perioperative administration of any kind of ACEI or ARB via any route versus placebo. ACEIs and ARBs are started preoperatively (after hospital admission), during operation, or up to one day after surgery.'
+  required: true

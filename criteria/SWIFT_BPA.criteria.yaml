@@ -1,0 +1,12 @@
+# SWIFT-Review / NTP OHAT dataset (Howard et al. 2016): bisphenol A (BPA) and obesity.
+# Authored from the dataset description; OHAT screened human, animal and mechanistic evidence.
+criteria:
+  - id: exposure
+    question: "Does the study examine exposure to bisphenol A (BPA) (measured, administered, or estimated)?"
+    required: true
+  - id: outcome
+    question: "Does the study assess obesity or a related metabolic endpoint (e.g. body weight, adiposity, fat mass, adipocyte differentiation/adipogenesis, BMI, waist circumference, glucose/insulin homeostasis, lipids)?"
+    required: true
+  - id: primary_research
+    question: "Is this primary research (human, experimental animal, or in vitro/mechanistic study), rather than a review, editorial or commentary without original data?"
+    required: true

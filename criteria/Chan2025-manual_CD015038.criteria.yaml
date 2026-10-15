@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD015038.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Appendectomy versus antibiotic treatment for acute appendicitis". Selection criteria: We included parallel‐group randomised controlled trials (RCTs) only. We included studies where most participants were adults with uncomplicated/simple appendicitis. Interventions included antibiotics (by any route) compared with appendectomy (open or laparoscopic). Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Appendectomy versus antibiotic treatment for acute appendicitis". Selection criteria: We included parallel‐group randomised controlled trials (RCTs) only. We included studies where most participants were adults with uncomplicated/simple appendicitis. Interventions included antibiotics (by any route) compared with appendectomy (open or laparoscopic). Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Appendectomy versus antibiotic treatment for acute appendicitis". Selection criteria: We included parallel‐group randomised controlled trials (RCTs) only. We included studies where most participants were adults with uncomplicated/simple appendicitis. Interventions included antibiotics (by any route) compared with appendectomy (open or laparoscopic). Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

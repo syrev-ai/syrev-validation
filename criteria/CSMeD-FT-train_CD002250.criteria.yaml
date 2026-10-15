@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD002250 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Antibiotic prophylaxis during the second and third trimester to reduce adverse pregnancy outcomes and morbidity". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs) including cluster‐RCTs were eligible for inclusion. Quasi‐RCTs were not eligible for inclusion.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Antibiotic prophylaxis during the second and third trimester to reduce adverse pregnancy outcomes and morbidity". Does this record study the review''s eligible participants/population? Review criterion: Women in the second or third trimester of pregnancy before labour and delivery. We included routine prophylaxis for all women and prophylaxis for women with high risk of preterm birth. High risk was defined as women at risk of preterm delivery, for example, having a previous spontaneous preterm delivery, history of having an infant with a low birthweight, having bacterial vaginosis (BV) in the current pregnancy, or a pre‐pregnancy weight less than 50 kg. We excluded trials in which antibiotics were given to women for treatment purposes or if they had a positive test for fetal fibronectin (fFN) as the trial entry criteria.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Antibiotic prophylaxis during the second and third trimester to reduce adverse pregnancy outcomes and morbidity". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Prophylactic prenatal antibiotics versus placebo or no treatment. We excluded interventions at intrapartum.'
+  required: true

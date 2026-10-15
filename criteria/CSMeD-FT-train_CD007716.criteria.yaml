@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007716 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Macrolides for diffuse panbronchiolitis". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs) or quasi‐RCTs.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Macrolides for diffuse panbronchiolitis". Does this record study the review''s eligible participants/population? Review criterion: We included participants of either gender with DPB. DPB was defined by the original trials. We described the diagnostic criteria used by the trial authors in the Characteristics of included studies table.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Macrolides for diffuse panbronchiolitis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Macrolides, administered for more than two months, versus control interventions (including placebo and other antibiotics).'
+  required: true

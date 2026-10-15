@@ -1,0 +1,574 @@
+group,mode,review,n_scored,includes,pool_n,errors,wss95,careful_recall,careful_autoex,careful_precision,careful_missed,rapid_recall,rapid_autoex,rapid_precision,rapid_missed
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD011571,146,15,146,0,0.7103,0.9333,0.8014,0.4828,1,0.8667,0.8562,0.619,2
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD011977,195,49,195,0,0.5141,0.9796,0.5282,0.5217,1,0.8367,0.6513,0.6029,8
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD010239,224,12,224,0,0.8116,1.0,0.7009,0.1791,0,0.9167,0.875,0.3929,1
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD000996,281,9,281,0,0.676,1.0,0.6797,0.1,0,0.8889,0.8434,0.1818,1
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD011140,289,4,289,0,0.9223,1.0,0.9343,0.2105,0,1.0,0.9654,0.4,0
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD004414,336,16,336,0,0.8042,1.0,0.753,0.1928,0,0.9375,0.8601,0.3191,1
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD001261,571,72,571,0,0.6645,1.0,0.4623,0.2345,0,1.0,0.5849,0.3038,0
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD012551,591,68,591,0,0.4661,0.9853,0.3198,0.1667,1,0.8824,0.599,0.2532,8
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD007867,517,17,943,0,0.4724,1.0,0.3751,0.0288,0,0.9412,0.657,0.0495,1
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD012455,507,7,1593,0,0.9436,1.0,0.8542,0.0301,0,1.0,0.9697,0.1451,0
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD009069,578,78,1757,0,0.3932,0.8846,0.6836,0.1241,9,0.8205,0.8069,0.1886,14
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD009642,562,62,1922,0,0.9019,0.9516,0.9461,0.5693,3,0.9516,0.9519,0.638,3
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD012342,506,6,2353,0,0.7899,0.5,0.895,0.0121,3,0.5,0.9728,0.0469,3
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD010753,529,29,2539,0,0.7511,0.9655,0.6706,0.0335,1,0.8621,0.8557,0.0682,4
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD010558,537,37,2815,0,0.6273,0.8919,0.8087,0.0613,4,0.8108,0.9242,0.1406,7
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD012069,820,320,3479,0,0.4213,0.9906,0.2442,0.1206,3,0.9812,0.3377,0.1363,6
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD006468,552,52,3874,0,0.6056,0.8846,0.6764,0.0367,6,0.5962,0.8519,0.054,21
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD010038,523,23,8867,0,0.9336,0.9565,0.9636,0.0682,1,0.8696,0.9858,0.1586,3
+"CLEF TAR 2019 Intervention (19 topics, sampled)",abstract,CD011768,554,54,9160,0,0.9304,0.9815,0.9028,0.0595,1,0.963,0.9585,0.1369,2
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD011218,414,14,690,0,0.893,1.0,0.6515,0.0582,0,1.0,0.8083,0.1058,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD012268,418,18,4586,0,0.829,1.0,0.8143,0.0211,0,0.8889,0.9343,0.0531,2
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013042,427,27,1005,0,0.822,1.0,0.2287,0.0348,0,1.0,0.3941,0.0443,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013059,417,17,5441,0,0.8896,1.0,0.7825,0.0144,0,1.0,0.8723,0.0245,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013071,452,52,9962,0,0.6091,0.8462,0.7767,0.0198,8,0.5192,0.9451,0.0493,25
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013197,443,43,2464,0,0.899,1.0,0.3193,0.0256,0,1.0,0.8106,0.0921,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013199,416,16,2238,0,0.9329,1.0,0.4964,0.0142,0,1.0,0.7099,0.0246,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013295,515,115,3137,0,0.6837,1.0,0.3564,0.057,0,1.0,0.4769,0.0701,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013358,499,99,3542,0,0.5028,0.9091,0.6076,0.0648,9,0.697,0.791,0.0932,30
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013377,410,10,5955,0,0.9408,1.0,0.6264,0.0045,0,1.0,0.8161,0.0091,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013421,423,23,2400,0,0.9309,1.0,0.926,0.1296,0,1.0,0.9458,0.177,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013590,428,28,1852,0,0.8862,1.0,0.751,0.0607,0,1.0,0.8815,0.1276,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013591,420,20,10958,0,0.8884,1.0,0.574,0.0043,0,1.0,0.7237,0.0066,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013822,418,18,10314,0,0.9358,1.0,0.8485,0.0115,0,1.0,0.9259,0.0235,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD013880,443,43,11642,0,0.9216,1.0,0.8195,0.0205,0,1.0,0.9091,0.0406,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD014715,533,133,49162,0,0.8926,0.9774,0.8777,0.0216,3,0.9624,0.9376,0.0417,5
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD014736,408,8,6128,0,0.9487,1.0,0.9338,0.0197,0,1.0,0.9762,0.0549,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD015038,414,14,2196,0,0.9163,1.0,0.7601,0.0266,0,1.0,0.8545,0.0438,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD015042,409,9,3057,0,0.9047,1.0,0.84,0.0184,0,1.0,0.8949,0.028,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD015067,412,12,2068,0,0.8895,1.0,0.7854,0.027,0,1.0,0.8923,0.0539,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD015306,406,6,1671,0,0.934,1.0,0.8793,0.0298,0,1.0,0.9267,0.049,0
+"Chan 2025 manual-search (22 reviews, sampled)",abstract,CD015432,443,43,2036,0,0.8369,1.0,0.4797,0.0406,0,1.0,0.6999,0.0704,0
+"SWIFT-Review (5 sets, sampled)",abstract,BPA,1500,111,7700,0,0.5602,0.991,0.5103,0.0292,1,0.955,0.596,0.0341,5
+"SWIFT-Review (5 sets, sampled)",abstract,PFOS-PFOA,1497,95,6331,0,0.9179,1.0,0.5698,0.035,0,0.9895,0.6844,0.0471,1
+"SWIFT-Review (5 sets, sampled)",abstract,Transgenerational,1500,300,48638,0,0.6742,1.0,0.5397,0.0342,0,0.9867,0.6498,0.0443,4
+"SWIFT-Review (5 sets, sampled)",abstract,Fluoride,1500,51,4477,0,0.907,1.0,0.2354,0.0149,0,1.0,0.3752,0.0182,0
+"SWIFT-Review (5 sets, sampled)",abstract,Neuropain,1500,300,29207,0,0.6524,0.9967,0.3775,0.2747,1,0.9967,0.4673,0.321,1
+Bannach-Brown 2019 (labelled set),abstract,Bannach-Brown_2019,1993,280,1993,0,0.6851,0.9964,0.1074,0.1568,1,0.9821,0.2464,0.1831,5
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008080,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010452,12,5,12,0,0.3667,1.0,0.0833,0.4545,0,1.0,0.0833,0.4545,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD012515,6,2,6,0,0.6167,1.0,0.1667,0.4,0,1.0,0.1667,0.4,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013080,24,24,24,0,,0.9583,0.0417,1.0,1,0.9167,0.0833,1.0,2
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013088,34,24,34,0,0.0382,1.0,0.0,0.7059,0,0.9583,0.0294,0.697,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013274,133,13,133,0,0.138,1.0,0.015,0.0992,0,1.0,0.1053,0.1092,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013328,26,16,26,0,0.0654,1.0,0.0,0.6154,0,1.0,0.0,0.6154,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013640,5,1,5,0,0.75,1.0,0.0,0.2,0,1.0,0.0,0.2,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013649,14,1,14,0,0.2357,1.0,0.0714,0.0769,0,1.0,0.0714,0.0769,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013775,48,18,48,0,-0.0083,1.0,0.0,0.375,0,0.9444,0.1458,0.4146,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013778,32,17,32,0,-0.0188,1.0,0.0,0.5312,0,1.0,0.0312,0.5484,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD013854,19,11,19,0,-0.05,1.0,0.0,0.5789,0,1.0,0.0,0.5789,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD014384,14,10,14,0,0.0214,1.0,0.0,0.7143,0,0.9,0.1429,0.75,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD014758,48,34,48,0,-0.0292,0.8824,0.0833,0.6818,4,0.8529,0.1667,0.725,5
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD014821,30,20,30,0,-0.0167,0.75,0.2,0.625,5,0.75,0.2,0.625,5
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD014884,6,4,6,0,-0.05,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015016,5,2,5,0,0.55,1.0,0.0,0.4,0,1.0,0.0,0.4,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015171,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.0,0.25,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015187,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015244,2,0,2,0,,,0.0,0.0,0,,0.5,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015245,4,3,4,0,0.2,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015246,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015248,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015249,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015321,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015322,3,0,3,0,,,0.0,0.0,0,,0.3333,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD015333,18,1,18,0,0.8389,1.0,0.0,0.0556,0,1.0,0.0556,0.0588,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD000951,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD001191,9,6,9,0,0.0611,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003160,3,2,3,0,-0.05,0.5,0.3333,0.5,1,0.5,0.3333,0.5,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003352,8,5,8,0,0.325,1.0,0.0,0.625,0,1.0,0.0,0.625,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003824,19,10,19,0,-0.05,1.0,0.0,0.5263,0,0.9,0.0526,0.5,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004381,3,0,3,0,,,0.3333,0.0,0,,1.0,,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004476,10,10,10,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004800,6,2,6,0,0.45,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD005563,27,14,27,0,0.2463,1.0,0.0,0.5185,0,1.0,0.0741,0.56,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006466,10,1,10,0,0.85,1.0,0.5,0.2,0,1.0,0.7,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006577,7,0,7,0,,,0.0,0.0,0,,0.1429,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006612,33,16,33,0,0.0409,1.0,0.0,0.4848,0,1.0,0.0606,0.5161,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006638,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006650,19,8,19,0,0.3184,1.0,0.1053,0.4706,0,1.0,0.2632,0.5714,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006652,13,4,13,0,0.5654,1.0,0.0769,0.3333,0,1.0,0.3846,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006870,15,7,15,0,0.2833,1.0,0.0667,0.5,0,1.0,0.1333,0.5385,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007026,9,1,9,0,0.7278,1.0,0.2222,0.1429,0,1.0,0.2222,0.1429,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007228,64,14,64,0,0.3094,1.0,0.0781,0.2373,0,1.0,0.2969,0.3111,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007271,4,2,4,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007452,5,4,5,0,0.15,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007514,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007654,34,5,34,0,0.2147,1.0,0.0294,0.1515,0,1.0,0.1471,0.1724,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007714,25,3,25,0,0.83,1.0,0.16,0.1429,0,1.0,0.24,0.1579,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008093,10,8,10,0,0.05,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008729,18,10,18,0,0.2833,1.0,0.0,0.5556,0,1.0,0.0,0.5556,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010037,4,3,4,0,0.2,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010191,10,1,10,0,0.85,1.0,0.0,0.1,0,1.0,0.0,0.1,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010254,20,19,20,0,-0.05,1.0,0.0,0.95,0,1.0,0.0,0.95,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010355,3,2,3,0,-0.05,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010356,10,3,10,0,0.65,1.0,0.0,0.3,0,1.0,0.4,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010463,5,4,5,0,-0.05,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010534,16,3,16,0,0.325,1.0,0.125,0.2143,0,1.0,0.125,0.2143,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010901,74,3,74,0,-0.023,0.6667,0.0405,0.0282,1,0.6667,0.0946,0.0299,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010952,11,6,11,0,-0.05,1.0,0.0,0.5455,0,1.0,0.0,0.5455,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011268,1,0,1,0,,,0.0,0.0,0,,1.0,,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011737,122,20,122,0,0.1549,0.95,0.0738,0.1681,1,0.95,0.1475,0.1827,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD000009,5,4,5,0,0.15,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD000014,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD000031,127,108,127,0,0.0051,0.9907,0.0079,0.8492,1,0.9907,0.0157,0.856,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD000284,11,1,11,0,0.7682,1.0,0.2727,0.125,0,1.0,0.3636,0.1429,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD000313,30,17,30,0,-0.05,1.0,0.0,0.5667,0,0.9412,0.0333,0.5517,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD000384,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD001150,6,1,6,0,0.7833,1.0,0.0,0.1667,0,1.0,0.1667,0.2,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD001261,11,2,11,0,0.6773,1.0,0.0909,0.2,0,1.0,0.0909,0.2,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD001431,170,68,170,0,0.2265,1.0,0.0353,0.4146,0,1.0,0.0647,0.4277,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD001457,4,4,4,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD001800,88,27,88,0,0.325,1.0,0.0227,0.314,0,1.0,0.0795,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD001843,11,9,11,0,0.1318,1.0,0.0909,0.9,0,1.0,0.0909,0.9,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002062,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002069,10,1,10,0,0.85,1.0,0.0,0.1,0,1.0,0.0,0.1,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002073,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002115,7,3,7,0,0.5214,1.0,0.0,0.4286,0,1.0,0.1429,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002117,6,2,6,0,0.6167,1.0,0.1667,0.4,0,1.0,0.3333,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002143,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002201,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002250,6,1,6,0,0.7833,1.0,0.0,0.1667,0,1.0,0.1667,0.2,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002283,11,7,11,0,0.1318,1.0,0.0,0.6364,0,1.0,0.0,0.6364,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002764,8,4,8,0,0.325,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002783,14,9,14,0,0.0214,1.0,0.0,0.6429,0,1.0,0.0714,0.6923,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002840,24,16,24,0,-0.0083,0.9375,0.0833,0.6818,1,0.9375,0.1667,0.75,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD002898,19,18,19,0,-0.05,1.0,0.0,0.9474,0,1.0,0.0,0.9474,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003067,4,2,4,0,-0.05,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003137,21,5,21,0,0.569,1.0,0.0476,0.25,0,1.0,0.0952,0.2632,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003266,3,0,3,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003344,10,8,10,0,0.05,1.0,0.0,0.8,0,1.0,0.1,0.8889,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003557,5,3,5,0,0.35,1.0,0.0,0.6,0,1.0,0.0,0.6,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003559,11,4,11,0,0.4955,1.0,0.1818,0.4444,0,1.0,0.4545,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003855,6,4,6,0,0.1167,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003914,9,6,9,0,-0.05,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD003987,5,1,5,0,0.75,1.0,0.0,0.2,0,1.0,0.0,0.2,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004054,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004178,8,6,8,0,-0.05,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004250,35,8,35,0,-0.05,1.0,0.0,0.2286,0,0.875,0.0571,0.2121,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004288,17,3,17,0,0.3029,1.0,0.1176,0.2,0,1.0,0.1765,0.2143,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004376,49,11,49,0,0.4602,1.0,0.0,0.2245,0,1.0,0.0,0.2245,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004396,3,0,3,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004875,4,0,4,0,,,0.25,0.0,0,,0.5,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004903,6,6,6,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004920,4,4,4,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD004944,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD005019,3,2,3,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD005059,7,2,7,0,0.5214,1.0,0.0,0.2857,0,1.0,0.0,0.2857,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD005260,3,0,3,0,,,0.3333,0.0,0,,0.3333,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD005340,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD005397,6,3,6,0,0.2833,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD005614,10,6,10,0,0.35,1.0,0.1,0.6667,0,1.0,0.1,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006014,3,0,3,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006127,26,20,26,0,0.0654,1.0,0.0,0.7692,0,0.95,0.1154,0.8261,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006172,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006342,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006546,28,12,28,0,0.1643,0.9167,0.25,0.5238,1,0.8333,0.3929,0.5882,2
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006569,6,1,6,0,0.7833,1.0,0.0,0.1667,0,1.0,0.0,0.1667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006745,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006748,79,36,79,0,0.2411,1.0,0.0253,0.4675,0,1.0,0.0886,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006832,9,0,9,0,,,0.1111,0.0,0,,0.2222,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006962,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD006995,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007037,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.0,0.25,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007115,9,3,9,0,-0.05,1.0,0.0,0.3333,0,0.6667,0.1111,0.25,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007122,5,0,5,0,,,0.2,0.0,0,,0.2,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007356,8,5,8,0,0.325,1.0,0.125,0.7143,0,1.0,0.125,0.7143,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007470,84,66,84,0,-0.0024,0.9394,0.0595,0.7848,4,0.9242,0.0714,0.7821,5
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007497,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007505,4,2,4,0,0.2,1.0,0.0,0.5,0,1.0,0.25,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007699,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007716,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007719,3,2,3,0,-0.05,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007736,26,16,26,0,0.1808,1.0,0.0,0.6154,0,1.0,0.0,0.6154,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007745,2,0,2,0,,,0.0,0.0,0,,0.5,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD007953,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008020,5,4,5,0,0.15,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008056,7,5,7,0,-0.05,1.0,0.0,0.7143,0,0.8,0.1429,0.6667,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008081,7,4,7,0,0.2357,1.0,0.0,0.5714,0,1.0,0.0,0.5714,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008170,22,18,22,0,-0.05,0.9444,0.0455,0.8095,1,0.9444,0.0455,0.8095,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008185,3,2,3,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008213,6,4,6,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008265,3,1,3,0,0.6167,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008345,18,7,18,0,0.0056,1.0,0.0556,0.4118,0,0.8571,0.1111,0.375,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008366,83,24,83,0,0.4078,1.0,0.0482,0.3038,0,0.9583,0.1205,0.3151,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008426,2,2,2,0,,1.0,0.0,1.0,0,0.5,0.5,1.0,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008435,9,5,9,0,0.3944,1.0,0.0,0.5556,0,1.0,0.0,0.5556,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008807,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.0,0.25,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008812,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008873,57,22,57,0,0.0728,1.0,0.0,0.386,0,1.0,0.0351,0.4,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008881,11,4,11,0,0.1318,1.0,0.0909,0.4,0,1.0,0.0909,0.4,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008963,12,9,12,0,-0.05,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD008969,13,3,13,0,0.2577,1.0,0.0,0.2308,0,1.0,0.0769,0.25,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009125,27,15,27,0,-0.05,0.9333,0.037,0.5385,1,0.9333,0.037,0.5385,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009185,23,7,23,0,-0.0065,0.8571,0.1304,0.3,1,0.8571,0.1739,0.3158,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009210,7,2,7,0,0.2357,1.0,0.0,0.2857,0,1.0,0.1429,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009400,2,0,2,0,,,0.5,0.0,0,,0.5,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009403,6,3,6,0,0.45,1.0,0.3333,0.75,0,1.0,0.5,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009436,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009530,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.75,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009537,6,3,6,0,0.45,1.0,0.3333,0.75,0,1.0,0.3333,0.75,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009593,106,0,106,0,,,0.434,0.0,0,,0.8302,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009633,3,1,3,0,0.6167,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009634,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009669,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009685,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009771,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009780,5,2,5,0,0.55,1.0,0.0,0.4,0,1.0,0.0,0.4,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009782,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009784,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009823,25,22,25,0,0.11,1.0,0.0,0.88,0,1.0,0.0,0.88,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD009831,3,0,3,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010139,6,3,6,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010206,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010225,4,0,4,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010226,2,0,2,0,,,0.0,0.0,0,,0.5,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010235,17,1,17,0,0.8912,1.0,0.1176,0.0667,0,1.0,0.2941,0.0833,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010264,8,6,8,0,0.075,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010269,4,3,4,0,0.2,1.0,0.0,0.75,0,1.0,0.25,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010333,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010381,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010387,4,4,4,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010411,11,5,11,0,0.4955,1.0,0.0,0.4545,0,1.0,0.0,0.4545,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010447,4,0,4,0,,,0.0,0.0,0,,0.75,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010473,3,2,3,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010479,4,2,4,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010533,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010542,3,1,3,0,0.6167,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010632,12,6,12,0,0.2,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010633,3,1,3,0,0.2833,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010653,4,0,4,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010685,16,2,16,0,0.7625,1.0,0.125,0.1429,0,1.0,0.25,0.1667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010693,12,5,12,0,0.45,1.0,0.0833,0.4545,0,1.0,0.0833,0.4545,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010709,5,3,5,0,0.35,1.0,0.0,0.6,0,1.0,0.0,0.6,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010767,6,2,6,0,-0.05,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010910,87,9,87,0,-0.05,0.8889,0.0575,0.0976,1,0.8889,0.1494,0.1081,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010912,46,23,46,0,0.0152,1.0,0.0,0.5,0,1.0,0.0435,0.5227,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD010927,16,14,16,0,-0.05,1.0,0.0,0.875,0,1.0,0.0,0.875,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011047,8,0,8,0,,,0.125,0.0,0,,0.125,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011145,42,15,42,0,0.0452,1.0,0.0476,0.375,0,0.9333,0.1905,0.4118,1
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011146,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011209,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011241,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011281,5,2,5,0,0.55,1.0,0.2,0.5,0,1.0,0.4,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011447,3,2,3,0,-0.05,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011472,8,4,8,0,0.2,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011721,14,9,14,0,-0.05,0.3333,0.4286,0.375,6,0.3333,0.5,0.4286,6
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011724,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD011837,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), title/abstract",abstract,CD012004,28,13,28,0,0.2357,1.0,0.0,0.4643,0,1.0,0.0,0.4643,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008080,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010452,12,5,12,0,0.5333,1.0,0.0833,0.4545,0,1.0,0.0833,0.4545,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD012515,6,2,6,0,0.6167,1.0,0.1667,0.4,0,1.0,0.3333,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013080,24,24,24,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013088,34,24,34,0,0.2147,1.0,0.0,0.7059,0,1.0,0.0,0.7059,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013274,133,13,133,0,0.4237,1.0,0.0075,0.0985,0,1.0,0.0526,0.1032,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013328,28,18,28,0,0.1643,1.0,0.0,0.6429,0,1.0,0.0,0.6429,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013640,5,1,5,0,0.75,1.0,0.0,0.2,0,1.0,0.0,0.2,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013649,14,1,14,0,0.2357,1.0,0.0714,0.0769,0,1.0,0.0714,0.0769,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013775,49,18,49,0,0.2765,1.0,0.0,0.3673,0,1.0,0.1224,0.4186,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013778,32,17,32,0,0.2938,1.0,0.0625,0.5667,0,1.0,0.0625,0.5667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD013854,19,11,19,0,-0.05,1.0,0.0,0.5789,0,1.0,0.0,0.5789,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD014384,14,10,14,0,-0.05,1.0,0.0,0.7143,0,0.9,0.1429,0.75,1
+"CSMeD-FT (211 reviews), full text",fulltext,CD014758,48,34,48,0,-0.0292,0.9118,0.0625,0.6889,3,0.8824,0.125,0.7143,4
+"CSMeD-FT (211 reviews), full text",fulltext,CD014821,32,22,32,0,0.1062,1.0,0.0,0.6875,0,1.0,0.0,0.6875,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD014884,6,4,6,0,0.1167,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015016,5,2,5,0,0.55,1.0,0.0,0.4,0,1.0,0.0,0.4,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015171,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.0,0.25,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015187,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015244,2,0,2,0,,,0.0,0.0,0,,0.5,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015245,4,3,4,0,0.2,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015246,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015248,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015249,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015321,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015322,3,0,3,0,,,0.3333,0.0,0,,0.3333,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD015333,18,1,18,0,0.8944,1.0,0.0,0.0556,0,1.0,0.0556,0.0588,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD000951,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD001191,9,6,9,0,0.1722,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003160,3,2,3,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003352,8,5,8,0,0.2,1.0,0.0,0.625,0,1.0,0.0,0.625,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003824,19,10,19,0,-0.05,1.0,0.0,0.5263,0,1.0,0.0,0.5263,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004381,3,0,3,0,,,0.3333,0.0,0,,1.0,,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004476,11,11,11,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004800,6,2,6,0,0.6167,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD005563,28,15,28,0,0.1286,1.0,0.0714,0.5769,0,1.0,0.1429,0.625,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006466,10,1,10,0,0.85,1.0,0.5,0.2,0,1.0,0.6,0.25,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006577,7,0,7,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006612,34,17,34,0,0.0088,1.0,0.0294,0.5152,0,1.0,0.0294,0.5152,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006638,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006650,19,8,19,0,0.4237,1.0,0.2632,0.5714,0,1.0,0.4211,0.7273,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006652,13,4,13,0,0.5654,1.0,0.1538,0.3636,0,1.0,0.4615,0.5714,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006870,15,7,15,0,0.2167,1.0,0.0667,0.5,0,1.0,0.0667,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007026,9,1,9,0,0.7278,1.0,0.3333,0.1667,0,1.0,0.3333,0.1667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007228,65,14,65,0,0.4577,1.0,0.0615,0.2295,0,1.0,0.1385,0.25,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007271,4,2,4,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007452,5,4,5,0,0.15,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007514,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007654,34,5,34,0,0.1853,1.0,0.0,0.1471,0,1.0,0.0294,0.1515,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007714,25,3,25,0,0.83,1.0,0.16,0.1429,0,1.0,0.28,0.1667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008093,10,8,10,0,0.05,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008729,18,10,18,0,0.3389,1.0,0.0,0.5556,0,1.0,0.0,0.5556,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010037,4,3,4,0,0.2,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010191,10,1,10,0,0.75,1.0,0.0,0.1,0,1.0,0.0,0.1,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010254,20,19,20,0,-0.05,1.0,0.0,0.95,0,1.0,0.0,0.95,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010355,3,2,3,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010356,10,3,10,0,0.65,1.0,0.0,0.3,0,1.0,0.3,0.4286,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010463,5,4,5,0,-0.05,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010534,16,3,16,0,0.7,1.0,0.125,0.2143,0,1.0,0.125,0.2143,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010901,74,3,74,0,-0.023,0.6667,0.0676,0.029,1,0.6667,0.0946,0.0299,1
+"CSMeD-FT (211 reviews), full text",fulltext,CD010952,11,6,11,0,0.0409,1.0,0.0,0.5455,0,1.0,0.0,0.5455,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011268,1,0,1,0,,,0.0,0.0,0,,1.0,,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011737,125,20,125,0,0.254,1.0,0.032,0.1653,0,1.0,0.088,0.1754,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD000009,5,4,5,0,0.15,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD000014,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD000031,127,108,127,0,-0.0106,1.0,0.0,0.8504,0,1.0,0.0,0.8504,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD000284,12,1,12,0,0.8667,1.0,0.0833,0.0909,0,1.0,0.0833,0.0909,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD000313,30,17,30,0,-0.05,1.0,0.0,0.5667,0,1.0,0.0,0.5667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD000384,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD001150,6,1,6,0,0.7833,1.0,0.0,0.1667,0,1.0,0.1667,0.2,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD001261,12,3,12,0,0.5333,1.0,0.0,0.25,0,1.0,0.0,0.25,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD001431,171,68,171,0,0.2892,1.0,0.0292,0.4096,0,1.0,0.0702,0.4277,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD001457,4,4,4,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD001800,90,28,90,0,0.4944,1.0,0.0222,0.3182,0,1.0,0.0556,0.3294,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD001843,11,9,11,0,0.1318,1.0,0.0909,0.9,0,1.0,0.0909,0.9,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002062,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002069,10,1,10,0,0.85,1.0,0.0,0.1,0,1.0,0.0,0.1,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002073,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002115,7,3,7,0,0.5214,1.0,0.0,0.4286,0,1.0,0.1429,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002117,6,2,6,0,0.6167,1.0,0.0,0.3333,0,1.0,0.1667,0.4,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002143,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002201,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002250,6,1,6,0,0.7833,1.0,0.0,0.1667,0,1.0,0.0,0.1667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002283,11,7,11,0,0.2227,1.0,0.0,0.6364,0,1.0,0.0,0.6364,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002764,8,4,8,0,0.325,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002783,15,10,15,0,0.15,1.0,0.0667,0.7143,0,1.0,0.0667,0.7143,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD002840,25,17,25,0,-0.05,0.9412,0.04,0.6667,1,0.9412,0.08,0.6957,1
+"CSMeD-FT (211 reviews), full text",fulltext,CD002898,23,22,23,0,-0.0065,1.0,0.0,0.9565,0,1.0,0.0,0.9565,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003067,4,2,4,0,-0.05,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003137,21,5,21,0,0.7119,1.0,0.0476,0.25,0,1.0,0.1905,0.2941,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003266,3,0,3,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003344,10,8,10,0,0.05,1.0,0.0,0.8,0,1.0,0.1,0.8889,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003557,6,4,6,0,0.1167,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003559,11,4,11,0,0.5864,1.0,0.0909,0.4,0,1.0,0.4545,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003855,6,4,6,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003914,9,6,9,0,0.1722,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD003987,5,1,5,0,0.75,1.0,0.0,0.2,0,1.0,0.0,0.2,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004054,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004178,8,6,8,0,0.075,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004250,35,8,35,0,-0.05,1.0,0.0,0.2286,0,1.0,0.0,0.2286,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004288,17,3,17,0,0.6559,1.0,0.1176,0.2,0,1.0,0.2941,0.25,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004376,50,11,50,0,0.45,1.0,0.0,0.22,0,1.0,0.0,0.22,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004396,3,0,3,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004875,4,0,4,0,,,0.25,0.0,0,,0.25,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004903,6,6,6,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004920,4,4,4,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD004944,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD005019,4,3,4,0,0.2,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD005059,7,2,7,0,0.5214,1.0,0.0,0.2857,0,1.0,0.1429,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD005260,3,0,3,0,,,0.6667,0.0,0,,0.6667,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD005340,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD005397,6,3,6,0,0.1167,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD005614,10,6,10,0,0.35,1.0,0.1,0.6667,0,1.0,0.1,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006014,3,0,3,0,,,0.0,0.0,0,,0.3333,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006127,26,20,26,0,0.0269,1.0,0.0385,0.8,0,0.95,0.0769,0.7917,1
+"CSMeD-FT (211 reviews), full text",fulltext,CD006172,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006342,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006546,29,12,29,0,0.4328,1.0,0.1724,0.5,0,1.0,0.2069,0.5217,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006569,6,1,6,0,0.7833,1.0,0.0,0.1667,0,1.0,0.0,0.1667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006745,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006748,82,38,82,0,0.3037,1.0,0.0122,0.4691,0,1.0,0.0488,0.4872,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006832,9,0,9,0,,,0.1111,0.0,0,,0.2222,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006962,3,3,3,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD006995,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007037,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.0,0.25,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007115,9,3,9,0,0.0611,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007122,5,0,5,0,,,0.0,0.0,0,,0.2,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007356,8,5,8,0,0.325,1.0,0.0,0.625,0,1.0,0.0,0.625,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007470,85,67,85,0,0.0206,1.0,0.0,0.7882,0,0.9701,0.0235,0.7831,2
+"CSMeD-FT (211 reviews), full text",fulltext,CD007497,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007505,4,2,4,0,0.2,1.0,0.0,0.5,0,1.0,0.25,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007699,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007716,1,0,1,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007719,3,2,3,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007736,27,17,27,0,0.1352,1.0,0.0,0.6296,0,1.0,0.0,0.6296,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007745,3,0,3,0,,,0.0,0.0,0,,0.3333,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD007953,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008020,5,4,5,0,-0.05,1.0,0.0,0.8,0,1.0,0.0,0.8,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008056,7,5,7,0,-0.05,1.0,0.0,0.7143,0,1.0,0.0,0.7143,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008081,7,4,7,0,0.3786,1.0,0.0,0.5714,0,1.0,0.0,0.5714,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008170,22,18,22,0,0.0864,1.0,0.0,0.8182,0,1.0,0.0,0.8182,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008185,3,2,3,0,-0.05,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008213,6,4,6,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008265,3,1,3,0,0.6167,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008345,18,7,18,0,0.0611,1.0,0.0556,0.4118,0,1.0,0.0556,0.4118,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008366,84,24,84,0,0.4262,1.0,0.0595,0.3038,0,1.0,0.119,0.3243,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008426,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008435,9,5,9,0,0.3944,1.0,0.0,0.5556,0,1.0,0.0,0.5556,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008807,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.0,0.25,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008812,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008873,57,22,57,0,0.3886,1.0,0.0,0.386,0,1.0,0.0351,0.4,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008881,11,4,11,0,0.1318,1.0,0.0909,0.4,0,1.0,0.0909,0.4,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008963,12,9,12,0,-0.05,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD008969,13,3,13,0,0.6423,1.0,0.0,0.2308,0,1.0,0.1538,0.2727,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009125,27,15,27,0,-0.05,0.9333,0.037,0.5385,1,0.9333,0.037,0.5385,1
+"CSMeD-FT (211 reviews), full text",fulltext,CD009185,23,7,23,0,0.037,1.0,0.0435,0.3182,0,0.8571,0.1304,0.3,1
+"CSMeD-FT (211 reviews), full text",fulltext,CD009210,7,2,7,0,0.2357,1.0,0.0,0.2857,0,1.0,0.2857,0.4,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009400,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009403,6,3,6,0,0.45,1.0,0.1667,0.6,0,1.0,0.5,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009436,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009530,4,1,4,0,0.7,1.0,0.0,0.25,0,1.0,0.25,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009537,6,3,6,0,0.45,1.0,0.3333,0.75,0,1.0,0.5,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009593,107,0,107,0,,,0.5234,0.0,0,,0.8972,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009633,3,1,3,0,0.6167,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009634,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009669,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009685,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009771,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009780,5,2,5,0,0.35,1.0,0.0,0.4,0,1.0,0.0,0.4,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009782,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009784,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009823,25,22,25,0,0.11,1.0,0.0,0.88,0,1.0,0.0,0.88,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD009831,3,0,3,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010139,6,3,6,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010206,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010225,4,0,4,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010226,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010235,17,1,17,0,0.8912,1.0,0.0588,0.0625,0,1.0,0.2353,0.0769,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010264,8,6,8,0,-0.05,1.0,0.0,0.75,0,1.0,0.0,0.75,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010269,4,3,4,0,0.2,1.0,0.0,0.75,0,1.0,0.25,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010333,2,1,2,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010381,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010387,4,4,4,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010411,11,5,11,0,0.4955,1.0,0.0,0.4545,0,1.0,0.0,0.4545,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010447,4,0,4,0,,,0.0,0.0,0,,0.25,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010473,3,2,3,0,0.2833,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010479,4,2,4,0,0.45,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010533,2,2,2,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010542,3,1,3,0,0.2833,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010632,12,6,12,0,0.3667,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010633,3,1,3,0,0.2833,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010653,4,0,4,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010685,16,2,16,0,0.825,1.0,0.1875,0.1538,0,1.0,0.3125,0.1818,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010693,12,5,12,0,0.45,1.0,0.0833,0.4545,0,1.0,0.0833,0.4545,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010709,5,3,5,0,0.35,1.0,0.0,0.6,0,1.0,0.2,0.75,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010767,6,2,6,0,0.2833,1.0,0.0,0.3333,0,1.0,0.0,0.3333,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010910,87,9,87,0,-0.05,0.8889,0.0805,0.1,1,0.8889,0.1494,0.1081,1
+"CSMeD-FT (211 reviews), full text",fulltext,CD010912,46,23,46,0,0.037,1.0,0.0217,0.5111,0,1.0,0.0435,0.5227,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD010927,16,14,16,0,0.0125,1.0,0.0,0.875,0,1.0,0.0,0.875,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011047,8,0,8,0,,,0.0,0.0,0,,0.125,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011145,44,15,44,0,0.0182,1.0,0.0682,0.3659,0,0.8667,0.1136,0.3333,2
+"CSMeD-FT (211 reviews), full text",fulltext,CD011146,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011209,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011241,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011281,5,2,5,0,0.55,1.0,0.2,0.5,0,1.0,0.4,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011447,3,2,3,0,-0.05,1.0,0.0,0.6667,0,1.0,0.0,0.6667,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011472,8,4,8,0,0.2,1.0,0.0,0.5,0,1.0,0.0,0.5,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011721,15,9,15,0,0.2167,1.0,0.0,0.6,0,1.0,0.1333,0.6923,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011724,1,1,1,0,,1.0,0.0,1.0,0,1.0,0.0,1.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD011837,2,0,2,0,,,0.0,0.0,0,,0.0,0.0,0
+"CSMeD-FT (211 reviews), full text",fulltext,CD012004,29,13,29,0,0.3293,1.0,0.0,0.4483,0,1.0,0.0345,0.4643,0
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,Oud_2018,937,20,937,0,0.8796,1.0,0.7268,0.0781,0,1.0,0.8026,0.1081,0
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,Meijboom_2021,825,36,825,0,0.7791,1.0,0.7321,0.1629,0,1.0,0.8061,0.225,0
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,Jeyaraman_2020,1173,96,1173,0,0.5297,0.875,0.8278,0.4158,12,0.6979,0.8994,0.5678,29
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,van_der_Valk_2021,715,88,715,0,0.5598,0.9886,0.5203,0.2536,1,0.9318,0.6196,0.3015,6
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,Muthu_2021,2695,336,2695,0,0.1648,0.9702,0.1811,0.1477,10,0.9107,0.3403,0.1721,30
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,van_der_Waal_2022,1957,33,1957,0,0.9009,1.0,0.6208,0.0445,0,1.0,0.7905,0.0805,0
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,Wolters_2018,3899,19,3899,0,0.9054,1.0,0.8779,0.0399,0,1.0,0.9184,0.0597,0
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,van_de_Schoot_2018,4473,38,4473,0,0.7193,0.9474,0.7995,0.0401,2,0.9474,0.8896,0.0729,2
+"SYNERGY launch sets (8 reviews) + Appenzeller-Herzog 2020, public",abstract,Appenzeller-Herzog_2020,2359,26,2359,0,0.7953,1.0,0.5134,0.0226,0,1.0,0.6922,0.0358,0
+Bannach-Brown 2019 held-out validation set,abstract,Bannach-Brown_2019_heldout,1251,163,1251,0,0.8189,1.0,0.1103,0.1465,0,1.0,0.2814,0.1813,0
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD012768,131,45,131,0,0.3164,1.0,0.0153,0.3488,0,1.0,0.0763,0.3719,0
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD012233,472,43,472,0,0.4055,1.0,0.2945,0.1291,0,0.9302,0.4979,0.1688,3
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD012669,1260,71,1260,0,0.6063,1.0,0.3222,0.0831,0,1.0,0.4833,0.1091,0
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD008874,2382,118,2382,0,0.7271,0.9915,0.7301,0.182,1,0.9068,0.8245,0.256,11
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD009044,3169,11,3169,0,0.8705,1.0,0.888,0.031,0,0.9091,0.9602,0.0794,1
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD012080,6643,77,6643,0,0.8261,1.0,0.46,0.0215,0,1.0,0.6684,0.035,0
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD012567,6735,11,6735,0,0.9377,1.0,0.9173,0.0197,0,1.0,0.9653,0.047,0
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD011686,9729,64,9729,0,0.8003,0.7812,0.9343,0.0782,14,0.3906,0.984,0.1603,39
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD012661,3367,192,3367,0,0.675,0.9167,0.7829,0.2408,16,0.7969,0.8848,0.3943,39
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD011558,2165,2,2168,0,0.8766,1.0,0.5691,0.0021,0,1.0,0.7395,0.0035,0
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD011787,4369,111,4369,0,0.8047,1.0,0.5843,0.0611,0,0.973,0.7897,0.1175,3
+"CLEF TAR 2019 DTA/Prognosis/Qualitative + CD012164 (12 topics, every record)",abstract,CD012164,61,7,61,0,0.409,1.0,0.3607,0.1795,0,1.0,0.4262,0.2,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD011218,690,14,690,0,0.8891,1.0,0.6725,0.0619,0,1.0,0.8159,0.1102,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD012268,4586,18,4586,0,0.8207,1.0,0.8251,0.0224,0,0.8889,0.92,0.0436,2
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013042,1005,27,1005,0,0.8057,1.0,0.2318,0.035,0,1.0,0.3861,0.0438,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013059,5441,17,5441,0,0.8928,1.0,0.789,0.0148,0,1.0,0.8767,0.0253,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013071,9961,52,9962,0,0.625,0.8462,0.771,0.0193,8,0.5192,0.9236,0.0355,25
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013197,2464,43,2464,0,0.8956,1.0,0.3478,0.0268,0,1.0,0.8133,0.0935,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013199,2238,16,2238,0,0.9268,1.0,0.4875,0.0139,0,1.0,0.7122,0.0248,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013295,3137,115,3137,0,0.6832,1.0,0.3711,0.0583,0,1.0,0.4941,0.0725,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013358,3542,99,3542,0,0.5209,0.9091,0.6262,0.068,9,0.697,0.7818,0.0893,30
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013377,5955,10,5955,0,0.932,1.0,0.6126,0.0043,0,1.0,0.8091,0.0088,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013421,2400,23,2400,0,0.9279,1.0,0.9292,0.1353,0,1.0,0.9525,0.2018,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013590,1852,28,1852,0,0.8793,1.0,0.7457,0.0594,0,1.0,0.8758,0.1217,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013591,10957,20,10958,0,0.8813,1.0,0.5948,0.0045,0,1.0,0.7355,0.0069,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013822,10313,18,10314,0,0.9409,1.0,0.8734,0.0138,0,1.0,0.9414,0.0298,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD013880,11642,43,11642,0,0.9184,1.0,0.812,0.0196,0,1.0,0.8907,0.0338,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD014715,49161,133,49162,0,0.8949,0.9774,0.8722,0.0207,3,0.9624,0.9405,0.0438,5
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD014736,6128,8,6128,0,0.9448,1.0,0.9305,0.0188,0,1.0,0.9724,0.0473,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD015038,2196,14,2196,0,0.9136,1.0,0.7714,0.0279,0,1.0,0.8456,0.0413,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD015042,3057,9,3057,0,0.9232,1.0,0.8328,0.0176,0,1.0,0.8979,0.0288,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD015067,2067,12,2068,0,0.9065,1.0,0.7658,0.0248,0,1.0,0.9061,0.0619,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD015306,1671,6,1671,0,0.9386,1.0,0.8803,0.03,0,1.0,0.9276,0.0496,0
+"Chan 2025 manual-search, full pools (22 reviews, every record)",abstract,CD015432,2036,43,2036,0,0.8631,1.0,0.5074,0.0429,0,1.0,0.7156,0.0743,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD009694,161,16,161,0,0.2419,0.9375,0.7205,0.3333,1,0.9375,0.8323,0.5556,1
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012216,217,11,217,0,0.4615,1.0,0.3917,0.0833,0,0.9091,0.5714,0.1075,1
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011420,251,42,251,0,0.6472,0.8571,0.7251,0.5217,6,0.7619,0.7928,0.6154,10
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012083,322,11,322,0,0.8724,0.9091,0.9472,0.5882,1,0.7273,0.9627,0.6667,3
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012009,536,37,536,0,0.8063,1.0,0.6642,0.2056,0,1.0,0.75,0.2761,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD008759,560,60,932,0,0.8308,1.0,0.6344,0.1761,0,0.9833,0.8057,0.3258,1
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011431,797,297,1182,0,0.3003,0.6263,0.6525,0.4528,111,0.5084,0.8034,0.6497,146
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011912,536,36,1406,0,0.8881,1.0,0.8399,0.16,0,1.0,0.8575,0.1796,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD008892,569,69,1499,0,0.7724,1.0,0.5457,0.1013,0,1.0,0.7002,0.1535,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD010657,639,139,1859,0,0.6786,0.9928,0.3817,0.1201,1,0.9856,0.6025,0.1854,2
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD008122,772,272,1911,0,0.6721,0.9449,0.7437,0.5248,15,0.7757,0.8261,0.635,61
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011053,512,12,2235,0,0.9208,1.0,0.8793,0.0445,0,1.0,0.921,0.068,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD010864,544,44,2505,0,0.6896,1.0,0.5227,0.0368,0,1.0,0.6347,0.0481,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD010502,729,229,2985,0,0.8142,1.0,0.8236,0.4348,0,0.9694,0.8499,0.4955,7
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011926,540,40,4050,0,0.9169,1.0,0.8456,0.064,0,1.0,0.9367,0.1559,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD010296,553,53,4602,0,0.931,1.0,0.8936,0.1082,0,1.0,0.9371,0.183,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD009175,565,65,5644,0,0.7571,0.8923,0.8454,0.0665,7,0.8,0.9255,0.1237,13
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011126,513,13,6000,0,0.9478,1.0,0.902,0.0221,0,1.0,0.9459,0.0401,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011602,508,8,6157,0,0.7809,1.0,0.771,0.0057,0,0.875,0.889,0.0102,1
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012010,790,290,6830,0,0.7526,0.9897,0.6573,0.1226,3,0.9379,0.8223,0.2241,18
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011515,627,127,7244,0,0.894,1.0,0.6465,0.0496,0,1.0,0.8154,0.095,0
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012599,1075,575,8048,0,0.5811,0.96,0.625,0.1829,23,0.8261,0.7441,0.2307,100
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD010680,526,26,8405,0,0.7397,0.9615,0.7637,0.0126,1,0.8462,0.8837,0.0225,4
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD008587,578,79,9158,0,0.7629,0.9873,0.62,0.0225,1,0.9747,0.7869,0.0395,2
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD011686,555,55,9443,0,0.8052,0.8182,0.9356,0.074,10,0.4364,0.9915,0.2988,31
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012179,804,304,9832,0,0.8915,0.9967,0.7599,0.1283,1,0.9836,0.9095,0.3361,5
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012281,523,23,9876,0,0.8959,1.0,0.7483,0.0093,0,0.9565,0.918,0.0272,1
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD012165,808,308,10222,0,0.7138,0.9935,0.5705,0.0697,2,0.9643,0.7324,0.1086,11
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD010213,1099,599,15198,0,0.6723,1.0,0.292,0.0557,0,0.995,0.4613,0.0728,3
+"CLEF TAR 2018 DTA (30 topics, sampled)",abstract,CD009263,619,124,79786,0,0.8194,0.8548,0.9583,0.0322,18,0.7661,0.9867,0.0904,29
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD009694,161,16,161,0,0.2419,0.9375,0.7205,0.3333,1,0.9375,0.8323,0.5556,1
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012216,217,11,217,0,0.4615,1.0,0.3917,0.0833,0,0.9091,0.5714,0.1075,1
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011420,251,42,251,0,0.6472,0.8571,0.7251,0.5217,6,0.7619,0.7928,0.6154,10
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012083,322,11,322,0,0.8724,0.9091,0.9472,0.5882,1,0.7273,0.9627,0.6667,3
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012009,536,37,536,0,0.8063,1.0,0.6642,0.2056,0,1.0,0.75,0.2761,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD008759,932,60,932,0,0.8245,1.0,0.6266,0.1724,0,0.9833,0.7865,0.2965,1
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011431,1182,297,1182,0,0.2918,0.6263,0.6489,0.4482,111,0.5084,0.8012,0.6426,146
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011912,1406,36,1406,0,0.8888,1.0,0.8286,0.1494,0,1.0,0.8514,0.1722,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD008892,1499,69,1499,0,0.7705,1.0,0.539,0.0999,0,1.0,0.7005,0.1537,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD010657,1859,139,1859,0,0.6934,0.9928,0.3787,0.1195,1,0.9856,0.6003,0.1844,2
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD008122,1911,272,1911,0,0.6774,0.9449,0.7399,0.5171,15,0.7757,0.8231,0.6243,61
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011053,2235,12,2235,0,0.9227,1.0,0.8761,0.0433,0,1.0,0.9154,0.0635,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD010864,2505,44,2505,0,0.6921,1.0,0.5226,0.0368,0,1.0,0.6303,0.0475,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD010502,2985,229,2985,0,0.8153,1.0,0.8127,0.4097,0,0.9694,0.8529,0.5057,7
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011926,4050,40,4050,0,0.927,1.0,0.8514,0.0664,0,1.0,0.939,0.1619,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD010296,4602,53,4602,0,0.9311,1.0,0.8848,0.1,0,1.0,0.925,0.1536,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD009175,5644,65,5644,0,0.764,0.8923,0.8515,0.0692,7,0.8,0.936,0.144,13
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011126,6000,13,6000,0,0.9462,1.0,0.9015,0.022,0,1.0,0.9582,0.0518,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011602,6155,8,6157,0,0.7698,1.0,0.7802,0.0059,0,0.875,0.8975,0.0111,1
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012010,6830,290,6830,0,0.7682,0.9897,0.6755,0.1295,3,0.9379,0.8401,0.2491,18
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011515,7244,127,7244,0,0.9002,1.0,0.6233,0.0465,0,1.0,0.8004,0.0878,0
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012599,8048,575,8048,0,0.5535,0.96,0.5958,0.1697,23,0.8261,0.7073,0.2016,100
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD010680,8405,26,8405,0,0.7574,0.9615,0.7761,0.0133,1,0.8462,0.898,0.0257,4
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD008587,9145,79,9158,0,0.7885,0.9873,0.6524,0.0245,1,0.9747,0.8086,0.044,2
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD011686,9443,55,9443,0,0.8088,0.8182,0.9346,0.0728,10,0.4364,0.9839,0.1579,31
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012179,9832,304,9832,0,0.8814,0.9967,0.7592,0.128,1,0.9836,0.8997,0.3032,5
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012281,9876,23,9876,0,0.8845,1.0,0.7581,0.0096,0,0.9565,0.9076,0.0241,1
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD012165,10222,308,10222,0,0.7389,0.9935,0.5723,0.07,2,0.9643,0.7413,0.1123,11
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD010213,15198,599,15198,0,0.6727,1.0,0.3098,0.0571,0,0.995,0.4714,0.0742,3
+"CLEF TAR 2018 DTA (30 topics, every record)",abstract,CD009263,78799,124,79786,0,0.8443,0.8548,0.969,0.0434,18,0.7661,0.9881,0.1015,29

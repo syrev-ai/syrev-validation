@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007953 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Intermittent versus daily therapy for treating tuberculosis in children". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs) and quasi‐RCTs.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Intermittent versus daily therapy for treating tuberculosis in children". Does this record study the review''s eligible participants/population? Review criterion: Children aged 15 years or younger, diagnosed as having TB in category 1, 2, or 3 according to the WHO diagnostic categories (Appendix 1). Children diagnosed under category 4 (multiple‐drug resistant TB) by the WHO (Appendix 1).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Intermittent versus daily therapy for treating tuberculosis in children". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Twice‐weekly short‐course anti‐TB chemotherapy. Thrice‐weekly short‐course anti‐TB chemotherapy. Twice‐weekly short‐course anti‐TB chemotherapy. Thrice‐weekly short‐course anti‐TB chemotherapy. Daily short‐course anti‐TB chemotherapy. Daily short‐course anti‐TB chemotherapy. * All regimens had to contain rifampicin for the intensive phase, which is the initial period when more intensive treatment is given. The total duration of treatment should ideally have been six months, but not have exceeded one year. We classified short course treatment regimens where daily dosing was used for the first two months as daily treatment, even if this was followed by intermittent treatment thereafter, since daily dosing in the intensive phase of treatment is considered critical for treatment success.'
+  required: true

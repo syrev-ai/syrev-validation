@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013377.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Therapeutic vaccines for advanced non‐small cell lung cancer". Selection criteria: We included parallel‐group, randomised controlled trials evaluating a therapeutic cancer vaccine, alone or in combination with other treatments, in adults (> 18 years) with advanced non‐small cell lung cancer (NSCLC), whatever the line of treatment. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Therapeutic vaccines for advanced non‐small cell lung cancer". Selection criteria: We included parallel‐group, randomised controlled trials evaluating a therapeutic cancer vaccine, alone or in combination with other treatments, in adults (> 18 years) with advanced non‐small cell lung cancer (NSCLC), whatever the line of treatment. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Therapeutic vaccines for advanced non‐small cell lung cancer". Selection criteria: We included parallel‐group, randomised controlled trials evaluating a therapeutic cancer vaccine, alone or in combination with other treatments, in adults (> 18 years) with advanced non‐small cell lung cancer (NSCLC), whatever the line of treatment. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

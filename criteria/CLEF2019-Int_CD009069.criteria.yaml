@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd009069.pub3 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Prophylactic vaccination against human papillomaviruses to prevent cervical cancer and its precursors". Selection criteria: Randomised controlled trials comparing efficacy and safety in females offered HPV vaccines with placebo (vaccine adjuvants or another control vaccine). Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Prophylactic vaccination against human papillomaviruses to prevent cervical cancer and its precursors". Selection criteria: Randomised controlled trials comparing efficacy and safety in females offered HPV vaccines with placebo (vaccine adjuvants or another control vaccine). Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Prophylactic vaccination against human papillomaviruses to prevent cervical cancer and its precursors". Selection criteria: Randomised controlled trials comparing efficacy and safety in females offered HPV vaccines with placebo (vaccine adjuvants or another control vaccine). Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

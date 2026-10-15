@@ -1,0 +1,11 @@
+# SWIFT-Review / NTP OHAT dataset (Howard et al. 2016): fluoride and neurotoxicity (learning, memory, neurodevelopment).
+criteria:
+  - id: exposure
+    question: "Does the study examine exposure to fluoride (e.g. sodium fluoride, fluoridated water, dietary or occupational fluoride), measured or administered?"
+    required: true
+  - id: outcome
+    question: "Does the study assess a neurological, neurodevelopmental, neurobehavioural or cognitive outcome (e.g. learning, memory, IQ, behaviour, brain histology or neurochemistry)?"
+    required: true
+  - id: primary_research
+    question: "Is this primary research (human, experimental animal, or in vitro/mechanistic study), rather than a review, editorial or commentary without original data?"
+    required: true

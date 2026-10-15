@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT test metadata for CD014884 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Intravenous immunoglobulin for the treatment of Kawasaki disease". Does this record meet the review''s eligible study design? Review criterion: We included all randomised controlled trials (RCTs) investigating the use of IVIG for the treatment of KD. We planned to include studies involving treatment for initial or refractory KD, or both. We excluded studies that did not investigate any of our outcomes of interest.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Intravenous immunoglobulin for the treatment of Kawasaki disease". Does this record study the review''s eligible participants/population? Review criterion: We included studies involving participants diagnosed with KD using Japanese or AHA guidelines (see Table 3) (Ayusawa 2005; McCrindle 2017).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Intravenous immunoglobulin for the treatment of Kawasaki disease". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included studies using IVIG to treat participants with KD. We included all doses and types of IVIG. We included studies with the following comparisons. IVIG versus placebo or no treatment. IVIG versus ASA. IVIG versus TNF‐alpha blockers. IVIG versus corticosteroids. IVIG versus IVIG (i.e. dose versus dose). IVIG versus any combination of the above providing IVIG was the only difference between the groups, and any treatment effect was not confounded with another co‐treatment. IVIG versus placebo or no treatment. IVIG versus ASA. IVIG versus TNF‐alpha blockers. IVIG versus corticosteroids. IVIG versus IVIG (i.e. dose versus dose). IVIG versus any combination of the above providing IVIG was the only difference between the groups, and any treatment effect was not confounded with another co‐treatment. We excluded studies comparing infusion speed when the same dose was used. We excluded studies that compared one type of IVIG versus another (i.e. different manufacturer or separated/sulphonated).'
+  required: true

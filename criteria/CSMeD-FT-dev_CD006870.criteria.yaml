@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD006870 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Statins for acute coronary syndrome". Does this record meet the review''s eligible study design? Review criterion: We include randomized controlled trials (RCTs) comparing statin to placebo or no treatment in patients with an ACS (myocardial infarction or unstable angina). We excluded trials comparing two different statins without a placebo or no treatment control. We only considered trials with at least 30 days of follow‐up of participants after an ACS, reporting at least one clinical outcome.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Statins for acute coronary syndrome". Does this record study the review''s eligible participants/population? Review criterion: Adults with recent ACS, regardless of prior lipid levels and prior lipid‐modifying treatment or diet. ACS is defined as a broad spectrum of manifestations that are due to insufficient coronary blood supply. These include ST‐segment elevation myocardial infarction, non‐ST‐segment elevation ACS with or without myocardial cell necrosis (unstable angina and/or non‐ST‐segment elevation myocardial infarction), and ST‐segment depression (non‐Q‐wave) myocardial infarction. We included patients regardless of previous ACS, percutaneous coronary interventions including stents, or co‐morbidities such as atrial fibrillation with or without antithrombotic treatment.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Statins for acute coronary syndrome". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Initiation of statin therapy (HMG‐CoA reductase inhibitors such as pravastatin, simvastatin, atorvastatin, fluvastatin, lovastatin, rosuvastatin) administered orally at any dosage within 14 days following the onset of an acute coronary syndrome. We only considered trials using cerivastatin for sensitivity analysis since this compound was withdrawn from the market in 2001 (Staffa 2002).'
+  required: true

@@ -1,0 +1,12 @@
+# CAMARADES dataset in SWIFT-Review (Howard et al. 2016): in vivo animal models of neuropathic pain
+# (Currie et al., CAMARADES neuropathic pain systematic review).
+criteria:
+  - id: in_vivo_animal
+    question: "Is this primary experimental research in live (in vivo) non-human animals, rather than only humans, cell cultures, or a review/commentary?"
+    required: true
+  - id: neuropathic_model
+    question: "Does the study use an animal model of neuropathic pain (e.g. peripheral nerve injury/ligation, chemotherapy-induced neuropathy, diabetic neuropathy, spinal cord injury pain, HIV- or virus-associated neuropathy, other nerve damage models)?"
+    required: true
+  - id: pain_behaviour
+    question: "Does the study assess pain-related behaviour or a pain outcome in the animals (e.g. mechanical allodynia, thermal hyperalgesia, von Frey, Hargreaves, cold sensitivity, spontaneous pain behaviour)?"
+    required: true

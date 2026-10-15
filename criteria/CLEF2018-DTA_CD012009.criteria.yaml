@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd012009.pub2 (2017) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Amylase in drain fluid for the diagnosis of pancreatic leak in post-pancreatic resection". Selection criteria: We included all studies that evaluated the diagnostic test accuracy of amylase in the drain fluid at 48 hours or more for the diagnosis of pancreatic leak in people who had undergone pancreatic resection excluding total pancreatectomy. We planned to exclude case-control studies because these studies are prone to bias, but did not find any. At least two authors independently searched and screened the references produced by the search to identify relevant studies. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Amylase in drain fluid for the diagnosis of pancreatic leak in post-pancreatic resection". Selection criteria: We included all studies that evaluated the diagnostic test accuracy of amylase in the drain fluid at 48 hours or more for the diagnosis of pancreatic leak in people who had undergone pancreatic resection excluding total pancreatectomy. We planned to exclude case-control studies because these studies are prone to bias, but did not find any. At least two authors independently searched and screened the references produced by the search to identify relevant studies. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Amylase in drain fluid for the diagnosis of pancreatic leak in post-pancreatic resection". Selection criteria: We included all studies that evaluated the diagnostic test accuracy of amylase in the drain fluid at 48 hours or more for the diagnosis of pancreatic leak in people who had undergone pancreatic resection excluding total pancreatectomy. We planned to exclude case-control studies because these studies are prone to bias, but did not find any. At least two authors independently searched and screened the references produced by the search to identify relevant studies. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

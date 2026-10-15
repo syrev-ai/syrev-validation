@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD001457 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Glutamine supplementation to prevent morbidity and mortality in preterm infants". Does this record meet the review''s eligible study design? Review criterion: We included controlled trials using random or quasi‐random participant allocation. Due to the nature of the intervention, we excluded cross‐over trials. Where trials were reported as abstracts only, we aimed to include them provided there was sufficient information to assess eligibility. We contacted the authors requesting further information if we could not decide after reading the abstract.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Glutamine supplementation to prevent morbidity and mortality in preterm infants". Does this record study the review''s eligible participants/population? Review criterion: We included preterm infants (gestational age < 37 weeks) admitted to neonatal intensive or special care units or comparable settings after birth. Where participants in a trial included both term and preterm infants, we sought subgroup data from the report or from the authors.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Glutamine supplementation to prevent morbidity and mortality in preterm infants". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Glutamine supplementation versus no supplementation, administered by the parenteral or enteral route, in addition to a standard nutrition regime.'
+  required: true

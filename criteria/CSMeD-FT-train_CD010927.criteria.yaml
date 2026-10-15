@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010927 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Dihydroartemisinin‐piperaquine for treating uncomplicated Plasmodium falciparum malaria". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs). We excluded quasi‐RCTs.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Dihydroartemisinin‐piperaquine for treating uncomplicated Plasmodium falciparum malaria". Does this record study the review''s eligible participants/population? Review criterion: Adults and children (including pregnant women and infants) with symptomatic, microscopically confirmed, uncomplicated P. falciparum malaria. We also included trials that recruited participants with P. vivax co‐infection.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Dihydroartemisinin‐piperaquine for treating uncomplicated Plasmodium falciparum malaria". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: A three‐day course of DHA‐P. A three‐day course of an alternative WHO recommended ACT.'
+  required: true

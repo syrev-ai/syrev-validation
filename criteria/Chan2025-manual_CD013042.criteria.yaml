@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013042.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Manual therapy and exercise for lateral elbow pain". Selection criteria: We included randomised or quasi‐randomised trials. Participants were adults with lateral elbow pain. Interventions were manual therapy, prescribed exercises or both. Primary comparators were placebo or minimal or no intervention. We also included comparisons of manual therapy and prescribed exercises with either intervention alone, with or without glucocorticoid injection. Exclusions were trials testing a single application of an intervention or comparison of different types of manual therapy or prescribed exercises. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Manual therapy and exercise for lateral elbow pain". Selection criteria: We included randomised or quasi‐randomised trials. Participants were adults with lateral elbow pain. Interventions were manual therapy, prescribed exercises or both. Primary comparators were placebo or minimal or no intervention. We also included comparisons of manual therapy and prescribed exercises with either intervention alone, with or without glucocorticoid injection. Exclusions were trials testing a single application of an intervention or comparison of different types of manual therapy or prescribed exercises. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Manual therapy and exercise for lateral elbow pain". Selection criteria: We included randomised or quasi‐randomised trials. Participants were adults with lateral elbow pain. Interventions were manual therapy, prescribed exercises or both. Primary comparators were placebo or minimal or no intervention. We also included comparisons of manual therapy and prescribed exercises with either intervention alone, with or without glucocorticoid injection. Exclusions were trials testing a single application of an intervention or comparison of different types of manual therapy or prescribed exercises. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

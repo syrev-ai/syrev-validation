@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd010864.pub2 (2016) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "D-dimer test for excluding the diagnosis of pulmonary embolism". Selection criteria: Two review authors independently applied exclusion criteria to full papers and resolved disagreements by discussion.We included cross-sectional studies of D-dimer in which ventilation/perfusion (V/Q) scintigraphy, computerised tomography pulmonary angiography (CTPA), selective pulmonary angiography and magnetic resonance pulmonary angiography (MRPA) were used as the reference standard.• Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "D-dimer test for excluding the diagnosis of pulmonary embolism". Selection criteria: Two review authors independently applied exclusion criteria to full papers and resolved disagreements by discussion.We included cross-sectional studies of D-dimer in which ventilation/perfusion (V/Q) scintigraphy, computerised tomography pulmonary angiography (CTPA), selective pulmonary angiography and magnetic resonance pulmonary angiography (MRPA) were used as the reference standard.• Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "D-dimer test for excluding the diagnosis of pulmonary embolism". Selection criteria: Two review authors independently applied exclusion criteria to full papers and resolved disagreements by discussion.We included cross-sectional studies of D-dimer in which ventilation/perfusion (V/Q) scintigraphy, computerised tomography pulmonary angiography (CTPA), selective pulmonary angiography and magnetic resonance pulmonary angiography (MRPA) were used as the reference standard.• Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

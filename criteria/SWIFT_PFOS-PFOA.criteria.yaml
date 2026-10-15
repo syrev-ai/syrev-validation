@@ -1,0 +1,11 @@
+# SWIFT-Review / NTP OHAT dataset (Howard et al. 2016): PFOA or PFOS and immunotoxicity (OHAT 2016 monograph).
+criteria:
+  - id: exposure
+    question: "Does the study examine exposure to perfluorooctanoic acid (PFOA) or perfluorooctane sulfonate (PFOS) (or their salts), measured or administered?"
+    required: true
+  - id: outcome
+    question: "Does the study assess an immune-related outcome (e.g. antibody/vaccine response, infectious disease, hypersensitivity/allergy/asthma, autoimmunity, immune cell counts or function, cytokines, lymphoid organ weight/histology)?"
+    required: true
+  - id: primary_research
+    question: "Is this primary research (human, experimental animal, or in vitro/mechanistic study), rather than a review, editorial or commentary without original data?"
+    required: true

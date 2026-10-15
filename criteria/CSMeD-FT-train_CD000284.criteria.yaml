@@ -1,0 +1,8 @@
+# Auto-derived from CSMeD-FT train metadata for CD000284 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Chlorpromazine versus placebo for schizophrenia". Does this record meet the review''s eligible study design? Review criterion: We sought all relevant randomised controlled trials. Where a trial was described as ''double blind'' but it was implied that the study was randomised, we included these trials in a sensitivity analysis. If their inclusion did not result in a substantive difference, they remained in the analyses. If their inclusion did result in statistically significant differences, we did not add the data from these lower quality studies to the results of the better quality trials, but presented these within a subcategory. We excluded quasi‐randomised studies, such as those allocating by alternate days of the week.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Chlorpromazine versus placebo for schizophrenia". Does this record study the review''s eligible participants/population? Review criterion: We included people with schizophrenia and other types of schizophrenia‐like psychoses (schizophreniform and schizoaffective disorders) however diagnosed, irrespective of age, sex or severity of illness.'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD006466 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Oral anticoagulation in people with cancer who have no therapeutic or prophylactic indication for anticoagulation". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Oral anticoagulation in people with cancer who have no therapeutic or prophylactic indication for anticoagulation". Does this record study the review''s eligible participants/population? Review criterion: Ambulatory people with cancer (i.e., not hospital inpatients during the time of their participation in the trials) of any age (including children) with cancer with no standard indication for prophylactic anticoagulation (e.g. for acute illness, for central venous line placement, perioperatively) or for therapeutic anticoagulation (e.g. for the treatment of deep vein thrombosis (DVT) or pulmonary embolism). Typically, these people are undergoing chemotherapy, target therapy, immunotherapy, or radiotherapy.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Oral anticoagulation in people with cancer who have no therapeutic or prophylactic indication for anticoagulation". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Intervention oral pharmacological thromboprophylaxis with VKA (e.g. warfarin) oral pharmacological thromboprophylaxis with DOAC (e.g. apixaban, rivaroxaban, edoxaban) oral pharmacological thromboprophylaxis with VKA (e.g. warfarin) oral pharmacological thromboprophylaxis with DOAC (e.g. apixaban, rivaroxaban, edoxaban) Control no pharmacological thromboprophylaxis no pharmacological thromboprophylaxis We included any comparison of a combination of the three management options listed above. The protocol from original studies should have planned to provide all other co‐interventions (e.g. chemotherapy) similarly.'
+  required: true

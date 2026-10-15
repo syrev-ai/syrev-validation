@@ -1,0 +1,7 @@
+out/
+data/
+raw/
+external/
+.env
+*.sqlite
+__pycache__/

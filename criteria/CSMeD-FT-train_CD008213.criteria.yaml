@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008213 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Surgical interventions for primary congenital glaucoma". Does this record meet the review''s eligible study design? Review criterion: We included randomized controlled trials (RCTs) and quasi‐RCTs.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Surgical interventions for primary congenital glaucoma". Does this record study the review''s eligible participants/population? Review criterion: We included trials that enrolled children with PCG, diagnosed and surgically treated at or before five years of age. We used five years as the cut‐off because by definition, glaucoma diagnosed after five years is classified as juvenile glaucoma (Stamper 2009). We included trials in which children diagnosed both before and after the age of five years were included when data for the subgroup of children under five years were reported separately. We excluded trials restricted to children with developmental glaucomas due to associated ocular or systemic anomalies (e.g. Peters anomaly, Axenfeld‐Rieger syndrome) or secondary glaucomas due to surgery or trauma.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Surgical interventions for primary congenital glaucoma". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included all trials that compared any pair of surgical interventions used to treat PCG in a head‐to‐head design. Possible surgeries included: angle surgeries, such as goniotomy, trabeculotomy, and viscocanalostomy; filtering surgeries, such as trabeculectomy and deep sclerectomy; surgeries using glaucoma drainage devices; cyclodestructive procedures; combined surgeries, such as trabeculectomy‐trabeculotomy. angle surgeries, such as goniotomy, trabeculotomy, and viscocanalostomy; filtering surgeries, such as trabeculectomy and deep sclerectomy; surgeries using glaucoma drainage devices; cyclodestructive procedures; combined surgeries, such as trabeculectomy‐trabeculotomy. We also included comparisons of surgical techniques (e.g. goniotomy using a blade versus laser).'
+  required: true

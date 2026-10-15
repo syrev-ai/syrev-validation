@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008435 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Skin‐to‐skin care for procedural pain in neonates". Does this record meet the review''s eligible study design? Review criterion: Studies with randomisation or quasi‐randomisation, and blinded (for example, coding video tapes of infant faces only or using physiological data from monitors) or not‐blinded assessors for pain response were considered for inclusion. This included different designs such as classic randomized controlled trials, randomized cross‐over trials, and cluster as well as quasi‐experimental designs.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Skin‐to‐skin care for procedural pain in neonates". Does this record study the review''s eligible participants/population? Review criterion: Term infants (≥ 37 completed weeks postmenstrual age (PMA)) and preterm infants (< 37 completed weeks PMA) to a maximum of 44 weeks'' PMA receiving SSC for painful procedures conducted by doctors, nurses, or other healthcare professionals. The painful procedures that were included are those that are tissue damaging or considered painful, such as endotracheal suctioning or tape removal (Carbajal 2008).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Skin‐to‐skin care for procedural pain in neonates". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: The infant, wearing no more than a diaper, in ventral skin contact with another person during a painful procedure. We were interested in any comparisons of dosage (duration of time in SSC), any adjuvant therapies (sucrose or other sweet tastes, pacifier, topical anaesthetics, systemic analgesics), provider of SSC (mother, father, nurse, other), and variations of SSC such as the addition of rocking or music.'
+  required: true

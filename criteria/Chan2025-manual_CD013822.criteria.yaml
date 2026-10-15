@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013822.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Shared decision‐making for supporting women’s decisions about breast cancer screening". Selection criteria: We included parallel randomised controlled trials (RCTs) and cluster‐RCTs assessing interventions targeting various components of SDM. The focus was on supporting women aged 40 to 75 at average or above‐average risk of breast cancer in their decision to participate in breast cancer screening. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Shared decision‐making for supporting women’s decisions about breast cancer screening". Selection criteria: We included parallel randomised controlled trials (RCTs) and cluster‐RCTs assessing interventions targeting various components of SDM. The focus was on supporting women aged 40 to 75 at average or above‐average risk of breast cancer in their decision to participate in breast cancer screening. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Shared decision‐making for supporting women’s decisions about breast cancer screening". Selection criteria: We included parallel randomised controlled trials (RCTs) and cluster‐RCTs assessing interventions targeting various components of SDM. The focus was on supporting women aged 40 to 75 at average or above‐average risk of breast cancer in their decision to participate in breast cancer screening. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

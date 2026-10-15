@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd011515.pub2 (2016) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Diagnostic accuracy of different imaging modalities following computed tomography (CT) scanning for assessing the resectability with curative intent in pancreatic and periampullary cancer". Selection criteria: We included diagnostic accuracy studies of MRI, PET scan, PET-CT, and EUS in patients with potentially resectable pancreatic and periampullary cancer on CT scan. We accepted any criteria of resectability used in the studies. We included studies irrespective of language, publication status, or study design (prospective or retrospective). We excluded case-control studies. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Diagnostic accuracy of different imaging modalities following computed tomography (CT) scanning for assessing the resectability with curative intent in pancreatic and periampullary cancer". Selection criteria: We included diagnostic accuracy studies of MRI, PET scan, PET-CT, and EUS in patients with potentially resectable pancreatic and periampullary cancer on CT scan. We accepted any criteria of resectability used in the studies. We included studies irrespective of language, publication status, or study design (prospective or retrospective). We excluded case-control studies. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Diagnostic accuracy of different imaging modalities following computed tomography (CT) scanning for assessing the resectability with curative intent in pancreatic and periampullary cancer". Selection criteria: We included diagnostic accuracy studies of MRI, PET scan, PET-CT, and EUS in patients with potentially resectable pancreatic and periampullary cancer on CT scan. We accepted any criteria of resectability used in the studies. We included studies irrespective of language, publication status, or study design (prospective or retrospective). We excluded case-control studies. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

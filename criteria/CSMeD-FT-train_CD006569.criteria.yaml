@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD006569 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Aripiprazole versus other atypical antipsychotics for schizophrenia". Does this record meet the review''s eligible study design? Review criterion: We included both open and double‐blinded, randomised controlled trials. We included open trials as we felt that important data that could potentially have an impact on the results might otherwise be overlooked. Where a trial was described as "double‐blind" but it was only implied that the study was randomised, we included these trials in a sensitivity analysis. If there was no substantive difference within primary outcomes (see Types of outcome measures) when these ''implied randomisation'' studies were added, then we included these in the final analysis. If there was a substantive difference, we only used clearly randomised trials and described the results of the sensitivity analysis in the text. We excluded quasi‐randomised studies, such as those allocating by using alternate days of the week.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Aripiprazole versus other atypical antipsychotics for schizophrenia". Does this record study the review''s eligible participants/population? Review criterion: We included people with schizophrenia and other types of schizophrenia‐like psychosis (e.g. schizophreniform and schizoaffective disorders), irrespective of the diagnostic criteria used. There is no clear evidence that the schizophrenia‐like psychoses are caused by fundamentally different disease processes or require different treatment approaches (Carpenter 1994).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Aripiprazole versus other atypical antipsychotics for schizophrenia". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any oral form of application, any dose. These include amisulpride, clozapine, olanzapine, quetiapine, risperidone, sertindole, ziprasidone, zotepine: any oral or parenteral form of application, any dose.'
+  required: true

@@ -1,0 +1,17 @@
+# Oud 2018 — specialized psychotherapies for adults with borderline personality disorder.
+criteria:
+  - id: population
+    question: "Does the study enroll adults (18+) with borderline personality disorder (BPD), with at least about two-thirds of participants having BPD (or disaggregated BPD data)?"
+    required: true
+  - id: intervention
+    question: "Does the study evaluate a specialized psychotherapy for BPD — dialectical behavior therapy (DBT), mentalization-based treatment (MBT), transference-focused therapy (TFP), or schema therapy (ST) — including an individual psychotherapy component lasting 16 weeks or more?"
+    required: true
+  - id: design
+    question: "Is this a randomized controlled trial (RCT) rather than an uncontrolled case series, narrative review, or editorial?"
+    required: true
+  - id: comparator
+    question: "Does the study include a comparison arm (another specialized psychotherapy, treatment as usual, waiting list, attention control, or community treatment by experts)?"
+    required: true
+  - id: full_program
+    question: "Does the study test a full specialized treatment program rather than only a fragment (e.g. DBT skills training alone without the full DBT program)?"
+    required: true

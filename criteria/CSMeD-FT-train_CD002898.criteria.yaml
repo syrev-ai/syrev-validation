@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD002898 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Antiviral treatment and other therapeutic interventions for herpes simplex virus epithelial keratitis". Does this record meet the review''s eligible study design? Review criterion: This review included clinical trials that compared the relative effectiveness of therapeutic interventions on the corneal epithelial healing of participants who had clinically diagnosed or virologically confirmed HSV epithelial keratitis. Trials limited to the prevention of recurrent herpetic eye disease were not considered in this review.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Antiviral treatment and other therapeutic interventions for herpes simplex virus epithelial keratitis". Does this record study the review''s eligible participants/population? Review criterion: Participants had active dendritic or geographic epithelial keratitis. Punctate, stellate, or linear epithelial keratitis was considered to be a form of dendritic epithelial keratitis. Trials of herpes simplex virus stromal keratitis, keratouveitis, or uveitis were not considered in this review.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Antiviral treatment and other therapeutic interventions for herpes simplex virus epithelial keratitis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Antiviral agents included idoxuridine, vidarabine, trifluridine, acyclovir, ganciclovir, brivudine, foscarnet, and cidofovir. Interferon preparations included interferon‐α, interferon‐β, and interferon inducers. Debridement of the corneal epithelium was done by wiping, scraping, chemical corrosion, cryotherapy, thermal application, or photoinactivation. Supplemental agents included lubricants, growth factors, anti‐inflammatory medications, and immunomodulators. Trials of herbal extracts, traditional medicines, acupuncture, and other alternative interventions were not considered in this review. Studies of gene therapy were not part of this review (Elbadawy 2012).'
+  required: true

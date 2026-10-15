@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD005019 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "HMG CoA reductase inhibitors (statins) for kidney transplant recipients". Does this record meet the review''s eligible study design? Review criterion: RCTs and quasi‐RCTs (RCTs in which allocation to treatment was obtained by alternation, use of alternate medical records, date of birth or other predictable methods) that evaluated the benefits and harms of statins in adults with a functioning kidney transplant. The first period of randomised cross‐over studies was included. We excluded studies of fewer than eight weeks'' duration as such studies were unlikely to permit detection of mortality or cardiovascular outcomes related to statin therapy (Briel 2006).'
+  required: true
+- id: population
+  question: 'Cochrane review: "HMG CoA reductase inhibitors (statins) for kidney transplant recipients". Does this record study the review''s eligible participants/population? Review criterion: Studies or subgroups of studies enrolling adult kidney transplant recipients were included irrespective of presence of cardiovascular disease at baseline. Patients with stages 1‐5 CKD and on dialysis (K‐DOQI stage 5 on dialysis) were excluded as these have been evaluated in separate reviews (Navaneethan 2009a; Palmer 2013).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "HMG CoA reductase inhibitors (statins) for kidney transplant recipients". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included studies comparing statins with placebo, no treatment or standard care, or another statin. We excluded studies where a statin was compared with a second non‐statin regimen including fibrate therapy.'
+  required: true

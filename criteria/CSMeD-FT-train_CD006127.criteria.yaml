@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD006127 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Blood pressure control for diabetic retinopathy". Does this record meet the review''s eligible study design? Review criterion: We included only randomized controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Blood pressure control for diabetic retinopathy". Does this record study the review''s eligible participants/population? Review criterion: We included RCTs in which participants had a diagnosis of either type 1 or type 2 diabetes, irrespective of age, gender, ethnicity, ancestry, status regarding blood pressure or its treatment, or diabetic retinopathy status.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Blood pressure control for diabetic retinopathy". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included trials in which: Participants assigned to strict blood pressure control, alone or in combination with other interventions, were compared with participants assigned to less strict blood pressure control; Participants assigned to blood pressure control were compared with participants assigned to no intervention (placebo); Participants assigned to treatment with one class of anti‐hypertensive agents were compared with participants assigned to another class of anti‐hypertensive agents. Participants assigned to strict blood pressure control, alone or in combination with other interventions, were compared with participants assigned to less strict blood pressure control; Participants assigned to blood pressure control were compared with participants assigned to no intervention (placebo); Participants assigned to treatment with one class of anti‐hypertensive agents were compared with participants assigned to another class of anti‐hypertensive agents.'
+  required: true

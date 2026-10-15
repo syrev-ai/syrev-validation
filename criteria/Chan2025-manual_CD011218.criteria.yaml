@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD011218.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Education, incentive, and engineering‐based interventions to promote the use of seat belts". Selection criteria: We included randomised controlled trials (RCTs), both individually randomised and cluster‐randomised, that evaluated education, engineering, incentive‐based interventions (or combinations) that promoted seat belt use. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Education, incentive, and engineering‐based interventions to promote the use of seat belts". Selection criteria: We included randomised controlled trials (RCTs), both individually randomised and cluster‐randomised, that evaluated education, engineering, incentive‐based interventions (or combinations) that promoted seat belt use. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Education, incentive, and engineering‐based interventions to promote the use of seat belts". Selection criteria: We included randomised controlled trials (RCTs), both individually randomised and cluster‐randomised, that evaluated education, engineering, incentive‐based interventions (or combinations) that promoted seat belt use. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

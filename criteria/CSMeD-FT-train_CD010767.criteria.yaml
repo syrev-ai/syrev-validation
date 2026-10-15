@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010767 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Intermittent preventive antimalarial treatment for children with anaemia". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs) and cluster‐RCTs.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Intermittent preventive antimalarial treatment for children with anaemia". Does this record study the review''s eligible participants/population? Review criterion: Children with anaemia (Hb < 11 g/dL; WHO 2008) living in malaria‐endemic areas.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Intermittent preventive antimalarial treatment for children with anaemia". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: IPT for malaria No IPT for malaria Co‐interventions, such as hematinics or LLINs, should be identical in both intervention and control groups.'
+  required: true

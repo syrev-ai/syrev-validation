@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013421.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "The role of sealants for achieving anastomotic hemostasis in vascular surgery". Selection criteria: We included randomized controlled trials that compared fibrin or synthetic sealant use with alternative interventions (e.g. manual compression, reversal of anticoagulation) for achieving anastomotic‐site hemostasis in vascular surgery procedures. We included participants who underwent the creation of an anastomosis during vascular surgery. We excluded non‐vascular surgery patients. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "The role of sealants for achieving anastomotic hemostasis in vascular surgery". Selection criteria: We included randomized controlled trials that compared fibrin or synthetic sealant use with alternative interventions (e.g. manual compression, reversal of anticoagulation) for achieving anastomotic‐site hemostasis in vascular surgery procedures. We included participants who underwent the creation of an anastomosis during vascular surgery. We excluded non‐vascular surgery patients. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "The role of sealants for achieving anastomotic hemostasis in vascular surgery". Selection criteria: We included randomized controlled trials that compared fibrin or synthetic sealant use with alternative interventions (e.g. manual compression, reversal of anticoagulation) for achieving anastomotic‐site hemostasis in vascular surgery procedures. We included participants who underwent the creation of an anastomosis during vascular surgery. We excluded non‐vascular surgery patients. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

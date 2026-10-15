@@ -1,0 +1,18 @@
+# Appenzeller-Herzog 2020 — pharmacological treatment of Wilson disease.
+# Controlled studies of D-penicillamine, zinc, trientine, or tetrathiomolybdate.
+criteria:
+  - id: population
+    question: "Does the study involve patients with Wilson disease (hepatic copper accumulation / hepatolenticular degeneration), of any age or disease stage?"
+    required: true
+  - id: intervention
+    question: "Does the study evaluate treatment with D-penicillamine (penicillamine), a zinc salt, trientine (triethylenetetramine), or tetrathiomolybdate?"
+    required: true
+  - id: comparator
+    question: "Is there a comparator of placebo, no treatment, or another active treatment (drug or regimen)?"
+    required: true
+  - id: design
+    question: "Is this a controlled clinical study (randomized or non-randomized, prospective or retrospective) rather than a case report, narrative review, editorial, or animal-only study?"
+    required: true
+  - id: human
+    question: "Does the study report outcomes in human patients (not solely in vitro, animal, or pharmacokinetic models)?"
+    required: true

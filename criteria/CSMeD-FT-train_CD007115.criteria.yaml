@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007115 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Duloxetine for treating painful neuropathy, chronic pain or fibromyalgia". Does this record meet the review''s eligible study design? Review criterion: For the detection of benefits, we included only double‐blind randomised trials of duloxetine for treating painful neuropathy or chronic neuropathic pain, chronic pain conditions without identified cause or fibromyalgia. Duloxetine was to have been administered for a minimum of eight weeks. We included eligible studies irrespective of publication status or language of publication.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Duloxetine for treating painful neuropathy, chronic pain or fibromyalgia". Does this record study the review''s eligible participants/population? Review criterion: We included participants with any form of painful peripheral neuropathy, chronic neuropathic pain, chronic pain conditions without identified cause, or fibromyalgia.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Duloxetine for treating painful neuropathy, chronic pain or fibromyalgia". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included all formulations and doses of duloxetine in comparison with placebo or other controls. We reported comparisons with placebo and with other controls separately.'
+  required: true

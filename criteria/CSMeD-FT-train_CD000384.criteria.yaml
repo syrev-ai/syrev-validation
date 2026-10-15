@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD000384 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Length of hospitalisation for people with severe mental illness". Does this record meet the review''s eligible study design? Review criterion: We included all randomised trials. Quasi‐randomised trials (those that have employed alternating allocation, allocation by letter of the alphabet or day of the week) were also identified but excluded from the main analysis. We used data from these in a sensitivity analysis in order to see if the exclusions were justified.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Length of hospitalisation for people with severe mental illness". Does this record study the review''s eligible participants/population? Review criterion: We included trials of people with schizophrenia, related disorders or ''severe/chronic mental disorders/illnesses'', however defined.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Length of hospitalisation for people with severe mental illness". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: A hypothesis relating to these definitions will, however, be tested (please see Objectives).'
+  required: true

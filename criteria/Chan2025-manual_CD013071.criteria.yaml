@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013071.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Testosterone replacement in men with sexual dysfunction". Selection criteria: We included randomized controlled trials (RCTs) in men (40 years or over) with sexual dysfunction. We excluded men with primary or secondary hypogonadism. We compared testosterone or testosterone with phosphodiesterase‐5 inhibitors (PDEI5I) to placebo or PDE5I alone. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Testosterone replacement in men with sexual dysfunction". Selection criteria: We included randomized controlled trials (RCTs) in men (40 years or over) with sexual dysfunction. We excluded men with primary or secondary hypogonadism. We compared testosterone or testosterone with phosphodiesterase‐5 inhibitors (PDEI5I) to placebo or PDE5I alone. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Testosterone replacement in men with sexual dysfunction". Selection criteria: We included randomized controlled trials (RCTs) in men (40 years or over) with sexual dysfunction. We excluded men with primary or secondary hypogonadism. We compared testosterone or testosterone with phosphodiesterase‐5 inhibitors (PDEI5I) to placebo or PDE5I alone. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD000951 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Folic acid and folinic acid for reducing side effects in patients receiving methotrexate for rheumatoid arthritis". Does this record meet the review''s eligible study design? Review criterion: All double‐blind, randomised, placebo‐controlled clinical trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Folic acid and folinic acid for reducing side effects in patients receiving methotrexate for rheumatoid arthritis". Does this record study the review''s eligible participants/population? Review criterion: Patients older than 18 years who fulfilled the American Rheumatism Association''s criteria for rheumatoid arthritis (Arnett 1988).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Folic acid and folinic acid for reducing side effects in patients receiving methotrexate for rheumatoid arthritis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Treatment with low doses of MTX (equal or less than 25 mg/week) concurrently with low dose folate supplementation (either folic or folinic acid), with a starting dose equal to or less than 7 mg/week.'
+  required: true

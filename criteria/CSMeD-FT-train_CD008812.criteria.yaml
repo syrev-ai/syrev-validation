@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008812 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Phacoemulsification with posterior chamber intraocular lens versus extracapsular cataract extraction (ECCE) with posterior chamber intraocular lens for age‐related cataract". Does this record meet the review''s eligible study design? Review criterion: We included randomised controlled trials (RCTs) only in this review.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Phacoemulsification with posterior chamber intraocular lens versus extracapsular cataract extraction (ECCE) with posterior chamber intraocular lens for age‐related cataract". Does this record study the review''s eligible participants/population? Review criterion: Participants in the trials were people with age‐related cataract.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Phacoemulsification with posterior chamber intraocular lens versus extracapsular cataract extraction (ECCE) with posterior chamber intraocular lens for age‐related cataract". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included trials that compared phacoemulsification with ECCE. With both interventions a posterior chamber IOL is implanted.'
+  required: true

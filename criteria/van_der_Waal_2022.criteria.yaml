@@ -1,0 +1,17 @@
+# van der Waal 2022 — role older adults with cancer favour in treatment decision making.
+criteria:
+  - id: population
+    question: "Does the study enroll adults (18 years or older) with cancer?"
+    required: true
+  - id: setting
+    question: "Was the study conducted in a western healthcare system setting (EU, UK, USA, Canada, Japan, Australia, or New Zealand) rather than only a non-western setting or a specific ethnographic subgroup within a western system?"
+    required: true
+  - id: role_preference
+    question: "Does the study assess patients' preferred role in oncological treatment decision making?"
+    required: true
+  - id: cps
+    question: "Does the study report data from the Control Preference Scale (CPS) or an equivalent role-preference measure usable for meta-analysis of decision-making role preference?"
+    required: true
+  - id: original
+    question: "Is this original research (not a conference abstract or non-original article) on a non-paediatric population?"
+    required: true

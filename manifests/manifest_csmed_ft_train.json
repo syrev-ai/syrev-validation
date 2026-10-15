@@ -1,0 +1,1038 @@
+[
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD000009",
+  "review_id": "CD000009",
+  "n": 5,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD000014",
+  "review_id": "CD000014",
+  "n": 1,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD000031",
+  "review_id": "CD000031",
+  "n": 127,
+  "includes": 108
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD000284",
+  "review_id": "CD000284",
+  "n": 12,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD000313",
+  "review_id": "CD000313",
+  "n": 30,
+  "includes": 17
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD000384",
+  "review_id": "CD000384",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD001150",
+  "review_id": "CD001150",
+  "n": 6,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD001261",
+  "review_id": "CD001261",
+  "n": 12,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD001431",
+  "review_id": "CD001431",
+  "n": 171,
+  "includes": 68
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD001457",
+  "review_id": "CD001457",
+  "n": 4,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD001800",
+  "review_id": "CD001800",
+  "n": 90,
+  "includes": 28
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD001843",
+  "review_id": "CD001843",
+  "n": 11,
+  "includes": 9
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002062",
+  "review_id": "CD002062",
+  "n": 2,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002069",
+  "review_id": "CD002069",
+  "n": 10,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002073",
+  "review_id": "CD002073",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002115",
+  "review_id": "CD002115",
+  "n": 7,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002117",
+  "review_id": "CD002117",
+  "n": 6,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002143",
+  "review_id": "CD002143",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002201",
+  "review_id": "CD002201",
+  "n": 1,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002250",
+  "review_id": "CD002250",
+  "n": 6,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002283",
+  "review_id": "CD002283",
+  "n": 11,
+  "includes": 7
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002764",
+  "review_id": "CD002764",
+  "n": 8,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002783",
+  "review_id": "CD002783",
+  "n": 15,
+  "includes": 10
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002840",
+  "review_id": "CD002840",
+  "n": 25,
+  "includes": 17
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD002898",
+  "review_id": "CD002898",
+  "n": 23,
+  "includes": 22
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003067",
+  "review_id": "CD003067",
+  "n": 4,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003137",
+  "review_id": "CD003137",
+  "n": 22,
+  "includes": 5
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003266",
+  "review_id": "CD003266",
+  "n": 3,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003344",
+  "review_id": "CD003344",
+  "n": 10,
+  "includes": 8
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003557",
+  "review_id": "CD003557",
+  "n": 6,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003559",
+  "review_id": "CD003559",
+  "n": 11,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003855",
+  "review_id": "CD003855",
+  "n": 6,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003914",
+  "review_id": "CD003914",
+  "n": 9,
+  "includes": 6
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD003987",
+  "review_id": "CD003987",
+  "n": 5,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004054",
+  "review_id": "CD004054",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004178",
+  "review_id": "CD004178",
+  "n": 8,
+  "includes": 6
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004250",
+  "review_id": "CD004250",
+  "n": 35,
+  "includes": 8
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004288",
+  "review_id": "CD004288",
+  "n": 18,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004376",
+  "review_id": "CD004376",
+  "n": 50,
+  "includes": 11
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004396",
+  "review_id": "CD004396",
+  "n": 3,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004875",
+  "review_id": "CD004875",
+  "n": 4,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004903",
+  "review_id": "CD004903",
+  "n": 6,
+  "includes": 6
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004920",
+  "review_id": "CD004920",
+  "n": 4,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD004944",
+  "review_id": "CD004944",
+  "n": 1,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD005019",
+  "review_id": "CD005019",
+  "n": 4,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD005059",
+  "review_id": "CD005059",
+  "n": 9,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD005260",
+  "review_id": "CD005260",
+  "n": 3,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD005340",
+  "review_id": "CD005340",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD005397",
+  "review_id": "CD005397",
+  "n": 6,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD005614",
+  "review_id": "CD005614",
+  "n": 10,
+  "includes": 6
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006014",
+  "review_id": "CD006014",
+  "n": 3,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006127",
+  "review_id": "CD006127",
+  "n": 26,
+  "includes": 20
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006172",
+  "review_id": "CD006172",
+  "n": 1,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006342",
+  "review_id": "CD006342",
+  "n": 3,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006546",
+  "review_id": "CD006546",
+  "n": 29,
+  "includes": 12
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006569",
+  "review_id": "CD006569",
+  "n": 6,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006745",
+  "review_id": "CD006745",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006748",
+  "review_id": "CD006748",
+  "n": 82,
+  "includes": 38
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006832",
+  "review_id": "CD006832",
+  "n": 9,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006962",
+  "review_id": "CD006962",
+  "n": 4,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD006995",
+  "review_id": "CD006995",
+  "n": 2,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007037",
+  "review_id": "CD007037",
+  "n": 4,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007115",
+  "review_id": "CD007115",
+  "n": 9,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007122",
+  "review_id": "CD007122",
+  "n": 5,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007356",
+  "review_id": "CD007356",
+  "n": 8,
+  "includes": 5
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007470",
+  "review_id": "CD007470",
+  "n": 85,
+  "includes": 67
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007497",
+  "review_id": "CD007497",
+  "n": 2,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007505",
+  "review_id": "CD007505",
+  "n": 4,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007699",
+  "review_id": "CD007699",
+  "n": 1,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007716",
+  "review_id": "CD007716",
+  "n": 1,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007719",
+  "review_id": "CD007719",
+  "n": 3,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007736",
+  "review_id": "CD007736",
+  "n": 27,
+  "includes": 17
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007745",
+  "review_id": "CD007745",
+  "n": 9,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD007953",
+  "review_id": "CD007953",
+  "n": 2,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008020",
+  "review_id": "CD008020",
+  "n": 5,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008056",
+  "review_id": "CD008056",
+  "n": 7,
+  "includes": 5
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008081",
+  "review_id": "CD008081",
+  "n": 7,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008170",
+  "review_id": "CD008170",
+  "n": 22,
+  "includes": 18
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008185",
+  "review_id": "CD008185",
+  "n": 3,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008213",
+  "review_id": "CD008213",
+  "n": 6,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008265",
+  "review_id": "CD008265",
+  "n": 3,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008345",
+  "review_id": "CD008345",
+  "n": 18,
+  "includes": 7
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008366",
+  "review_id": "CD008366",
+  "n": 85,
+  "includes": 24
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008426",
+  "review_id": "CD008426",
+  "n": 2,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008435",
+  "review_id": "CD008435",
+  "n": 9,
+  "includes": 5
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008807",
+  "review_id": "CD008807",
+  "n": 5,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008812",
+  "review_id": "CD008812",
+  "n": 2,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008873",
+  "review_id": "CD008873",
+  "n": 57,
+  "includes": 22
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008881",
+  "review_id": "CD008881",
+  "n": 11,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008963",
+  "review_id": "CD008963",
+  "n": 12,
+  "includes": 9
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD008969",
+  "review_id": "CD008969",
+  "n": 13,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009125",
+  "review_id": "CD009125",
+  "n": 27,
+  "includes": 15
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009185",
+  "review_id": "CD009185",
+  "n": 23,
+  "includes": 7
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009210",
+  "review_id": "CD009210",
+  "n": 8,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009400",
+  "review_id": "CD009400",
+  "n": 2,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009403",
+  "review_id": "CD009403",
+  "n": 6,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009436",
+  "review_id": "CD009436",
+  "n": 2,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009530",
+  "review_id": "CD009530",
+  "n": 4,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009537",
+  "review_id": "CD009537",
+  "n": 6,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009593",
+  "review_id": "CD009593",
+  "n": 107,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009633",
+  "review_id": "CD009633",
+  "n": 3,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009634",
+  "review_id": "CD009634",
+  "n": 2,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009669",
+  "review_id": "CD009669",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009685",
+  "review_id": "CD009685",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009771",
+  "review_id": "CD009771",
+  "n": 2,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009780",
+  "review_id": "CD009780",
+  "n": 5,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009782",
+  "review_id": "CD009782",
+  "n": 2,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009784",
+  "review_id": "CD009784",
+  "n": 3,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009823",
+  "review_id": "CD009823",
+  "n": 25,
+  "includes": 22
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD009831",
+  "review_id": "CD009831",
+  "n": 3,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010139",
+  "review_id": "CD010139",
+  "n": 6,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010206",
+  "review_id": "CD010206",
+  "n": 2,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010225",
+  "review_id": "CD010225",
+  "n": 4,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010226",
+  "review_id": "CD010226",
+  "n": 2,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010235",
+  "review_id": "CD010235",
+  "n": 17,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010264",
+  "review_id": "CD010264",
+  "n": 8,
+  "includes": 6
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010269",
+  "review_id": "CD010269",
+  "n": 4,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010333",
+  "review_id": "CD010333",
+  "n": 2,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010381",
+  "review_id": "CD010381",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010387",
+  "review_id": "CD010387",
+  "n": 4,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010411",
+  "review_id": "CD010411",
+  "n": 11,
+  "includes": 5
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010447",
+  "review_id": "CD010447",
+  "n": 4,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010473",
+  "review_id": "CD010473",
+  "n": 3,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010479",
+  "review_id": "CD010479",
+  "n": 4,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010533",
+  "review_id": "CD010533",
+  "n": 2,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010542",
+  "review_id": "CD010542",
+  "n": 3,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010632",
+  "review_id": "CD010632",
+  "n": 12,
+  "includes": 6
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010633",
+  "review_id": "CD010633",
+  "n": 3,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010653",
+  "review_id": "CD010653",
+  "n": 4,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010685",
+  "review_id": "CD010685",
+  "n": 16,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010693",
+  "review_id": "CD010693",
+  "n": 13,
+  "includes": 5
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010709",
+  "review_id": "CD010709",
+  "n": 5,
+  "includes": 3
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010767",
+  "review_id": "CD010767",
+  "n": 6,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010910",
+  "review_id": "CD010910",
+  "n": 87,
+  "includes": 9
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010912",
+  "review_id": "CD010912",
+  "n": 46,
+  "includes": 23
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD010927",
+  "review_id": "CD010927",
+  "n": 16,
+  "includes": 14
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011047",
+  "review_id": "CD011047",
+  "n": 8,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011145",
+  "review_id": "CD011145",
+  "n": 44,
+  "includes": 15
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011146",
+  "review_id": "CD011146",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011209",
+  "review_id": "CD011209",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011241",
+  "review_id": "CD011241",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011281",
+  "review_id": "CD011281",
+  "n": 5,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011447",
+  "review_id": "CD011447",
+  "n": 3,
+  "includes": 2
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011472",
+  "review_id": "CD011472",
+  "n": 8,
+  "includes": 4
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011721",
+  "review_id": "CD011721",
+  "n": 15,
+  "includes": 9
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011724",
+  "review_id": "CD011724",
+  "n": 1,
+  "includes": 1
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD011837",
+  "review_id": "CD011837",
+  "n": 2,
+  "includes": 0
+ },
+ {
+  "group": "CSMeD-FT (train)",
+  "stem": "CSMeD-FT-train_CD012004",
+  "review_id": "CD012004",
+  "n": 29,
+  "includes": 13
+ }
+]

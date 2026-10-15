@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd009642.pub3 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Continuous intravenous perioperative lidocaine infusion for postoperative pain and recovery in adults". Selection criteria: We included randomized controlled trials comparing the effect of continuous perioperative IV lidocaine infusion either with placebo, or no treatment, or with thoracic epidural analgesia (TEA) in adults undergoing elective or urgent surgery under general anaesthesia. The IV lidocaine infusion must have been started intraoperatively, prior to incision, and continued at least until the end of surgery. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Continuous intravenous perioperative lidocaine infusion for postoperative pain and recovery in adults". Selection criteria: We included randomized controlled trials comparing the effect of continuous perioperative IV lidocaine infusion either with placebo, or no treatment, or with thoracic epidural analgesia (TEA) in adults undergoing elective or urgent surgery under general anaesthesia. The IV lidocaine infusion must have been started intraoperatively, prior to incision, and continued at least until the end of surgery. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Continuous intravenous perioperative lidocaine infusion for postoperative pain and recovery in adults". Selection criteria: We included randomized controlled trials comparing the effect of continuous perioperative IV lidocaine infusion either with placebo, or no treatment, or with thoracic epidural analgesia (TEA) in adults undergoing elective or urgent surgery under general anaesthesia. The IV lidocaine infusion must have been started intraoperatively, prior to incision, and continued at least until the end of surgery. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

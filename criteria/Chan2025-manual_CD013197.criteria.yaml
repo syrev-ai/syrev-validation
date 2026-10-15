@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013197.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Deep neuromuscular blockade in adults undergoing an abdominal laparoscopic procedure". Selection criteria: We included randomised clinical trials (irrespective of language, blinding, or publication status) in adults undergoing laparoscopic intra‐ or transperitoneal procedures comparing deep NMB to moderate, shallow, or no NMB. We excluded trials that did not report any of the primary or secondary outcomes of our review. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Deep neuromuscular blockade in adults undergoing an abdominal laparoscopic procedure". Selection criteria: We included randomised clinical trials (irrespective of language, blinding, or publication status) in adults undergoing laparoscopic intra‐ or transperitoneal procedures comparing deep NMB to moderate, shallow, or no NMB. We excluded trials that did not report any of the primary or secondary outcomes of our review. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Deep neuromuscular blockade in adults undergoing an abdominal laparoscopic procedure". Selection criteria: We included randomised clinical trials (irrespective of language, blinding, or publication status) in adults undergoing laparoscopic intra‐ or transperitoneal procedures comparing deep NMB to moderate, shallow, or no NMB. We excluded trials that did not report any of the primary or secondary outcomes of our review. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

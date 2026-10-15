@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010206 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Palliative pharmacological sedation for terminally ill adults". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs), quasi‐RCTs, non‐RCTs, and observational studies (e.g. before‐and‐after, interrupted‐time‐series) with quantitative outcomes. We made this choice because we knew prior to starting the review that there would be few, if any, RCTs in this area. We excluded studies with only qualitative outcomes or that had no comparison (i.e. no control group or no within‐group comparison) (e.g. single arm case series).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Palliative pharmacological sedation for terminally ill adults". Does this record study the review''s eligible participants/population? Review criterion: We included studies of terminally ill adults (aged 15 years or greater) who required sedation in order to control symptom(s) (e.g. agitation, anxiety, insomnia, terminal restlessness, dyspnoea, and pain). We considered all terminal conditions (malignant and non‐malignant), in all settings (e.g. home, hospital, and palliative care institution).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Palliative pharmacological sedation for terminally ill adults". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Any medication with a sedative effect (e.g. benzodiazepines, barbiturates, anaesthesia, opioids, antipsychotics, antihistamines, or other hypnotics) where the intention was sedation for symptom relief. Sedation may have been given continuously or intermittently, with the intention of reducing the level of consciousness to relieve symptoms. Sedation may have been deep (unconscious) or the person may have had periods when they were drowsy, but not unconscious. The comparator was no sedation. Sedative medications may have been given in very low doses (e.g. for sleep at night), but the intention was not to sedate to relieve intractable symptoms.'
+  required: true

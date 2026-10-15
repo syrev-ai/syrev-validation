@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd001261.pub4 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Vaccines for preventing typhoid fever". Selection criteria: Randomized and quasi-randomized controlled trials (RCTs) comparing typhoid fever vaccines with other typhoid fever vaccines or with an inactive agent (placebo or vaccine for a different disease) in adults and children. Human challenge studies were not eligible. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Vaccines for preventing typhoid fever". Selection criteria: Randomized and quasi-randomized controlled trials (RCTs) comparing typhoid fever vaccines with other typhoid fever vaccines or with an inactive agent (placebo or vaccine for a different disease) in adults and children. Human challenge studies were not eligible. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Vaccines for preventing typhoid fever". Selection criteria: Randomized and quasi-randomized controlled trials (RCTs) comparing typhoid fever vaccines with other typhoid fever vaccines or with an inactive agent (placebo or vaccine for a different disease) in adults and children. Human challenge studies were not eligible. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

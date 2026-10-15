@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD005563 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Interventions for preventing delirium in hospitalised non‐ICU patients". Does this record meet the review''s eligible study design? Review criterion: We only considered randomised controlled trials for this review.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Interventions for preventing delirium in hospitalised non‐ICU patients". Does this record study the review''s eligible participants/population? Review criterion: We included patients aged 16 years or over, admitted to acute general hospitals and at risk of developing delirium. We excluded studies conducted in ICU as both the population and interventions in this setting are likely to be very different. We also excluded community settings e.g. nursing homes. We excluded studies in mixed settings unless data could be extracted separately for hospitalised inpatients.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Interventions for preventing delirium in hospitalised non‐ICU patients". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We considered all non‐pharmacological and pharmacological interventions designed to prevent delirium. Trials including a control group receiving standard care and trials comparing two types of intervention were included. Trials of co‐ordinated multi‐strategy initiatives to prevent delirium (multi‐component interventions) were included. We defined standard care as the usual care available on that unit.'
+  required: true

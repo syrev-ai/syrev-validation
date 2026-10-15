@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008020 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Controlled cord traction for the third stage of labour". Does this record meet the review''s eligible study design? Review criterion: We considered randomised controlled trials evaluating the effects of controlled cord traction. Cluster‐randomised trials would also be included but we would exclude quasi‐random allocation trials. Trials using a cross‐over design would not be appropriate as each participant has only one opportunity for the intervention.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Controlled cord traction for the third stage of labour". Does this record study the review''s eligible participants/population? Review criterion: Women who have given birth vaginally at 24 weeks'' gestation or more.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Controlled cord traction for the third stage of labour". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Controlled cord traction versus no controlled cord traction (both with uterotonics). Controlled cord traction versus no controlled cord traction (both with no uterotonics, with or without uterine massage as an additional intervention).'
+  required: true

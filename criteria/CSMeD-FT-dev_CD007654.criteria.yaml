@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD007654 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Long‐term effects of weight‐reducing drugs in people with hypertension". Does this record meet the review''s eligible study design? Review criterion: The study design must meet the following criteria: all randomised controlled trials (RCTs) comparing pharmacologic interventions approved for long‐term weight management versus placebo, with a follow‐up of at least 24 weeks. The reason for including only studies with a follow‐up of at least 24 weeks is that studies of shorter duration cannot show long‐term effects. Any additional active care (for example, antihypertensive medication) must have been applied to the active treatment group and to the control group.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Long‐term effects of weight‐reducing drugs in people with hypertension". Does this record study the review''s eligible participants/population? Review criterion: Men and non‐pregnant women aged 18 years or older with essential hypertension (i.e. a baseline blood pressure of at least 140 mm Hg systolic or a diastolic blood pressure of at least 90 mm Hg, or both, or people on antihypertensive treatment), for whom at least one of the following outcomes was reported: mortality, cardiovascular outcomes, adverse events, or blood pressure.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Long‐term effects of weight‐reducing drugs in people with hypertension". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Monotherapy with drugs for long‐term weight management (orlistat, phentermine/topiramate, lorcaserin, naltrexone/bupropion, or liraglutide).'
+  required: true

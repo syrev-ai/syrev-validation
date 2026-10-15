@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD013358.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Meditation for the primary and secondary prevention of cardiovascular disease". Selection criteria: We included randomised controlled trials (RCTs) of 12 weeks or more in adults at high risk of CVD and those with established CVD. We explored four comparisons: MBIs versus active comparators (alternative interventions); MBIs versus non‐active comparators (no intervention, wait list, usual care); TM versus active comparators; TM versus non‐active comparators. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Meditation for the primary and secondary prevention of cardiovascular disease". Selection criteria: We included randomised controlled trials (RCTs) of 12 weeks or more in adults at high risk of CVD and those with established CVD. We explored four comparisons: MBIs versus active comparators (alternative interventions); MBIs versus non‐active comparators (no intervention, wait list, usual care); TM versus active comparators; TM versus non‐active comparators. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Meditation for the primary and secondary prevention of cardiovascular disease". Selection criteria: We included randomised controlled trials (RCTs) of 12 weeks or more in adults at high risk of CVD and those with established CVD. We explored four comparisons: MBIs versus active comparators (alternative interventions); MBIs versus non‐active comparators (no intervention, wait list, usual care); TM versus active comparators; TM versus non‐active comparators. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

@@ -1,0 +1,17 @@
+# van de Schoot 2018 — PTSD trajectory studies used for informed Bayesian priors.
+criteria:
+  - id: longitudinal
+    question: "Is this a longitudinal study with at least three measurement waves assessing PTSD?"
+    required: true
+  - id: continuous_ptsd
+    question: "Does the study measure PTSD on a continuous scale via an interview or questionnaire?"
+    required: true
+  - id: clustering
+    question: "Does the study use a clustering / trajectory method (latent growth mixture modeling, latent class growth analysis, or hierarchical cluster analysis) to identify PTSD symptom trajectories?"
+    required: true
+  - id: trauma
+    question: "Does the study examine traumatic stress symptoms following events that appear to fulfill DSM-IV criterion A1 for PTSD or acute stress disorder?"
+    required: true
+  - id: human
+    question: "Is this a human clinical or epidemiological study of PTSD trajectories rather than an animal, simulation-only, or purely methodological paper without PTSD trajectory data?"
+    required: true

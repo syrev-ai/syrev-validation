@@ -1,0 +1,19 @@
+{
+ "public_all": {
+  "reviews": 310,
+  "records_scored": 442208,
+  "pool": 565191,
+  "includes": 9707,
+  "careful_missed": 344,
+  "careful_recall": 0.9646,
+  "rapid_recall": 0.9152,
+  "careful_below95": 31,
+  "careful_below95_5plus": 29,
+  "reviews_5plus": 166
+ },
+ "unscored_records_excluded": 0,
+ "files_with_unscored": [],
+ "records_without_title_or_abstract_excluded_before_scoring": 1078,
+ "relevant_studies_among_them": 26,
+ "careful_recall_if_those_26_counted_as_missed": 0.962
+}

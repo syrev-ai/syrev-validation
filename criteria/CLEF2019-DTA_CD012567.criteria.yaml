@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd012567.pub2 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Positron emission tomography (PET) and magnetic resonance imaging (MRI) for assessing tumour resectability in advanced epithelial ovarian/fallopian tube/primary peritoneal cancer". Selection criteria: Diagnostic accuracy studies addressing the accuracy of preoperative FDG-PET/CT, conventional or DW-MRI on assessing tumour resectability in women with advanced stage (III to IV) epithelial ovarian/fallopian tube/primary peritoneal cancer who are scheduled to undergo primary debulking surgery. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Positron emission tomography (PET) and magnetic resonance imaging (MRI) for assessing tumour resectability in advanced epithelial ovarian/fallopian tube/primary peritoneal cancer". Selection criteria: Diagnostic accuracy studies addressing the accuracy of preoperative FDG-PET/CT, conventional or DW-MRI on assessing tumour resectability in women with advanced stage (III to IV) epithelial ovarian/fallopian tube/primary peritoneal cancer who are scheduled to undergo primary debulking surgery. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Positron emission tomography (PET) and magnetic resonance imaging (MRI) for assessing tumour resectability in advanced epithelial ovarian/fallopian tube/primary peritoneal cancer". Selection criteria: Diagnostic accuracy studies addressing the accuracy of preoperative FDG-PET/CT, conventional or DW-MRI on assessing tumour resectability in women with advanced stage (III to IV) epithelial ovarian/fallopian tube/primary peritoneal cancer who are scheduled to undergo primary debulking surgery. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

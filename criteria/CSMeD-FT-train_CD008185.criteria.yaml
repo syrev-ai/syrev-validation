@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008185 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Enzyme replacement therapy with idursulfase for mucopolysaccharidosis type II (Hunter syndrome)". Does this record meet the review''s eligible study design? Review criterion: Randomised and quasi‐randomised controlled clinical trials of parallel or cross‐over design.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Enzyme replacement therapy with idursulfase for mucopolysaccharidosis type II (Hunter syndrome)". Does this record study the review''s eligible participants/population? Review criterion: Individuals with MPS II (Hunter syndrome) of any age and any degree of disease severity. Diagnosis should be established by enzyme assay in leukocytes, fibroblasts or plasma, using substrates specific for I2S.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Enzyme replacement therapy with idursulfase for mucopolysaccharidosis type II (Hunter syndrome)". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Enzyme replacement therapy with idursulfase in any amount given for a period of at least one month compared to: no intervention; placebo; other options (e.g. behavioral strategies, transplantation). no intervention; placebo; other options (e.g. behavioral strategies, transplantation).'
+  required: true

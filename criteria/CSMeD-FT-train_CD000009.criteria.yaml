@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD000009 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Acupuncture and related interventions for smoking cessation". Does this record meet the review''s eligible study design? Review criterion: All randomized controlled trials comparing acupuncture, acupressure, laser therapy or electrostimulation with either no intervention, or a sham form of the intervention, or another intervention, for smoking cessation.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Acupuncture and related interventions for smoking cessation". Does this record study the review''s eligible participants/population? Review criterion: Tobacco smokers of any age who wished to stop smoking.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Acupuncture and related interventions for smoking cessation". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Non‐pharmacological stimulation interventions involving needle puncture, finger pressure or laser therapy in areas of the body described by the study''s author as acupuncture points, which includes points on the ear, face and body, or the related intervention of electrostimulation to the head region, through surface electrodes. Had we located any, studies using a Western acupuncture approach would have been considered separately from those using a traditional approach.'
+  required: true

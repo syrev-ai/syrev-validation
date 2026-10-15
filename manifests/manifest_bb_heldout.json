@@ -1,0 +1,11 @@
+[
+ {
+  "group": "Bannach-Brown 2019 held-out validation set",
+  "stem": "Bannach-Brown_2019_heldout",
+  "review_id": "Bannach-Brown_2019_heldout",
+  "n": 1251,
+  "includes": 163,
+  "pool_n": 1251,
+  "source": "labels: classifier6-newvalidation.csv (github abannachbrown/..., GPL-3.0 repo); text: Zenodo 151190 Depression-Dataset-SLIM-AllRecords.txt (CC BY 4.0), joined on ID"
+ }
+]

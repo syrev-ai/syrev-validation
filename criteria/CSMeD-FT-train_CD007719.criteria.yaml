@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007719 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Routine vitamin A supplementation for the prevention of blindness due to measles infection in children". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs) that assess the efficacy of vitamin A in preventing blindness in children diagnosed with measles but with no prior clinical features of vitamin A deficiency and who are not malnourished. We excluded studies with participants that had clinically demonstrable vitamin A deficiency.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Routine vitamin A supplementation for the prevention of blindness due to measles infection in children". Does this record study the review''s eligible participants/population? Review criterion: Children 18 years or younger diagnosed with measles, with no prior clinical features of vitamin A deficiency. We excluded studies that included children with ocular abnormalities unrelated to vitamin A deficiency.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Routine vitamin A supplementation for the prevention of blindness due to measles infection in children". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Vitamin A versus placebo or no vitamin A.'
+  required: true

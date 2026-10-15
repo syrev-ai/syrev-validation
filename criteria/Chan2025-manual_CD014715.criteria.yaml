@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD014715.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Diagnostic accuracy of ultrasound screening for fetal structural abnormalities during the first and second trimester of pregnancy in low‐risk and unselected populations". Selection criteria: Studies were eligible if they included low‐risk or unselected pregnant women undergoing a first‐ and/or second‐trimester fetal anomaly scan, conducted at 11 to 14 or 18 to 24 weeks’ gestation, respectively. The reference standard was detection of anomalies at birth or postmortem. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Diagnostic accuracy of ultrasound screening for fetal structural abnormalities during the first and second trimester of pregnancy in low‐risk and unselected populations". Selection criteria: Studies were eligible if they included low‐risk or unselected pregnant women undergoing a first‐ and/or second‐trimester fetal anomaly scan, conducted at 11 to 14 or 18 to 24 weeks’ gestation, respectively. The reference standard was detection of anomalies at birth or postmortem. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Diagnostic accuracy of ultrasound screening for fetal structural abnormalities during the first and second trimester of pregnancy in low‐risk and unselected populations". Selection criteria: Studies were eligible if they included low‐risk or unselected pregnant women undergoing a first‐ and/or second‐trimester fetal anomaly scan, conducted at 11 to 14 or 18 to 24 weeks’ gestation, respectively. The reference standard was detection of anomalies at birth or postmortem. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

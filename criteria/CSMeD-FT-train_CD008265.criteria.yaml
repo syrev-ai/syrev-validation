@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008265 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Endoscopic release for carpal tunnel syndrome". Does this record meet the review''s eligible study design? Review criterion: We considered any randomised controlled trial (RCT) and quasi‐RCT comparing endoscopic carpal tunnel release (ECTR) with any other surgical intervention for the treatment of carpal tunnel syndrome (CTS). We did not apply any language restriction. Measurement of particular outcomes was not used as an eligibility criterion for study inclusion.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Endoscopic release for carpal tunnel syndrome". Does this record study the review''s eligible participants/population? Review criterion: We included studies with participants with clinical diagnosis of CTS with or without electrophysiological confirmation. We accepted the authors’ definition of CTS and their views of what constituted electrophysiological confirmation.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Endoscopic release for carpal tunnel syndrome". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We considered studies comparing ECTR with any other surgical intervention. This included open carpal tunnel release (OCTR) and its variations, OCTR with mini‐open technique and OCTR with concomitant interventions (such as lengthening of flexor retinaculum, internal neurolysis, epineurotomy or tenosynovectomy). We also included studies comparing different techniques of ECTR with each other.'
+  required: true

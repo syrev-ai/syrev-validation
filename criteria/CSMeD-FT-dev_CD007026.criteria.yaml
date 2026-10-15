@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD007026 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Cerebrolysin for acute ischaemic stroke". Does this record meet the review''s eligible study design? Review criterion: We included all published randomised controlled trials (RCTs) comparing Cerebrolysin with placebo or no treatment in people with acute ischaemic stroke. We excluded uncontrolled studies, as well as quasi‐RCTs where allocation to treatment or control was not concealed (e.g. allocation by alteration, open random number list, date of birth, day of the week, or hospital number).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Cerebrolysin for acute ischaemic stroke". Does this record study the review''s eligible participants/population? Review criterion: People with acute ischaemic stroke, irrespective of age, sex, or social status, whose symptom onset was less than 48 hours previously. Stroke symptoms include: sudden weakness or numbness of the face, arm, or leg, often unilateral; confusion; difficulties in speaking or seeing with one or both eyes; difficulties walking; loss of balance or co‐ordination; severe no‐cause headache; fainting or loss of consciousness. Stroke diagnosis confirmation with neuroimaging was not an inclusion criterion. For future updates stroke diagnosis confirmation by neuroimaging will be mandatory.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Cerebrolysin for acute ischaemic stroke". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We compared Cerebrolysin added to standard treatment against either placebo or no treatment added to standard treatment. Standard treatment is not defined precisely and differs between studies. Study medication must have been started within 48 hours of onset of stroke and continued for any period of time. We planned to add a separate analysis for the comparison ''Cerebrolysin versus other neuroprotective agents'' and to combine data for Cerebrolysin with data for newer peptide‐mixtures, which we have termed ''Cerebrolysin‐like agents'', but the available studies did not permit this.'
+  required: true

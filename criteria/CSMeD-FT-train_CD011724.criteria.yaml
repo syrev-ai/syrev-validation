@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD011724 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Needle aspiration versus intercostal tube drainage for pneumothorax in the newborn". Does this record meet the review''s eligible study design? Review criterion: We included prospective randomised clinical controlled trials and quasi‐randomised trials. We planned to include cluster randomised controlled trials if the definition of participants and clusters was sufficiently clear. Cross‐over trials were not included because the intervention might have a lasting effect that compromises entry to subsequent periods of the trial.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Needle aspiration versus intercostal tube drainage for pneumothorax in the newborn". Does this record study the review''s eligible participants/population? Review criterion: Newborn infants with PTX, any gestational age and birth weight, ventilated and non‐ventilated.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Needle aspiration versus intercostal tube drainage for pneumothorax in the newborn". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We compared needle aspiration to intercostal tube drainage in newborns with PTX. Two separate comparisons were planned. Aspiration with needle removal immediately after aspiration vs. intercostal tube drainage in newborns with PTX. Aspiration to needle (or angiocatheter) left in situ vs. intercostal tube drainage in newborns with PTX. Aspiration with needle removal immediately after aspiration vs. intercostal tube drainage in newborns with PTX. Aspiration to needle (or angiocatheter) left in situ vs. intercostal tube drainage in newborns with PTX. Aspirations could be repeated and could be performed on one or both sides of the chest. However, the condition had to be untreated prior to randomisation. Treatment with supplemental oxygen was not an exclusion criterion. We excluded trials in which ''invasive management'' (i.e. needle aspiration or intercostal tube drainage) and ''expectant management'' (i.e. watchful waiting) were compared.'
+  required: true

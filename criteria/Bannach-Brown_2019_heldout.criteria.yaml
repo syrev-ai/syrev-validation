@@ -1,0 +1,9 @@
+# Bannach-Brown et al. 2019 (Syst Rev 8:23) — broad, shallow preclinical review of
+# non-human animal models of depression (CAMARADES / SLIM). Authored from the paper's stated aim.
+criteria:
+  - id: in_vivo_animal
+    question: "Is this primary experimental research conducted in live (in vivo) non-human animals (e.g. rodents, primates, zebrafish), rather than only humans, cell cultures, or a review/commentary?"
+    required: true
+  - id: depression_model
+    question: "Does the study use or characterise an animal model of depression or depression-like behaviour (e.g. chronic mild/unpredictable stress, social defeat, learned helplessness, olfactory bulbectomy, maternal separation, genetic or pharmacological models, forced swim / tail suspension paradigms), including testing antidepressant or other treatments in such a model?"
+    required: true

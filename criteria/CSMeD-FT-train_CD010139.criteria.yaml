@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010139 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Indacaterol, a once‐daily beta2‐agonist, versus twice‐daily beta2‐agonists or placebo for chronic obstructive pulmonary disease". Does this record meet the review''s eligible study design? Review criterion: We included randomised controlled trials of at least 12 weeks'' duration. We did not exclude trials on the basis of blinding. Trials using additional bronchodilators that were not part of the comparison were excluded because of the possibility that they might introduce bias.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Indacaterol, a once‐daily beta2‐agonist, versus twice‐daily beta2‐agonists or placebo for chronic obstructive pulmonary disease". Does this record study the review''s eligible participants/population? Review criterion: Adults older than 18 years with a confirmed spirometric diagnosis of COPD.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Indacaterol, a once‐daily beta2‐agonist, versus twice‐daily beta2‐agonists or placebo for chronic obstructive pulmonary disease". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Experimental intervention: once‐daily indacaterol at any dose. Comparator interventions: Placebo. Twice‐daily long‐acting beta2‐agonists. Experimental intervention: once‐daily indacaterol at any dose. Comparator interventions: Placebo. Twice‐daily long‐acting beta2‐agonists.'
+  required: true

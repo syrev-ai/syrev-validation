@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD003344 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Beta lactam antibiotic monotherapy versus beta lactam‐aminoglycoside antibiotic combination therapy for sepsis". Does this record meet the review''s eligible study design? Review criterion: We included randomized or quasi‐randomized controlled trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Beta lactam antibiotic monotherapy versus beta lactam‐aminoglycoside antibiotic combination therapy for sepsis". Does this record study the review''s eligible participants/population? Review criterion: We included hospitalized participants with sepsis acquired in the community or in the hospital. We defined sepsis as clinical evidence of infection plus evidence of a systemic response to infection (Bone 1992). We excluded neonates and preterm babies. We also excluded studies including more than 15% neutropenic patients.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Beta lactam antibiotic monotherapy versus beta lactam‐aminoglycoside antibiotic combination therapy for sepsis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We considered studies comparing the antibiotic regimens described below. Any intravenous beta lactam antibiotic given as monotherapy, including: penicillins; beta lactam drugs plus beta lactamase inhibitors (e.g. co‐amoxiclav); cephalosporins (e.g. ceftazidime, cefotaxime); or carbapenems (e.g. imipenem, meropenem). Combination therapy of a beta lactam antibiotic (as specified) with one of the following aminoglycoside antibiotics: gentamicin; tobramycin; amikacin; netilmicin; streptomycin; isepamicin; or sisomicin. Any intravenous beta lactam antibiotic given as monotherapy, including: penicillins; beta lactam drugs plus beta lactamase inhibitors (e.g. co‐amoxiclav); cephalosporins (e.g. ceftazidime, cefotaxime); or carbapenems (e.g. imipenem, meropenem). Combination therapy of a beta lactam antibiotic (as specified) with one of the following aminoglycoside antibiotics: gentamicin; tobramycin; amikacin; netilmicin; streptomycin; isepamicin; or sisomicin.'
+  required: true

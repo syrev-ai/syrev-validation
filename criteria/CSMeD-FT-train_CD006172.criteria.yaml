@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD006172 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Home uterine monitoring for detecting preterm labour". Does this record meet the review''s eligible study design? Review criterion: Published and unpublished randomised and quasi‐randomised controlled trials in which the use of home uterine activity monitoring is compared with care that does not include home uterine activity monitoring.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Home uterine monitoring for detecting preterm labour". Does this record study the review''s eligible participants/population? Review criterion: Women considered by their obstetricians to be at risk for preterm birth. We included women with multiple pregnancies in the review, but treated them as a subgroup (where possible).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Home uterine monitoring for detecting preterm labour". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: The emphasis is on identifying the value of home uterine activity monitoring, which may be used as part of a care package to reduce the need for hospital admission or monitoring, or both, to reduce the need for additional educational support for the woman, or reduce the need for additional nursing contact. We also considered trials where home uterine monitoring is compared with a different form of extra surveillance for women defined as being at risk by their obstetricians. Care including home uterine monitoring versus routine care (without home uterine monitoring or with placebo or ''sham'' home monitoring). Care including home uterine monitoring versus care with an alternative form of additional surveillance. Care including home uterine monitoring versus routine care (without home uterine monitoring or with placebo or ''sham'' home monitoring). Care including home uterine monitoring versus care with an alternative form of additional surveillance.'
+  required: true

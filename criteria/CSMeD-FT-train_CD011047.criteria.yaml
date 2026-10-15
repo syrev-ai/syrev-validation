@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD011047 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Colchicine for prevention of cardiovascular events". Does this record meet the review''s eligible study design? Review criterion: We considered randomised controlled trials (RCTs), cluster‐ and pseudo‐randomised controlled trials for inclusion. We included studies published as full‐text or abstract, and unpublished data. From randomised cross‐over trials, only data from the first phase were eligible for inclusion. We excluded ''N of 1'' trials and non‐randomised (observational) research.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Colchicine for prevention of cardiovascular events". Does this record study the review''s eligible participants/population? Review criterion: We included trials in adults (aged 18 years and over) with any condition or disease.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Colchicine for prevention of cardiovascular events". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included trials comparing treatment with colchicine for any condition or any disease on a continuous basis (treatment over at least six months at any dose and with any type of application) with no or any other treatment (including usual care or placebo) not containing colchicine. We accepted any co‐interventions, provided they were identical in the compared study groups and not part of the randomised treatment.'
+  required: true

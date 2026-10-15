@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD002283 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Retention procedures for stabilising tooth position after treatment with orthodontic braces". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Retention procedures for stabilising tooth position after treatment with orthodontic braces". Does this record study the review''s eligible participants/population? Review criterion: Children and adults who have had retainers fitted or adjunctive procedures undertaken following treatment with orthodontic braces. There was no restriction for the presenting malocclusion or type of active orthodontic treatment undertaken. The participants had to be followed up at least three months after completing their orthodontic treatment. We excluded: people who had surgical correction of the jaws; people with a cleft lip or palate, or both, or other craniofacial syndrome; people who had orthodontic treatment based on extractions alone or the fitting of a passive space maintainer, or both. people who had surgical correction of the jaws; people with a cleft lip or palate, or both, or other craniofacial syndrome; people who had orthodontic treatment based on extractions alone or the fitting of a passive space maintainer, or both.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Retention procedures for stabilising tooth position after treatment with orthodontic braces". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Retainers or adjunctive techniques, or both, after treatment with orthodontic braces. We included only studies where the full course of definitive orthodontic treatment was completed ‐ therefore, we excluded data on retention strategies at the end of an initial phase of removable or functional appliance treatment.'
+  required: true

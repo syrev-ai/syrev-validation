@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT test metadata for CD010452 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs)'
+  required: true
+- id: population
+  question: 'Cochrane review: "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins". Does this record study the review''s eligible participants/population? Review criterion: Adults and children diagnosed with typhoid or paratyphoid fever on the basis of blood culture, bone marrow culture or molecular tests.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Treatment with a cephalosporin antimicrobial of any dose or duration. Cephalosporins considered in this review are shown in Table 1. Cephalosporins Cefcapene Cefdaloxime Cefdinir Cefditoren Cefetamet Cefixime Cefmenoxime Cefodizime Cefoperazone Cefotaxime Cefpimizole Cefclidine Cefepime Cefluprenam Cefoselis Cefpodoxime Ceftazidime Cefteram Ceftibuten Ceftizoxime Ceftriaxone Cefozopran Cefpirome Other antimicrobials, including: fluoroquinolones azithromycin aztreonam chloramphenicol Different cephalosporins Different treatment durations of the intervention cephalosporin Other antimicrobials, including: fluoroquinolones azithromycin aztreonam chloramphenicol Different cephalosporins Different treatment durations of the intervention cephalosporin'
+  required: true

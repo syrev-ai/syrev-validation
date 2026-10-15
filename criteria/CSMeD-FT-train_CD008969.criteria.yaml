@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD008969 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Brief school‐based interventions and behavioural outcomes for substance‐using adolescents". Does this record meet the review''s eligible study design? Review criterion: We included randomised controlled trials that evaluated the effects of BIs on substance use as well as on behavioural outcomes associated with adolescent substance use. We excluded studies that recruited adolescents from anywhere else other than an educational setting.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Brief school‐based interventions and behavioural outcomes for substance‐using adolescents". Does this record study the review''s eligible participants/population? Review criterion: Participants were adolescents under the age of 19 who were attending high school, secondary school, or a further education training college that provided alternative schooling or vocational training for adolescents between 16 and 18 years of age, and who used alcohol or other drugs, or both, but did not meet the criteria for substance dependence. In addition, adolescents had faced negative behavioural consequences due to their substance use.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Brief school‐based interventions and behavioural outcomes for substance‐using adolescents". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: The intervention should have been labelled as a BI, but could also have been defined as motivational interviewing, brief skills‐orientation, motivational enhancement, or other specific types of BIs that were up to four sessions long and used BI principles to facilitate change. The focus should have been on building the individual''s motivation to change. The BIs could have been offered as a stand‐alone option, integrated with other intervention efforts, or as a precursor to other treatments. Only BIs that were offered to individuals in a face‐to‐face modality were included in this review. The control could have been no intervention, placebo, assessment only, or other types of interventions or education.'
+  required: true

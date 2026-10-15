@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD001191 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Rivastigmine for Alzheimer''s disease". Does this record meet the review''s eligible study design? Review criterion: We included double‐blind, randomised controlled trials in which rivastigmine was administered for 12 weeks or longer and compared with placebo; or rivastigmine patches were compared with rivastigmine capsules. Trials in which the allocation to treatment was not randomised, or in which treatment allocation was not concealed, were excluded. This was because prior knowledge of treatment allocation may lead to biased allocation of patients (Schulz 1995).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Rivastigmine for Alzheimer''s disease". Does this record study the review''s eligible participants/population? Review criterion: The patients in trials to be included were diagnosed with probable AD according to internationally accepted criteria such as the Diagnostic and Statistical Manual of Mental Disorders DSM‐IV (DSM IV) and National Institute of Neurological and Communicative Disorders and Stroke‐Alzheimer''s Disease and Related Disorders Association (NINCDS‐ADRDA) criteria (McKhann 1984).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Rivastigmine for Alzheimer''s disease". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Intervention: rivastigmine given at any dose, using any method of administration Comparison: placebo Intervention: rivastigmine patches at the manufacturer''s recommended dose Comparison: rivastigmine capsules at the manufacturer''s recommended dose'
+  required: true

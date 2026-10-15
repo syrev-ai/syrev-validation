@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD006832 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Interventions for preventing critical illness polyneuropathy and critical illness myopathy". Does this record meet the review''s eligible study design? Review criterion: We included all RCTs in humans that compared the efficacy of any treatment used to prevent or reduce the incidence of CIP or CIM as a primary or secondary outcome to placebo, no treatment or a different treatment.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Interventions for preventing critical illness polyneuropathy and critical illness myopathy". Does this record study the review''s eligible participants/population? Review criterion: Adults (over 18 years) of either sex, admitted to a medical, surgical or mixed ICU.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Interventions for preventing critical illness polyneuropathy and critical illness myopathy". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included in the review any form of intervention that has been related in the literature to a decreased risk of CIP or CIM or both. Interventions include: nutritional interventions: enteral versus parenteral feeding; and supplemental therapies such as protein and amino acid supplementation (glutamine and arginine); antioxidant therapy (for example, glutathione or n‐acetyl cysteine); hormone therapy: testosterone, oxandrolone, growth hormone, IGF‐1, intensive insulin therapy (IIT) and glucocorticoids; intravenous immunoglobulin; physiotherapy; EMS; and rehabilitation programs. nutritional interventions: enteral versus parenteral feeding; and supplemental therapies such as protein and amino acid supplementation (glutamine and arginine); antioxidant therapy (for example, glutathione or n‐acetyl cysteine); hormone therapy: testosterone, oxandrolone, growth hormone, IGF‐1, intensive insulin therapy (IIT) and glucocorticoids; intravenous immunoglobulin; physiotherapy; EMS; and rehabilitation programs.'
+  required: true

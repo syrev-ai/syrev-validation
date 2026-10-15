@@ -1,0 +1,17 @@
+# van der Valk 2021 — cross-sectional relation of long-term hair glucocorticoids with anthropometry.
+criteria:
+  - id: hairgc
+    question: "Does the study measure long-term glucocorticoids in scalp hair (hair cortisol and/or hair cortisone)?"
+    required: true
+  - id: obesity_measure
+    question: "Does the study report a cross-sectional association with an anthropometric measure of obesity (BMI, waist circumference, and/or waist-hip ratio)?"
+    required: true
+  - id: simultaneous
+    question: "Were hair sampling and weight/anthropometric measurements performed at approximately the same time (not substantially separated in time)?"
+    required: true
+  - id: human_not_infant_only
+    question: "Is this a human study that is not limited exclusively to children younger than 2 years?"
+    required: true
+  - id: original
+    question: "Is this an original peer-reviewed research article (not a case report, animal study, review, or non-peer-reviewed report)?"
+    required: true

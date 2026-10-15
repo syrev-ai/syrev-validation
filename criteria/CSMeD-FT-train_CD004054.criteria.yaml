@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD004054 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Psychological and educational interventions for atopic eczema in children". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Psychological and educational interventions for atopic eczema in children". Does this record study the review''s eligible participants/population? Review criterion: Children, adolescents, or infants with atopic eczema and their caregivers (including parents).'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Psychological and educational interventions for atopic eczema in children". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We anticipated that most studies would be of conventional treatment alone versus conventional plus psychological or educational interventions and that we would be unlikely to find trials examining purely psychological or educational approaches. Some interventions that are psychologically‐ or educationally‐based, focused on the parent, the child, or both, and depended upon the developmental stage of the child. Whilst some RCTs of therapies had an educational or psychological component, in this review, we only included studies where the educational or psychological intervention was the primary intervention to which the experimental group was exposed.'
+  required: true

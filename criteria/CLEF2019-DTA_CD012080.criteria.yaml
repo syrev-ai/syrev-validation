@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd012080.pub2 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Non‐invasive diagnostic tests for Helicobacter pylori infection". Selection criteria: We included diagnostic accuracy studies that evaluated at least one of the index tests (urea breath test using isotopes such as 13 C or 14 C, serology and stool antigen test) against the reference standard (histopathological examination using H & E stain, special stains or immunohistochemical stain) in people suspected of having H pylori infection. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Non‐invasive diagnostic tests for Helicobacter pylori infection". Selection criteria: We included diagnostic accuracy studies that evaluated at least one of the index tests (urea breath test using isotopes such as 13 C or 14 C, serology and stool antigen test) against the reference standard (histopathological examination using H & E stain, special stains or immunohistochemical stain) in people suspected of having H pylori infection. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Non‐invasive diagnostic tests for Helicobacter pylori infection". Selection criteria: We included diagnostic accuracy studies that evaluated at least one of the index tests (urea breath test using isotopes such as 13 C or 14 C, serology and stool antigen test) against the reference standard (histopathological examination using H & E stain, special stains or immunohistochemical stain) in people suspected of having H pylori infection. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

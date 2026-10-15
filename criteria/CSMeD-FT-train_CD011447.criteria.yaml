@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD011447 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Ultrasound guidance versus anatomical landmarks for subclavian or femoral vein catheterization". Does this record meet the review''s eligible study design? Review criterion: We considered randomized controlled trials (RCTs) in all languages that were eligible for inclusion in the review, with an RCT defined as a study in which participants were allocated to treatment groups on the basis of a random or quasi‐random method (e.g. using random number tables, hospital number, date of birth). We also included controlled clinical trials (CCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Ultrasound guidance versus anatomical landmarks for subclavian or femoral vein catheterization". Does this record study the review''s eligible participants/population? Review criterion: We included all patients (children and adults) who required the insertion of a central venous catheter via the subclavian, the axillary or the femoral vein. We applied no restrictions with respect to specific population characteristics (such as age, gender, race or presence of a particular condition, for example, risk factors), settings (intensive care unit (ICU), operation room, patient awake/sedated/anaesthetized) or practitioners'' experience.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Ultrasound guidance versus anatomical landmarks for subclavian or femoral vein catheterization". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included all studies in which conventional techniques oriented to anatomical landmarks (LMs) for puncture of the subclavian vein, the axillary vein and the femoral vein (control intervention) were compared with techniques in which punctures were performed with the help of imaging (US) or Doppler (USD) sonographic devices (experimental intervention). We included all studies, irrespective of whether the puncture was performed directly (under sonographic control) or indirectly (while searching for the vessel by means of ultrasound and marking the puncture site on the skin; the following puncture was performed without sonographic guidance).'
+  required: true

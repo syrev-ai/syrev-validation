@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010235 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "The role of high‐frequency oscillations in epilepsy surgery planning". Does this record meet the review''s eligible study design? Review criterion: This review included both randomised trials and non‐randomised trials that included information about both HFOs and the outcomes of epilepsy surgery. All participants in these studies had to have surgery. The treatment groups we considered were those that either used HFOs to make surgical decisions or used HFOs as part of electrocorticography and used that information in making surgical decisions. The control groups did not use HFOs in the decision making. Of the non‐randomised studies, we included prospective cohort studies. We excluded case‐control studies and retrospective cohort studies since they do not prove causation, and retrospective studies where participants were ascertained after surgery (for example, case reports and case series). We considered other trial designs on a case‐by‐case basis.'
+  required: true
+- id: population
+  question: 'Cochrane review: "The role of high‐frequency oscillations in epilepsy surgery planning". Does this record study the review''s eligible participants/population? Review criterion: Eligible participants were males and females (both adults and children of all ages) with any diagnosis of epilepsy, as long as they were drug‐resistant. We did not exclude participants with a comorbidity.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "The role of high‐frequency oscillations in epilepsy surgery planning". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: The participants needed to have had epilepsy surgery and electrophysiologic recordings containing evidence for HFOs that were reviewed before or during surgery and used as part of surgical decision making.'
+  required: true

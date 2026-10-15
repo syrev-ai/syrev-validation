@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007745 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Ivermectin versus albendazole or thiabendazole for Strongyloides stercoralis infection". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Ivermectin versus albendazole or thiabendazole for Strongyloides stercoralis infection". Does this record study the review''s eligible participants/population? Review criterion: Participants were people (all ages) who were immunocompetent or immunocompromised, and with chronic infection by S. stercoralis confirmed by parasitological examination (at least one positive specimen) or serology tests (IFAT). We defined immunocompromised people as those affected by haematological malignancies, bone marrow and kidney transplants, hypogammaglobulinaemia (low gamma globulin in blood), malnutrition, HTLV‐1/HIV infection or co‐infection, or who are using corticosteroids.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Ivermectin versus albendazole or thiabendazole for Strongyloides stercoralis infection". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Ivermectin versus albendazole or thiabendazole.'
+  required: true

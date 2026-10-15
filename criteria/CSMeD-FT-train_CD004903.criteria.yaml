@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD004903 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Pneumococcal vaccination during pregnancy for preventing infant infection". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials. Quasi‐randomized controlled trials were not included.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Pneumococcal vaccination during pregnancy for preventing infant infection". Does this record study the review''s eligible participants/population? Review criterion: Healthy women with uncomplicated pregnancies.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Pneumococcal vaccination during pregnancy for preventing infant infection". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Pneumococcal vaccine (polysaccharide or conjugate) compared with placebo or doing nothing, or with another vaccine.'
+  required: true

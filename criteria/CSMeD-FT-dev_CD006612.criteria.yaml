@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD006612 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Homocysteine‐lowering interventions for preventing cardiovascular events". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs) with a follow‐up period of one year or longer.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Homocysteine‐lowering interventions for preventing cardiovascular events". Does this record study the review''s eligible participants/population? Review criterion: Adults (over 18 years) at risk of, or with established cardiovascular disease. We excluded studies in patients with end‐stage renal disease.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Homocysteine‐lowering interventions for preventing cardiovascular events". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: The interventions considered were vitamins B6 (pyridoxine; pyridoxal), B9 (folic acid) or B12 (cyanocobalamin) given alone or in combination, at any dosage, and via any administration route. We made comparisons with placebo, or with differing regimens of vitamins B6, B9 or B12. When the included population was at risk of cardiovascular disease, we considered combinations of homocysteine‐lowering interventions with standard treatment (such as antihypertensives and statins) versus standard treatment alone.'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010269 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Alpha‐2 agonists for long‐term sedation during mechanical ventilation in critically ill patients". Does this record meet the review''s eligible study design? Review criterion: We include all randomized and quasi‐randomized controlled trials. Quasi‐randomized controlled trials include those trials that use inappropriate randomization strategies (e.g. alternation, birth date, hospital registration number, etc.) (Higgins 2011a). We exclude cluster‐randomized, cross‐over and non‐randomized trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Alpha‐2 agonists for long‐term sedation during mechanical ventilation in critically ill patients". Does this record study the review''s eligible participants/population? Review criterion: We include randomized controlled trials (RCTs) of critically ill participants of any age, except neonates, who required intensive care and invasive mechanical ventilation when recruited. We exclude RCTs in which participants only had non‐invasive mechanical ventilation.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Alpha‐2 agonists for long‐term sedation during mechanical ventilation in critically ill patients". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We include studies comparing clonidine or dexmedetomidine versus alternative sedative agents. The alternative sedatives included benzodiazepines, such as midazolam or diazepam, propofol and other sedatives. We include studies which explicitly report that each participant was anticipated to need sedation for more than 24 hours. There was no limitation for dose, frequency or route of administration of alpha‐2 agonists. We exclude studies in which all participants were sedated for less than 24 hours or studies without an explicit statement that they required or anticipated participants to have sedation for more than 24 hours . We exclude studies that compare one alpha‐2 agonist with another.'
+  required: true

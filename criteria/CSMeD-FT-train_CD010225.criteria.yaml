@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010225 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Single induction dose of etomidate versus other induction agents for endotracheal intubation in critically ill patients". Does this record meet the review''s eligible study design? Review criterion: We included randomized controlled trials (RCTs). We excluded non‐randomized or quasi‐randomized trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Single induction dose of etomidate versus other induction agents for endotracheal intubation in critically ill patients". Does this record study the review''s eligible participants/population? Review criterion: We included adult and paediatric patients undergoing emergency endotracheal intubation (defined as endotracheal intubation for an unstable clinical condition) for critical illness, including but not limited to: trauma, stroke, myocardial infarction, arrhythmia, septic shock, hypovolaemic or haemorrhagic shock, and undifferentiated shock states. We excluded elective anaesthesia induction in stable patients.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Single induction dose of etomidate versus other induction agents for endotracheal intubation in critically ill patients". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included a single (bolus) dose of etomidate for emergency airway intervention compared to any other rapid‐acting IV bolus single‐dose induction agent (ketamine, midazolam, propofol, thiopental, etc.). We excluded etomidate infusions and etomidate use for indications other than airway intervention (for example procedural sedation).'
+  required: true

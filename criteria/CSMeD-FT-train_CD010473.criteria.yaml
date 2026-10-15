@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010473 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Continuous positive airway pressure (CPAP) for acute bronchiolitis in children". Does this record meet the review''s eligible study design? Review criterion: Randomised controlled trials (RCTs), quasi‐RCTs, cross‐over RCTs, and cluster‐RCTs were eligible for inclusion in the review.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Continuous positive airway pressure (CPAP) for acute bronchiolitis in children". Does this record study the review''s eligible participants/population? Review criterion: Children aged up to three years with a clinical diagnosis of acute bronchiolitis. We included all infants, regardless of RSV status.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Continuous positive airway pressure (CPAP) for acute bronchiolitis in children". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included CPAP treatment with any pressure level, and delivered by any type of device, by any mode (nasal prongs, face mask, etc.), and for any duration, compared to no CPAP or sham CPAP. We included studies that applied CPAP at any time after patient presentation. We excluded studies that investigated the use of high‐flow nasal cannulae, as this concept is addressed in another Cochrane Review (Beggs 2014). We included trials in which all children who were randomised to treatment and control arms received similar management in all other respects.'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD003266 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Recombinant human erythropoietin versus placebo or no treatment for the anaemia of chronic kidney disease in people not requiring dialysis". Does this record meet the review''s eligible study design? Review criterion: Only randomised controlled trials (RCT) or quasi‐RCTs (in which concealment of allocation of patients to treatment groups is less secure e.g. alternation where patients are consecutively allocated to different treatments) comparing rHuEPO treatment (experimental group) with either placebo or no rHuEPO (control group) in predialysis patients with renal anaemia were included in this review.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Recombinant human erythropoietin versus placebo or no treatment for the anaemia of chronic kidney disease in people not requiring dialysis". Does this record study the review''s eligible participants/population? Review criterion: Patients with the anaemia of CKD who have not yet commenced dialysis were included. The definitions of anaemia and CKD used by each individual study were accepted. There were no age exclusions.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Recombinant human erythropoietin versus placebo or no treatment for the anaemia of chronic kidney disease in people not requiring dialysis". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Treatment with rHuEPO irrespective of dose or mode of delivery versus placebo or no rHuEPO were included.'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD010693 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Peroxisome proliferator‐activated receptor gamma agonists for preventing recurrent stroke and other vascular events in people with stroke or transient ischaemic attack". Does this record meet the review''s eligible study design? Review criterion: We included randomised controlled trials and excluded quasi‐randomised or confounded studies.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Peroxisome proliferator‐activated receptor gamma agonists for preventing recurrent stroke and other vascular events in people with stroke or transient ischaemic attack". Does this record study the review''s eligible participants/population? Review criterion: We included studies of people over the age of 18 years with a history of stroke or TIA. We used the definition of TIA as provided in the original publications. We excluded studies of people with diabetes who lacked a clear history of stroke or TIA.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Peroxisome proliferator‐activated receptor gamma agonists for preventing recurrent stroke and other vascular events in people with stroke or transient ischaemic attack". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We included trials comparing PPAR‐γ agonists (including pioglitazone, rosiglitazone, glitazone, troglitazone, netoglitazone, rivoglitazone, ciglitazone, balaglitazone, darglitazone, edaglitazone, englitazone, and lobeglitazone) with placebo, regardless of the length of treatment period and dosage of treatment. We included other concomitant therapies providing they were administered to both the intervention and control groups.'
+  required: true

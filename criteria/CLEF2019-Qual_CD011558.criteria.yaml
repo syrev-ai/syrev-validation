@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd011558.pub2 (2017) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Factors that influence the provision of intrapartum and postnatal care by skilled birth attendants in low‐ and middle‐income countries: a qualitative evidence synthesis". Selection criteria: We included qualitative studies that focused on the views, experiences, and behaviours of SBAs and those who work with them as part of the team. We included studies from all levels of health care in low- and middle-income countries. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Factors that influence the provision of intrapartum and postnatal care by skilled birth attendants in low‐ and middle‐income countries: a qualitative evidence synthesis". Selection criteria: We included qualitative studies that focused on the views, experiences, and behaviours of SBAs and those who work with them as part of the team. We included studies from all levels of health care in low- and middle-income countries. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Factors that influence the provision of intrapartum and postnatal care by skilled birth attendants in low‐ and middle‐income countries: a qualitative evidence synthesis". Selection criteria: We included qualitative studies that focused on the views, experiences, and behaviours of SBAs and those who work with them as part of the team. We included studies from all levels of health care in low- and middle-income countries. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

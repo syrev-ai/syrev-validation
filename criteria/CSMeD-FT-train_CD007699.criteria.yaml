@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD007699 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Warfarin initiation nomograms for venous thromboembolism". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Warfarin initiation nomograms for venous thromboembolism". Does this record study the review''s eligible participants/population? Review criterion: Patients with a diagnosis of objectively confirmed acute thromboembolism (DVT or PE), aged 18 years or older. Studies that contain a mix of patients with acute thromboembolism and other conditions requiring warfarin treatment will be included only if the data for patients with acute thromboembolism are available.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Warfarin initiation nomograms for venous thromboembolism". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Warfarin initiation nomograms of 10 mg and 5 mg.'
+  required: true

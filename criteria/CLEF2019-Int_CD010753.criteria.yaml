@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd010753.pub2 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Antidepressants for insomnia in adults". Selection criteria: Randomised controlled trials (RCTs) of adults (aged 18 years or older) with a primary diagnosis of insomnia and all participant types including people with comorbidities. Any antidepressant as monotherapy at any dose whether compared with placebo, other medications for insomnia (e.g. benzodiazepines and ''Z'' drugs), a different antidepressant, waiting list control or treatment as usual. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Antidepressants for insomnia in adults". Selection criteria: Randomised controlled trials (RCTs) of adults (aged 18 years or older) with a primary diagnosis of insomnia and all participant types including people with comorbidities. Any antidepressant as monotherapy at any dose whether compared with placebo, other medications for insomnia (e.g. benzodiazepines and ''Z'' drugs), a different antidepressant, waiting list control or treatment as usual. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Antidepressants for insomnia in adults". Selection criteria: Randomised controlled trials (RCTs) of adults (aged 18 years or older) with a primary diagnosis of insomnia and all participant types including people with comorbidities. Any antidepressant as monotherapy at any dose whether compared with placebo, other medications for insomnia (e.g. benzodiazepines and ''Z'' drugs), a different antidepressant, waiting list control or treatment as usual. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

@@ -1,0 +1,11 @@
+# SWIFT-Review / NTP OHAT dataset (Howard et al. 2016): transgenerational inheritance of health effects (scoping review).
+criteria:
+  - id: parental_exposure
+    question: "Does the study involve an exposure (e.g. chemical, drug, diet, stress, radiation, or other environmental factor) of a parental or ancestral generation?"
+    required: true
+  - id: later_generation_effect
+    question: "Does the study assess health, physiological, behavioural or epigenetic effects in subsequent generations (offspring, grand-offspring or later, e.g. F1, F2, F3), i.e. multigenerational or transgenerational effects?"
+    required: true
+  - id: primary_research
+    question: "Is this primary research (human or experimental animal study) rather than a review, editorial or commentary without original data?"
+    required: true

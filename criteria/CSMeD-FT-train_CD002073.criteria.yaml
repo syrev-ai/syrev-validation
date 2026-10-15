@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD002073 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Interventions for the treatment of twin‐twin transfusion syndrome". Does this record meet the review''s eligible study design? Review criterion: Due to an anticipated lack of randomised controlled trials, we considered both quasi‐randomised and randomised studies of one treatment versus another. Comparisons such as amnioreduction versus laser coagulation, septostomy versus laser coagulation or septostomy versus amnioreduction were suitable for inclusion.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Interventions for the treatment of twin‐twin transfusion syndrome". Does this record study the review''s eligible participants/population? Review criterion: Women with a twin pregnancy where TTTS has been diagnosed on ultrasound by: confirmation of monochorionicity; oligohydramnios in one sac and hydramnios in the other; normal anatomy of both fetuses. confirmation of monochorionicity; oligohydramnios in one sac and hydramnios in the other; normal anatomy of both fetuses.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Interventions for the treatment of twin‐twin transfusion syndrome". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: We reviewed any intervention performed as a therapy for TTTS with a view to improving maternal symptoms, fetal, neonatal and childhood outcome and prolonging pregnancy.'
+  required: true

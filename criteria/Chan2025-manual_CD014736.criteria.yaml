@@ -1,0 +1,11 @@
+# Auto-derived from the [SEL] selection criteria shipped with Chan 2025 manual-search data for CD014736.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Effects of additional exercise therapy after a successful vascular intervention for people with symptomatic peripheral arterial disease". Selection criteria: We included randomised controlled trials which compared supervised exercise training following lower limb revascularisation with standard care following lower limb revascularisation in adults (18 years and older) with PAD. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Effects of additional exercise therapy after a successful vascular intervention for people with symptomatic peripheral arterial disease". Selection criteria: We included randomised controlled trials which compared supervised exercise training following lower limb revascularisation with standard care following lower limb revascularisation in adults (18 years and older) with PAD. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Effects of additional exercise therapy after a successful vascular intervention for people with symptomatic peripheral arterial disease". Selection criteria: We included randomised controlled trials which compared supervised exercise training following lower limb revascularisation with standard care following lower limb revascularisation in adults (18 years and older) with PAD. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

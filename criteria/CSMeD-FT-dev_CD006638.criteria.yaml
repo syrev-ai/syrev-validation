@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD006638 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Cooling for cerebral protection during brain surgery". Does this record meet the review''s eligible study design? Review criterion: Similar to the original review on this topic (Milani 2011), we intended to include both randomized and quasi‐randomized controlled trials. Quasi‐randomized trials were defined as trials using a method of allocation of participants to different forms of care that was not truly random (for example allocation by date of birth, day of the week, medical record number, month of the year, or the order in which participants were included in the study).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Cooling for cerebral protection during brain surgery". Does this record study the review''s eligible participants/population? Review criterion: Any patient undergoing brain surgery (vascular, tumour, brain injury, intracranial arteriovenous malformations, etc), without age or gender restrictions, who were participants in a trial of cooling at any time in the perioperative period, that is either preoperatively, intraoperatively or postoperatively.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Cooling for cerebral protection during brain surgery". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Neurosurgical procedures where a deliberate strategy to cool the brain in the perioperative period was compared to no specific attempt to manipulate the brain temperature. While there is no generally accepted classification for levels of hypothermia, we defined the target levels of hypothermia as follows (where temperatures refer to brain or core values). Mild: down to 32 ºC. Moderate: from 32 ºC to 28 ºC. Deep: under 28 ºC. Mild: down to 32 ºC. Moderate: from 32 ºC to 28 ºC. Deep: under 28 ºC.'
+  required: true

@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD004178 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Endovascular repair of abdominal aortic aneurysm". Does this record meet the review''s eligible study design? Review criterion: Prospective randomised controlled trials (RCTs) comparing EVAR with OSR in individuals considered fit for surgery, and EVAR with best medical care in individuals considered unfit for surgery. We excluded studies with inadequate data or using an inadequate randomisation technique.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Endovascular repair of abdominal aortic aneurysm". Does this record study the review''s eligible participants/population? Review criterion: All individuals with an AAA diagnosed by ultrasound or computed tomography (CT) in whom treatment was felt to be indicated. We excluded studies in which the size of aneurysm was not clear. We considered only individuals with asymptomatic AAA undergoing elective aneurysm treatment; we did not consider individuals undergoing emergency repair of an aneurysm.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Endovascular repair of abdominal aortic aneurysm". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: The primary intervention was elective EVAR repair of AAA. This can be performed with a variety of devices that fall into two main groups: aorto‐bi‐iliac devices and aorto‐uni‐iliac devices. We considered all device types. We compared EVAR repair with conventional OSR treatment in individuals considered fit for surgery, and with best medical care in those considered unfit for surgery. Complex and hybrid endovascular techniques (including fenestrated EVAR) were not considered in this review.'
+  required: true

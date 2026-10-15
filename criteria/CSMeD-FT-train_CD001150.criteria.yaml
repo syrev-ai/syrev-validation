@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD001150 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Topical emollient for preventing infection in preterm infants". Does this record meet the review''s eligible study design? Review criterion: Controlled trials using random or quasi‐random participant allocation. Cluster‐randomised trials where the unit of randomisation was a group of infants (for example, in a neonatal unit) were eligible for inclusion. Cross‐over studies that assessed the use of emollient therapy in the same infant were not eligible for inclusion as this design would not permit a meaningful assessment of the effect of the intervention on the primary outcome for this review.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Topical emollient for preventing infection in preterm infants". Does this record study the review''s eligible participants/population? Review criterion: Preterm infants (< 37 weeks gestation)'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Topical emollient for preventing infection in preterm infants". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Ointment or cream versus routine skin care Oil versus routine skin care Ointment or cream versus oil One oil (or combination) versus another oil (or combination) Ointment or cream versus routine skin care Oil versus routine skin care Ointment or cream versus oil One oil (or combination) versus another oil (or combination)'
+  required: true

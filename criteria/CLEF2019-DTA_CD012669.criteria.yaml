@@ -1,0 +1,11 @@
+# Auto-derived from Selection criteria of 10.1002/14651858.cd012669.pub2 (2018) via Europe PMC.
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Point‐of‐care ultrasonography for diagnosing thoracoabdominal injuries in patients with blunt trauma". Selection criteria: We assessed studies for eligibility using predefined inclusion and exclusion criteria. We included either prospective or retrospective diagnostic cohort studies that enrolled patients of any age and gender who sustained any type of blunt injury in a civilian scenario. Eligible studies had to provide sufficient information to construct a 2 x 2 table of diagnostic accuracy to allow for calculating sensitivity, specificity, and other indices of diagnostic test accuracy. Question: does this record meet the review''s eligible study design?'
+  required: true
+- id: population
+  question: 'Cochrane review: "Point‐of‐care ultrasonography for diagnosing thoracoabdominal injuries in patients with blunt trauma". Selection criteria: We assessed studies for eligibility using predefined inclusion and exclusion criteria. We included either prospective or retrospective diagnostic cohort studies that enrolled patients of any age and gender who sustained any type of blunt injury in a civilian scenario. Eligible studies had to provide sufficient information to construct a 2 x 2 table of diagnostic accuracy to allow for calculating sensitivity, specificity, and other indices of diagnostic test accuracy. Question: does this record study the review''s eligible participants/population?'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Point‐of‐care ultrasonography for diagnosing thoracoabdominal injuries in patients with blunt trauma". Selection criteria: We assessed studies for eligibility using predefined inclusion and exclusion criteria. We included either prospective or retrospective diagnostic cohort studies that enrolled patients of any age and gender who sustained any type of blunt injury in a civilian scenario. Eligible studies had to provide sufficient information to construct a 2 x 2 table of diagnostic accuracy to allow for calculating sensitivity, specificity, and other indices of diagnostic test accuracy. Question: does this record evaluate the review''s eligible intervention / exposure / index test / topic?'
+  required: true

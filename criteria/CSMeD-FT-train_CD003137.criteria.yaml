@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT train metadata for CD003137 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Addition to inhaled corticosteroids of long‐acting beta2‐agonists versus anti‐leukotrienes for chronic asthma". Does this record meet the review''s eligible study design? Review criterion: We included randomised controlled trials (RCTs) conducted in adults or children for whom a LABA or an LTRA was added, as a fixed‐dose combination, to ICS treatment.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Addition to inhaled corticosteroids of long‐acting beta2‐agonists versus anti‐leukotrienes for chronic asthma". Does this record study the review''s eligible participants/population? Review criterion: Children or adults with recurrent or persistent asthma treated with ICS as the only asthma control medication before study entry.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Addition to inhaled corticosteroids of long‐acting beta2‐agonists versus anti‐leukotrienes for chronic asthma". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Interventions included LABA (e.g. salmeterol, formoterol) or LTRA (e.g. montelukast, pranlukast, zafirlukast, zileuton). Participants were required to be taking a stable dose of ICS throughout the treatment period. The intervention must have been administered for a minimum of four weeks. Inhaled short‐acting beta2‐agonists and short courses of oral corticosteroids were permitted as rescue interventions.'
+  required: true

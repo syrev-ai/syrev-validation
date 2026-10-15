@@ -1,0 +1,17 @@
+# Muthu 2021 — fragility analysis of statistically significant outcomes of RCTs in spine surgery.
+criteria:
+  - id: design
+    question: "Is the study a randomized controlled trial with a 1:1 parallel two-arm design?"
+    required: true
+  - id: spine
+    question: "Is the study related to spine surgery (involving preoperative, intraoperative, or postoperative variables)?"
+    required: true
+  - id: dichotomous
+    question: "Does the study report a dichotomous primary or secondary outcome (not solely continuous outcomes like pain scores without a predefined clinical-success cutoff)?"
+    required: true
+  - id: significant
+    question: "Does the study report at least one statistically significant primary or secondary outcome measure?"
+    required: true
+  - id: human
+    question: "Does the study involve human subjects (not animal-only)?"
+    required: true

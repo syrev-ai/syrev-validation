@@ -1,0 +1,17 @@
+# Meijboom 2021 — patients retransitioning from biosimilar TNFα inhibitor to originator.
+criteria:
+  - id: transition
+    question: "Does the study involve patients transitioning from a TNFα inhibitor originator (etanercept, infliximab, or adalimumab) to a corresponding biosimilar?"
+    required: true
+  - id: retransition_data
+    question: "Does the study report (or allow calculation of) the number of patients who retransitioned back from the biosimilar to the originator?"
+    required: true
+  - id: original_research
+    question: "Is this an original research article in a peer-reviewed journal (not a congress abstract, review, editorial, or opinion piece)?"
+    required: true
+  - id: baseline
+    question: "Does the article report baseline characteristics of the patients who transitioned?"
+    required: true
+  - id: human_clinical
+    question: "Is this a human clinical study of patients receiving TNFα inhibitor therapy?"
+    required: true

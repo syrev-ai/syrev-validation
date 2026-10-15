@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD006577 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Music for stress and anxiety reduction in coronary heart disease patients". Does this record meet the review''s eligible study design? Review criterion: All randomized clinical trials and quasi‐randomized trials (trials that allocate participants to a treatment by using a method that is not random such as alternate group assignment or date of birth) in any language, published and unpublished, were eligible for inclusion.'
+  required: true
+- id: population
+  question: 'Cochrane review: "Music for stress and anxiety reduction in coronary heart disease patients". Does this record study the review''s eligible participants/population? Review criterion: The review included studies of men, women, and children, inpatient or outpatient, with confirmed coronary heart disease (CHD). The original review included several studies with participants who did not have confirmed CHD (e.g., cardiac diagnostic procedures). For this update we limited the inclusion criteria to studies where all participants had confirmed CHD. Therefore, studies involving cardiac procedures for diagnostic purposes as well as studies with participants with suspected myocardial infarction were not included in this review. We imposed no restrictions as to age, gender, or ethnicity.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Music for stress and anxiety reduction in coronary heart disease patients". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: The review included all studies in which any form of participation in music (e.g. listening to music, singing, playing music) was compared with any form of standard treatment. Studies using music therapy interventions, as defined by the authors, as well as music medicine interventions, as defined by the authors, were considered for inclusion. We did not use length or frequency of music sessions as inclusion criteria for this review.'
+  required: true

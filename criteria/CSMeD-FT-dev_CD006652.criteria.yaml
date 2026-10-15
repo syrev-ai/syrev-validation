@@ -1,0 +1,11 @@
+# Auto-derived from CSMeD-FT dev metadata for CD006652 (Cochrane eligibility sections).
+criteria:
+- id: study_design
+  question: 'Cochrane review: "Parenteral anticoagulation in ambulatory patients with cancer". Does this record meet the review''s eligible study design? Review criterion: Randomized controlled trials (RCTs).'
+  required: true
+- id: population
+  question: 'Cochrane review: "Parenteral anticoagulation in ambulatory patients with cancer". Does this record study the review''s eligible participants/population? Review criterion: Participants with cancer with no standard indication for prophylactic anticoagulation (e.g. for acute illness, for central venous line placement, perioperatively) or for therapeutic anticoagulation (e.g. for the treatment of deep vein thrombosis (DVT) or pulmonary embolism (PE)). Patients could have been of any age group (including children). Typically, these participants are undergoing chemotherapy, hormonal therapy, immunotherapy or radiotherapy.'
+  required: true
+- id: intervention_or_topic
+  question: 'Cochrane review: "Parenteral anticoagulation in ambulatory patients with cancer". Does this record evaluate the review''s eligible intervention / exposure / index test / topic? Review criterion: Intervention arm: parenteral anticoagulants, such as unfractionated heparin or low molecular weight heparin (LMWH). Comparator intervention: placebo or no intervention. The trial protocol should have planned to provide all other co‐interventions (e.g. chemotherapy) similarly.'
+  required: true
