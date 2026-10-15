@@ -6,7 +6,7 @@ This repository holds the per-review results, criteria and scripts behind the va
 **https://syrev.ai/validation**. SyRev (https://syrev.ai) is a web app for AI-assisted title/abstract screening
 in systematic reviews. (SyRev is not Sysrev, which is a separate, unrelated product.)
 
-Report DOI: **10.5281/zenodo.23399663** (reserved, *pending publication*; it will not resolve until the Zenodo record is published).
+Report DOI: **10.5281/zenodo.23399663** (published on Zenodo: https://doi.org/10.5281/zenodo.23399663).
 
 ## Summary
 
